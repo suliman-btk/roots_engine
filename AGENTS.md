@@ -202,3 +202,15 @@ belongs in `review-notes.md`; it is not permission to improvise.
 Read `docs/act-engine-lesson-procedure.md`, `docs/agent-workflow.md` and
 `shared/production-guidelines.md` before editing lesson data or renderer behavior.
 
+
+## Choosing visual designs (ROOTS and every script-video lesson)
+
+Never choose a diagram or card design for variety or decoration. Choose the one whose shape
+matches the structure of the information in the narration, and say why.
+
+- Follow "How to choose a design" in `docs/roots-visual-planning.md`: name the structure of the
+  passage, match it to the design guide, run the three-question test, and fall back to
+  `statement` or `checklist` when no diagram fits.
+- Every diagram beat in a `.visuals.json` carries a one-line `"why"`.
+- Card text comes from the narration; numbers are never invented.
+- Run `python3 production/scripts/check_visual_plan.py <script>.md` and fix all errors before building.

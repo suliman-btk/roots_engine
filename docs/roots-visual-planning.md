@@ -18,6 +18,73 @@ Lesson 01 is the reference implementation.
 7. Final after approval: same command with `--crf=16` and `-final.mp4`.
 8. Commit on branch `lesson/roots/NN`.
 
+## How to choose a design (mandatory reasoning — do not pick for variety)
+
+For every beat, work through these steps before writing it. The design must be the one whose
+**shape matches the shape of the information**. If you cannot say why in one line, the design is wrong.
+
+1. **Read the passage and name its structure.** What is the narration actually doing?
+   - naming separate examples → a set
+   - doing things in order → a sequence
+   - one thing made of parts → a whole
+   - one thing at the centre with parts around it → a hub
+   - two things set against each other → a contrast
+   - two things that work together → a partnership
+   - something that narrows, builds, balances, repeats, drives, or hides → a movement
+   - a rule that depends on a condition → a decision
+   - a term being explained → a definition
+   - a number being stated → a figure
+2. **Match structure → design** with the table below. Take the *first* row whose "use when" is true.
+3. **Test the pick** — all three must be yes:
+   - Would the viewer understand the relationship with the voice muted?
+   - Does every card text come from words the narrator says?
+   - Is the number of items within the design's limits, and does the order of the items match the order spoken?
+4. **If the test fails, choose the next-best row. If nothing fits, use `statement` or `checklist` — plain is better than a diagram that says the wrong thing.**
+5. **Write the reason** in the beat as `"why"` (sibling of `visual`), e.g. `"why": "narrator contrasts delivery with learning → before-after"`. The checker warns when it is missing.
+
+### Design guide: use when / do not use when
+
+| Design | Use when the narration… | Do NOT use when |
+|---|---|---|
+| `statement` | gives one key sentence to remember | there are several parallel things to show |
+| `question` | poses a question to the learner | the question is answered immediately with a list |
+| `checklist` | lists things to do, check, or consider (2–6) | the items are ordered, or have a relationship to each other |
+| `card-grid` | names separate, equal examples with no order | items are steps, or one is the goal |
+| `process` | gives ordered steps, one direction (3–5) | the steps loop, or it is a long journey |
+| `roadmap-path` | describes a longer journey with milestones (3–6) | there are only two or three quick steps |
+| `timeline` | tells events in time, or a dialogue/sequence of moments | the order is not about time |
+| `cycle` | describes a loop that repeats, ending where it began | the last step does not lead back to the first |
+| `staircase` | shows growth by levels, each one higher than the last | levels are parallel, not progressive |
+| `pyramid` | builds from a foundation up to a peak | there is no top, or items are equal |
+| `layer-stack` | describes layers that sit on or align with each other | the items are not stacked in meaning |
+| `target` | says several things all aim at one goal (last = goal) | there is no single goal |
+| `mind-map` | has one central idea with 3–6 parts around it (`center`) | the parts are ordered, or there are only two |
+| `quadrant` | names exactly four areas of one idea | there are 3 or 5 |
+| `venn` | shows two or three ideas that overlap into something new | the ideas do not overlap |
+| `donut` | shows facets that together make one whole | the facets are steps |
+| `bar-chart` | compares quantities that the narration states | no numbers are spoken |
+| `comparison` | sets two groups side by side (`joiner` `VS`, `+`, or `?`) | one side is simply wrong or to be avoided |
+| `before-after` | says "not X, but Y", "instead of", "rather than" | both sides are equally good |
+| `funnel` | narrows many options or inputs to one result | nothing is filtered out |
+| `spectrum` | places things on a continuum between two poles | the items are not on one scale |
+| `balance` | keeps two sides in balance or weighs them (≤3 per side) | the sides are not in tension |
+| `decision-tree` | says "if A then X, if B then Y" — a choice driven by a condition | no condition decides the action |
+| `iceberg` | contrasts what is visible with what lies beneath | nothing is hidden |
+| `stat-tiles` | states real numbers ("five domains, fifteen principles") | the number is not spoken — never invent one |
+| `gears` | says parts drive or depend on each other (2–4) | the parts are independent |
+| `definition` | explains a key term and what it means | there is no term being defined |
+| `outro` | closes the lesson / points to the next | — |
+| `title` | opening slide only | any later slide |
+
+### Common mistakes
+
+- Using `cycle` for steps that do not repeat → use `process`.
+- Using `before-after` when both sides are good → use `comparison`.
+- Using `mind-map` for a list in a fixed order → use `process` or `checklist`.
+- Using `pyramid`/`staircase` when nothing is "higher" than anything else → use `card-grid`.
+- Picking a design only because the last slide used a different one.
+- Shortening card text until it no longer says what the narrator said.
+
 ## Rules for the visual plan
 
 **Content must come from the narration.**
@@ -31,7 +98,7 @@ Lesson 01 is the reference implementation.
   make them one card.
 - Phrases must appear exactly once in that section's narration (add a neighbouring word if not).
 
-**Pick the design from the meaning, not for variety alone.**
+**Quick lookup by narration pattern** (the guide above gives the full test):
 
 | The narration says… | Use |
 |---|---|

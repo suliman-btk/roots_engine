@@ -39,6 +39,7 @@ def main(script: Path) -> int:
     errors: list[str] = []
     warnings: list[str] = []
     kinds: Counter[str] = Counter()
+    missing_why: list[str] = []
     for block in blocks:
         beats = plan.get(block.section)
         if not beats:
@@ -70,6 +71,8 @@ def main(script: Path) -> int:
                     num = item.split("|")[0].strip().lower()
                     if num not in spoken and NUM_WORDS.get(num) not in spoken:
                         errors.append(f"{block.section} beat {k}: stat {num!r} is not spoken in the narration — never invent numbers")
+            if items and v["kind"] not in {"title", "statement", "question", "outro"} and not str(beat.get("why", "")).strip():
+                missing_why.append(f"{block.section} beat {k}")
             phrases = v.get("itemPhrases") or []
             if items and not phrases:
                 warnings.append(f"{block.section} beat {k}: items have no itemPhrases — cards will not sync to the voice")
@@ -94,6 +97,8 @@ def main(script: Path) -> int:
     top = kinds.most_common(1)
     if top and sum(kinds.values()) and top[0][1] / sum(kinds.values()) > 0.3 and top[0][0] not in {"statement"}:
         warnings.append(f"'{top[0][0]}' is used for over 30% of slides — vary the designs")
+    if missing_why:
+        warnings.append(f"{len(missing_why)} diagram beat(s) have no \"why\" (state why this design fits the narration): {', '.join(missing_why[:6])}{' …' if len(missing_why) > 6 else ''}")
     for w in warnings:
         print("WARN ", w)
     for e in errors:
