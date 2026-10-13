@@ -1,72 +1,802 @@
 {
   "Scene 001": [
-    {"visual": {"kind": "title", "title": "Welcome to ROOTS", "kicker": "Lesson 01"}},
-    {"atPhrase": "Let us begin with a question that matters in every classroom", "visual": {"kind": "question", "title": "How do you know that learning has truly happened?", "kicker": "Begin with evidence"}},
-    {"atPhrase": "Finishing an explanation is not the same as seeing learning", "visual": {"kind": "comparison", "title": "Completion is not evidence of learning", "kicker": "A crucial distinction", "items": ["Explanation finished", "Content completed", "Understanding visible", "Application demonstrated"], "itemPhrases": ["Finishing an explanation", "Completing planned content", "what learners understood", "can now apply"]}},
-    {"atPhrase": "In ROOTS, we focus on what learners encounter", "visual": {"kind": "cycle", "title": "Follow the complete learner experience", "kicker": "ROOTS focus", "items": ["Encounter", "Do", "Think", "Show evidence", "Continue"], "itemPhrases": ["what learners encounter", "what they do", "how they think", "what evidence they show", "how learning can continue"]}}
+    {
+      "visual": {
+        "kind": "title",
+        "title": "Welcome to ROOTS",
+        "kicker": "Lesson 01"
+      }
+    },
+    {
+      "atPhrase": "Let us begin with a question that matters in every classroom",
+      "visual": {
+        "kind": "question",
+        "title": "How do you know that learning has truly happened?",
+        "kicker": "Begin with evidence"
+      }
+    },
+    {
+      "atPhrase": "Finishing an explanation is not the same as seeing learning",
+      "visual": {
+        "kind": "before-after",
+        "title": "Completion is not evidence of learning",
+        "kicker": "A crucial distinction",
+        "leftLabel": "Completed",
+        "rightLabel": "Learned",
+        "leftCount": 2,
+        "items": [
+          "Explanation finished",
+          "Content completed",
+          "Understood and practised",
+          "Can now apply"
+        ],
+        "itemPhrases": [
+          "Finishing an explanation",
+          "Completing planned content",
+          "what learners understood",
+          "can now apply"
+        ]
+      }
+    },
+    {
+      "atPhrase": "In ROOTS, we focus on what learners encounter",
+      "visual": {
+        "kind": "cycle",
+        "title": "Follow the complete learner experience",
+        "kicker": "ROOTS focus",
+        "items": [
+          "Encounter",
+          "Do",
+          "Think",
+          "Show evidence",
+          "Continue"
+        ],
+        "itemPhrases": [
+          "what learners encounter",
+          "what they do",
+          "how they think",
+          "what evidence they show",
+          "how learning can continue"
+        ]
+      }
+    }
   ],
   "Scene 002": [
-    {"visual": {"kind": "card-grid", "title": "Recall a recent lesson", "kicker": "Teacher reflection", "items": ["Content explained", "Questions asked", "Activities prepared"], "itemPhrases": ["the content you explained", "the questions you asked", "the activities you prepared"]}},
-    {"atPhrase": "Now shift your attention to the learners", "visual": {"kind": "question", "title": "What did the learners do, connect, and reveal?", "kicker": "Shift the viewpoint"}},
-    {"atPhrase": "At NAMA Foundation, this change of viewpoint is central to ROOTS", "visual": {"kind": "comparison", "title": "Move from delivery to the learner experience", "kicker": "The ROOTS viewpoint", "items": ["Teacher delivery", "Content coverage", "Learner participation", "Thinking and evidence"], "itemPhrases": ["what the teacher delivers", "what the teacher delivers", "complete experience through which learners participate", "learners participate, think"]}}
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Recall a recent lesson",
+        "kicker": "Teacher reflection",
+        "items": [
+          "Content explained",
+          "Questions asked",
+          "Activities prepared"
+        ],
+        "itemPhrases": [
+          "the content you explained",
+          "the questions you asked",
+          "the activities you prepared"
+        ]
+      }
+    },
+    {
+      "atPhrase": "Now shift your attention to the learners",
+      "visual": {
+        "kind": "question",
+        "title": "What did the learners do, connect, and reveal?",
+        "kicker": "Shift the viewpoint"
+      }
+    },
+    {
+      "atPhrase": "At NAMA Foundation, this change of viewpoint is central to ROOTS",
+      "visual": {
+        "kind": "before-after",
+        "title": "Move from delivery to the learner experience",
+        "kicker": "The ROOTS viewpoint",
+        "leftLabel": "From",
+        "rightLabel": "To the learner experience",
+        "leftCount": 1,
+        "items": [
+          "What the teacher delivers",
+          "Participate",
+          "Think",
+          "Practise",
+          "Reflect",
+          "Demonstrate learning"
+        ],
+        "itemPhrases": [
+          "what the teacher delivers",
+          "learners participate",
+          "participate think",
+          "think practise",
+          "practise reflect",
+          "and demonstrate learning"
+        ]
+      }
+    }
   ],
   "Scene 003": [
-    {"visual": {"kind": "statement", "title": "A learner experience is broader than a presentation or activity", "kicker": "The whole experience"}},
-    {"atPhrase": "It includes the setting, interactions, explanations", "visual": {"kind": "card-grid", "title": "Learning is shaped by connected elements", "kicker": "Experience components", "items": ["Setting", "Interactions", "Explanations", "Questions", "Practice", "Reflection and feedback"], "itemPhrases": ["It includes the setting", "setting, interactions", "interactions, explanations", "explanations, questions", "questions, practice", "reflection, feedback"]}},
-    {"atPhrase": "It may happen in a classroom, outdoors", "visual": {"kind": "timeline", "title": "Learning can happen in many environments", "kicker": "Context changes", "items": ["Classroom", "Outdoors", "Digital environment"], "itemPhrases": ["in a classroom", "classroom, outdoors", "digital environment"]}},
-    {"atPhrase": "The important point is how the parts of the experience work together", "visual": {"kind": "process", "title": "Keep every decision connected to achievement", "kicker": "Deliberate design", "items": ["Content", "Participation", "Sequence", "Review", "Achievement"], "itemPhrases": ["decisions about content", "content, participation", "participation, sequence", "sequence, and review", "learners are expected to achieve"]}}
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "A learner experience is broader than a presentation or activity",
+        "kicker": "The whole experience"
+      }
+    },
+    {
+      "atPhrase": "It includes the setting, interactions, explanations",
+      "visual": {
+        "kind": "mind-map",
+        "title": "Learning is shaped by connected elements",
+        "kicker": "Experience components",
+        "items": [
+          "Setting",
+          "Interactions",
+          "Explanations",
+          "Questions",
+          "Practice",
+          "Reflection and feedback"
+        ],
+        "itemPhrases": [
+          "It includes the setting",
+          "setting, interactions",
+          "interactions, explanations",
+          "explanations, questions",
+          "questions, practice",
+          "reflection, feedback"
+        ],
+        "center": "Learner experience"
+      }
+    },
+    {
+      "atPhrase": "It may happen in a classroom, outdoors",
+      "visual": {
+        "kind": "card-grid",
+        "title": "Learning can happen in many environments",
+        "kicker": "Context changes",
+        "items": [
+          "Classroom",
+          "Outdoors",
+          "Digital environment"
+        ],
+        "itemPhrases": [
+          "in a classroom",
+          "classroom, outdoors",
+          "digital environment"
+        ]
+      }
+    },
+    {
+      "atPhrase": "The important point is how the parts of the experience work together",
+      "visual": {
+        "kind": "target",
+        "title": "Keep every decision connected to achievement",
+        "kicker": "Deliberate design",
+        "items": [
+          "Content",
+          "Participation",
+          "Sequence",
+          "Review",
+          "Achievement"
+        ],
+        "itemPhrases": [
+          "decisions about content",
+          "content, participation",
+          "participation, sequence",
+          "sequence, and review",
+          "learners are expected to achieve"
+        ]
+      }
+    }
   ],
   "Scene 004": [
-    {"visual": {"kind": "statement", "title": "The learner-centred shift guides ROOTS", "kicker": "A purposeful change"}},
-    {"atPhrase": "Learner-centred teaching considers learners’ needs", "visual": {"kind": "card-grid", "title": "See the learner as a whole", "kicker": "Learner-centred teaching", "items": ["Needs", "Differences", "Ideas", "Experiences", "Participation", "Expected outcomes"], "itemPhrases": ["needs", "differences", "ideas", "experiences", "participation", "expected outcomes"]}},
-    {"atPhrase": "It does not mean that the teacher becomes unimportant", "visual": {"kind": "comparison", "title": "Learner-centred does not remove teacher direction", "kicker": "Clarify the shift", "items": ["Teacher absent", "Learners without direction", "Teacher purposeful", "Learners supported"], "itemPhrases": ["teacher becomes unimportant", "learners without direction", "teacher’s role as more purposeful", "teacher’s role as more purposeful"]}},
-    {"atPhrase": "The teacher prepares and explains", "visual": {"kind": "process", "title": "Purposeful teaching responds to evidence", "kicker": "Teacher actions", "items": ["Prepare and explain", "Observe", "Ask and listen", "Guide practice", "Use evidence"], "itemPhrases": ["teacher prepares and explains", "but also observes", "asks, listens", "provides opportunities for practice", "uses evidence"]}}
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "The learner-centred shift guides ROOTS",
+        "kicker": "A purposeful change"
+      }
+    },
+    {
+      "atPhrase": "Learner-centred teaching considers learners’ needs",
+      "visual": {
+        "kind": "donut",
+        "title": "See the learner as a whole",
+        "kicker": "Learner-centred teaching",
+        "items": [
+          "Needs",
+          "Differences",
+          "Ideas",
+          "Experiences",
+          "Participation",
+          "Expected outcomes"
+        ],
+        "itemPhrases": [
+          "needs",
+          "differences",
+          "ideas",
+          "experiences",
+          "participation",
+          "expected outcomes"
+        ],
+        "center": "The whole learner"
+      }
+    },
+    {
+      "atPhrase": "It does not mean that the teacher becomes unimportant",
+      "visual": {
+        "kind": "before-after",
+        "title": "Learner-centred does not remove teacher direction",
+        "kicker": "Clarify the shift",
+        "leftLabel": "It does not mean",
+        "rightLabel": "It means",
+        "leftCount": 2,
+        "items": [
+          "The teacher becomes unimportant",
+          "Learners left without direction",
+          "A more purposeful teacher role"
+        ],
+        "itemPhrases": [
+          "teacher becomes unimportant",
+          "learners without direction",
+          "role as more purposeful"
+        ]
+      }
+    },
+    {
+      "atPhrase": "The teacher prepares and explains",
+      "visual": {
+        "kind": "process",
+        "title": "Purposeful teaching responds to evidence",
+        "kicker": "Teacher actions",
+        "items": [
+          "Prepare and explain",
+          "Observe",
+          "Ask and listen",
+          "Guide practice",
+          "Use evidence"
+        ],
+        "itemPhrases": [
+          "teacher prepares and explains",
+          "but also observes",
+          "asks, listens",
+          "provides opportunities for practice",
+          "uses evidence"
+        ]
+      }
+    }
   ],
   "Scene 005": [
-    {"visual": {"kind": "title", "title": "Active Deep Learner eXperience", "kicker": "ADLX at the centre"}},
-    {"atPhrase": "Active learning means that learners are involved", "visual": {"kind": "comparison", "title": "Active and deep learning work together", "kicker": "Two reinforcing qualities", "items": ["Doing", "Thinking about doing", "Seeking meaning", "Connecting ideas"], "itemPhrases": ["involved in doing things", "thinking about what they are doing", "Deep learning means that they seek meaning", "connect new ideas"]}},
-    {"atPhrase": "We bring these qualities together within the whole learner experience", "visual": {"kind": "cycle", "title": "Active and deep qualities form one experience", "kicker": "The complete experience", "items": ["Active involvement", "Deep meaning", "Whole experience"], "itemPhrases": ["these qualities together", "these qualities together", "whole learner experience"]}},
-    {"atPhrase": "Our purpose is not to keep learners busy", "visual": {"kind": "comparison", "title": "Purposeful experience—not busy work", "kicker": "The intention of ADLX", "items": ["Keeping busy", "Activity alone", "Enjoyable experience", "Impactful learning"], "itemPhrases": ["keep learners busy", "keep learners busy", "enjoyable and impactful experience", "impactful experience"]}}
+    {
+      "visual": {
+        "kind": "title",
+        "title": "Active Deep Learner eXperience",
+        "kicker": "ADLX at the centre"
+      }
+    },
+    {
+      "atPhrase": "Active learning means that learners are involved",
+      "visual": {
+        "kind": "comparison",
+        "title": "Active and deep learning work together",
+        "kicker": "Two reinforcing qualities",
+        "leftLabel": "Active",
+        "rightLabel": "Deep",
+        "joiner": "+",
+        "leftCount": 2,
+        "items": [
+          "Doing things",
+          "Thinking about doing",
+          "Seeking meaning",
+          "Connecting ideas"
+        ],
+        "itemPhrases": [
+          "involved in doing things",
+          "thinking about what they are doing",
+          "they seek meaning",
+          "connect new ideas"
+        ]
+      }
+    },
+    {
+      "atPhrase": "We bring these qualities together within the whole learner experience",
+      "visual": {
+        "kind": "venn",
+        "title": "Active and deep qualities form one experience",
+        "kicker": "The complete experience",
+        "items": [
+          "Active involvement",
+          "Deep meaning"
+        ],
+        "center": "Whole experience",
+        "itemPhrases": [
+          "We bring these",
+          "together within the whole"
+        ]
+      }
+    },
+    {
+      "atPhrase": "Our purpose is not to keep learners busy",
+      "visual": {
+        "kind": "before-after",
+        "title": "Purposeful experience—not busy work",
+        "kicker": "The intention of ADLX",
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1,
+        "items": [
+          "Keeping learners busy",
+          "Enjoyable",
+          "Impactful",
+          "Strengthens learning"
+        ],
+        "itemPhrases": [
+          "keep learners busy",
+          "an enjoyable and",
+          "impactful experience",
+          "strengthen learning"
+        ]
+      }
+    }
   ],
   "Scene 006": [
-    {"visual": {"kind": "comparison", "title": "Activity is not automatically purposeful", "kicker": "Look beneath visible action", "items": ["Moving", "Speaking", "Completing a task", "Thinking for learning"], "itemPhrases": ["A learner may be moving", "moving, speaking", "completing a task", "what thinking does this activity require"]}},
-    {"atPhrase": "Through ROOTS, we connect active involvement with deeper meaning", "visual": {"kind": "cycle", "title": "Connect involvement with deeper meaning", "kicker": "A coherent experience", "items": ["Engage", "Connect ideas", "Review experience", "Recognize learning"], "itemPhrases": ["opportunities to engage", "engage, connect ideas", "review experience", "recognize what they have learned"]}},
-    {"atPhrase": "This is why we do not present ADLX as one technique", "visual": {"kind": "statement", "title": "ADLX examines the quality and coherence of the complete experience", "kicker": "From the learner’s point of view"}}
+    {
+      "visual": {
+        "kind": "comparison",
+        "title": "Activity is not automatically purposeful",
+        "kicker": "Look beneath visible action",
+        "leftLabel": "Visible activity",
+        "rightLabel": "Ask",
+        "joiner": "?",
+        "leftCount": 3,
+        "items": [
+          "Moving",
+          "Speaking",
+          "Completing a task",
+          "What thinking does it require?",
+          "How does it support learning?"
+        ],
+        "itemPhrases": [
+          "may be moving",
+          "moving speaking",
+          "completing a task",
+          "what thinking does this activity require",
+          "how does it support"
+        ]
+      }
+    },
+    {
+      "atPhrase": "Through ROOTS, we connect active involvement with deeper meaning",
+      "visual": {
+        "kind": "cycle",
+        "title": "Connect involvement with deeper meaning",
+        "kicker": "A coherent experience",
+        "items": [
+          "Engage",
+          "Connect ideas",
+          "Review experience",
+          "Recognize learning"
+        ],
+        "itemPhrases": [
+          "opportunities to engage",
+          "engage, connect ideas",
+          "review experience",
+          "recognize what they have learned"
+        ]
+      }
+    },
+    {
+      "atPhrase": "This is why we do not present ADLX as one technique",
+      "visual": {
+        "kind": "statement",
+        "title": "ADLX examines the quality and coherence of the complete experience",
+        "kicker": "From the learner’s point of view"
+      }
+    }
   ],
   "Scene 007": [
-    {"visual": {"kind": "statement", "title": "FIRST supports ADLX within ROOTS", "kicker": "Five domains · Fifteen principles"}},
-    {"atPhrase": "F focuses on learner behaviour", "visual": {"kind": "staircase", "title": "The five connected FIRST domains", "kicker": "F · I · R · S · T", "items": ["F · Learner behaviour", "I · Positive interaction", "R · Readiness, activity, review", "S · Learning sequence", "T · Performance"], "itemPhrases": ["F focuses on learner behaviour", "I focuses on interaction", "R focuses on reviewing activities", "S focuses on sequencing learning", "T focuses on transforming learning"]}},
-    {"atPhrase": "We do not treat these domains as separate classroom tricks", "visual": {"kind": "cycle", "title": "FIRST works as connected layers", "kicker": "Not isolated techniques", "items": ["Not separate tricks", "Connect the layers", "Guide experience", "Design and facilitate"], "itemPhrases": ["domains as separate classroom tricks", "connect them as layers", "guide how a learning experience", "designed and facilitated"]}}
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "FIRST supports ADLX within ROOTS",
+        "kicker": "Five domains · Fifteen principles"
+      }
+    },
+    {
+      "atPhrase": "F focuses on learner behaviour",
+      "visual": {
+        "kind": "pyramid",
+        "title": "The five connected FIRST domains",
+        "kicker": "F · I · R · S · T",
+        "items": [
+          "F · Learner behaviour",
+          "I · Positive interaction",
+          "R · Readiness, activity, review",
+          "S · Learning sequence",
+          "T · Performance"
+        ],
+        "itemPhrases": [
+          "F focuses on learner behaviour",
+          "I focuses on interaction",
+          "R focuses on reviewing activities",
+          "S focuses on sequencing learning",
+          "T focuses on transforming learning"
+        ]
+      }
+    },
+    {
+      "atPhrase": "We do not treat these domains as separate classroom tricks",
+      "visual": {
+        "kind": "before-after",
+        "title": "FIRST works as connected layers",
+        "kicker": "Not isolated techniques",
+        "leftLabel": "Not",
+        "rightLabel": "Instead",
+        "leftCount": 1,
+        "items": [
+          "Separate classroom tricks",
+          "Connected layers",
+          "Guide design",
+          "Guide facilitation"
+        ],
+        "itemPhrases": [
+          "separate classroom tricks",
+          "connect them as layers",
+          "learning experience is designed",
+          "and facilitated"
+        ]
+      }
+    }
   ],
   "Scene 008": [
-    {"visual": {"kind": "statement", "title": "Use FIRST as a complete framework", "kicker": "From learners to performance"}},
-    {"atPhrase": "We begin by understanding learners and the evidence", "visual": {"kind": "process", "title": "Build the experience in a coherent sequence", "kicker": "How ROOTS uses FIRST", "items": ["Understand learners", "Shape conditions", "Prepare, involve, review", "Organize sequence", "Connect to performance"], "itemPhrases": ["understanding learners", "conditions that shape interaction", "We prepare learners", "We organize ideas and activities", "Finally, we connect learning"]}},
-    {"atPhrase": "As we study each principle together", "visual": {"kind": "cycle", "title": "Keep the whole picture in mind", "kicker": "FIRST supports ADLX", "items": ["FIRST principles", "Complete experience", "Active learning", "Deep learning"], "itemPhrases": ["each principle together", "complete Active Deep Learner eXperience", "Active Deep Learner", "Deep Learner eXperience"]}}
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Use FIRST as a complete framework",
+        "kicker": "From learners to performance"
+      }
+    },
+    {
+      "atPhrase": "We begin by understanding learners and the evidence",
+      "visual": {
+        "kind": "roadmap-path",
+        "title": "Build the experience in a coherent sequence",
+        "kicker": "How ROOTS uses FIRST",
+        "items": [
+          "Understand learners",
+          "Shape conditions",
+          "Prepare, involve, review",
+          "Organize sequence",
+          "Connect to performance"
+        ],
+        "itemPhrases": [
+          "understanding learners",
+          "conditions that shape interaction",
+          "We prepare learners",
+          "We organize ideas and activities",
+          "Finally, we connect learning"
+        ]
+      }
+    },
+    {
+      "atPhrase": "As we study each principle together",
+      "visual": {
+        "kind": "venn",
+        "title": "Keep the whole picture in mind",
+        "kicker": "FIRST supports ADLX",
+        "items": [
+          "Each principle",
+          "The whole picture"
+        ],
+        "center": "Complete ADLX",
+        "itemPhrases": [
+          "study each principle",
+          "the whole picture"
+        ]
+      }
+    }
   ],
   "Scene 009": [
-    {"visual": {"kind": "statement", "title": "Learning outcomes keep ROOTS focused", "kicker": "Significant learning"}},
-    {"atPhrase": "It directs attention to what learners should know", "visual": {"kind": "comparison", "title": "Focus on what learners can demonstrate", "kicker": "Outcome—not coverage", "items": ["Know", "Be able to do", "Be willing to demonstrate", "Teacher coverage"], "itemPhrases": ["learners should know", "be able to do", "or be willing to", "teacher intends to cover"]}},
-    {"atPhrase": "Assessment then provides evidence", "visual": {"kind": "process", "title": "Align the learning system", "kicker": "Evidence supports decisions", "items": ["Assessment evidence", "Content", "Teacher decisions", "Learner activity", "Evaluation"], "itemPhrases": ["Assessment then provides evidence", "We connect content", "content, teacher decisions", "learner activity", "and evaluation"]}},
-    {"atPhrase": "This alignment helps us judge learning through evidence", "visual": {"kind": "comparison", "title": "Judge learning through evidence", "kicker": "Reliable decisions", "items": ["Evidence", "Demonstrated learning", "Impressions", "Completed content"], "itemPhrases": ["judge learning through evidence", "judge learning through evidence", "relying only on impressions", "completed content"]}}
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Learning outcomes keep ROOTS focused",
+        "kicker": "Significant learning"
+      }
+    },
+    {
+      "atPhrase": "It directs attention to what learners should know",
+      "visual": {
+        "kind": "before-after",
+        "title": "Focus on what learners can demonstrate",
+        "kicker": "Outcome—not coverage",
+        "leftLabel": "Not simply",
+        "rightLabel": "What learners should",
+        "leftCount": 1,
+        "items": [
+          "What the teacher intends to cover",
+          "Know",
+          "Be able to do",
+          "Be willing to demonstrate"
+        ],
+        "itemPhrases": [
+          "teacher intends to cover",
+          "learners should know",
+          "be able to do",
+          "be willing to demonstrate"
+        ]
+      }
+    },
+    {
+      "atPhrase": "Assessment then provides evidence",
+      "visual": {
+        "kind": "mind-map",
+        "title": "Align the learning system",
+        "kicker": "Evidence supports decisions",
+        "center": "Intended outcomes",
+        "items": [
+          "Assessment evidence",
+          "Content",
+          "Teacher decisions",
+          "Learner activity",
+          "Evaluation"
+        ],
+        "itemPhrases": [
+          "Assessment then provides evidence",
+          "We connect content",
+          "content teacher decisions",
+          "learner activity",
+          "and evaluation"
+        ]
+      }
+    },
+    {
+      "atPhrase": "This alignment helps us judge learning through evidence",
+      "visual": {
+        "kind": "before-after",
+        "title": "Judge learning through evidence",
+        "kicker": "Reliable decisions",
+        "leftLabel": "Not only",
+        "rightLabel": "Judge through",
+        "leftCount": 2,
+        "items": [
+          "Impressions",
+          "Completed content",
+          "Evidence"
+        ],
+        "itemPhrases": [
+          "relying only on impressions",
+          "or completed content",
+          "learning through evidence"
+        ]
+      }
+    }
   ],
   "Scene 010": [
-    {"visual": {"kind": "statement", "title": "ROOTS connects with four areas of teacher practice", "kicker": "Framework into practice"}},
-    {"atPhrase": "Learner eXperience Design, or LXD", "visual": {"kind": "card-grid", "title": "Four connected practice areas", "kicker": "Design · Facilitate · Coach · Improve", "items": ["LXD · Experience design", "LXF · Facilitation", "LXC · Teacher coaching", "MnC · Mentoring and coaching"], "itemPhrases": ["Learner eXperience Design", "Learner eXperience Facilitation", "Learner eXperience Coaching", "Mentoring and Coaching"]}},
-    {"atPhrase": "support listening, questioning, feedback", "visual": {"kind": "checklist", "title": "Coaching practices support improvement", "kicker": "LXC and MnC", "items": ["Listening", "Questioning", "Feedback", "Feedforward", "Reflection", "Improvement"], "itemPhrases": ["support listening", "listening, questioning", "questioning, feedback", "feedback, feedforward", "feedforward, reflection", "and improvement"]}},
-    {"atPhrase": "Within ROOTS, we address LXC and MnC at teacher application level", "visual": {"kind": "comparison", "title": "Teacher application—not certification", "kicker": "Scope of ROOTS", "items": ["Teacher application", "Classroom use", "Professional coaching", "Certification"], "itemPhrases": ["teacher application level", "teacher application level", "professional coaching certification", "professional coaching certification"]}}
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "ROOTS connects with four areas of teacher practice",
+        "kicker": "Framework into practice"
+      }
+    },
+    {
+      "atPhrase": "Learner eXperience Design, or LXD",
+      "visual": {
+        "kind": "quadrant",
+        "title": "Four connected practice areas",
+        "kicker": "Design · Facilitate · Coach · Improve",
+        "items": [
+          "LXD · Experience design",
+          "LXF · Facilitation",
+          "LXC · Teacher coaching",
+          "MnC · Mentoring and coaching"
+        ],
+        "itemPhrases": [
+          "Learner eXperience Design",
+          "Learner eXperience Facilitation",
+          "Learner eXperience Coaching",
+          "Mentoring and Coaching"
+        ],
+        "center": "ROOTS"
+      }
+    },
+    {
+      "atPhrase": "support listening, questioning, feedback",
+      "visual": {
+        "kind": "checklist",
+        "title": "Coaching practices support improvement",
+        "kicker": "LXC and MnC",
+        "items": [
+          "Listening",
+          "Questioning",
+          "Feedback",
+          "Feedforward",
+          "Reflection",
+          "Improvement"
+        ],
+        "itemPhrases": [
+          "support listening",
+          "listening, questioning",
+          "questioning, feedback",
+          "feedback, feedforward",
+          "feedforward, reflection",
+          "and improvement"
+        ]
+      }
+    },
+    {
+      "atPhrase": "Within ROOTS, we address LXC and MnC at teacher application level",
+      "visual": {
+        "kind": "before-after",
+        "title": "Teacher application—not certification",
+        "kicker": "Scope of ROOTS",
+        "leftLabel": "Not",
+        "rightLabel": "Within ROOTS",
+        "leftCount": 1,
+        "items": [
+          "Professional coaching certification",
+          "Teacher application level"
+        ],
+        "itemPhrases": [
+          "professional coaching certification",
+          "at teacher application level"
+        ]
+      }
+    }
   ],
   "Scene 011": [
-    {"visual": {"kind": "card-grid", "title": "Understanding develops through evidence", "kicker": "Course progress", "items": ["Questions", "Situations", "Reflection"], "itemPhrases": ["through questions", "questions, situations", "and reflection"]}},
-    {"atPhrase": "Application will be shown by examining learning", "visual": {"kind": "process", "title": "Show application through practice", "kicker": "Evidence in action", "items": ["Examine learning", "Design or redesign", "Plan facilitation", "Consider a coaching case", "Review evidence"], "itemPhrases": ["examining learning", "designing or redesigning", "planning facilitation", "considering a teacher-level coaching case", "reviewing evidence"]}},
-    {"atPhrase": "We do not treat evaluation as a collection of disconnected tasks", "visual": {"kind": "comparison", "title": "Keep evaluation connected", "kicker": "Meaningful evidence", "items": ["Disconnected tasks", "Activity without purpose", "Taught content", "Expected outcome"], "itemPhrases": ["collection of disconnected tasks", "collection of disconnected tasks", "content we have already taught", "outcome you are expected to achieve"]}},
-    {"atPhrase": "In this way, evaluation remains a meaningful part", "visual": {"kind": "outro", "title": "Evaluation remains part of the learning journey", "kicker": "Evidence with purpose"}}
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Understanding develops through evidence",
+        "kicker": "Course progress",
+        "items": [
+          "Questions",
+          "Situations",
+          "Reflection"
+        ],
+        "itemPhrases": [
+          "through questions",
+          "questions, situations",
+          "and reflection"
+        ]
+      }
+    },
+    {
+      "atPhrase": "Application will be shown by examining learning",
+      "visual": {
+        "kind": "process",
+        "title": "Show application through practice",
+        "kicker": "Evidence in action",
+        "items": [
+          "Examine learning",
+          "Design or redesign",
+          "Plan facilitation",
+          "Consider a coaching case",
+          "Review evidence"
+        ],
+        "itemPhrases": [
+          "examining learning",
+          "designing or redesigning",
+          "planning facilitation",
+          "considering a teacher-level coaching case",
+          "reviewing evidence"
+        ]
+      }
+    },
+    {
+      "atPhrase": "We do not treat evaluation as a collection of disconnected tasks",
+      "visual": {
+        "kind": "before-after",
+        "title": "Keep evaluation connected",
+        "kicker": "Meaningful evidence",
+        "leftLabel": "Not",
+        "rightLabel": "Each piece of evidence links to",
+        "leftCount": 1,
+        "items": [
+          "Disconnected tasks",
+          "Content already taught",
+          "An expected outcome"
+        ],
+        "itemPhrases": [
+          "collection of disconnected tasks",
+          "content we have already taught",
+          "outcome you are expected to achieve"
+        ]
+      }
+    },
+    {
+      "atPhrase": "In this way, evaluation remains a meaningful part",
+      "visual": {
+        "kind": "outro",
+        "title": "Evaluation remains part of the learning journey",
+        "kicker": "Evidence with purpose"
+      }
+    }
   ],
   "Scene 012": [
-    {"visual": {"kind": "question", "title": "How do you know that learning has truly happened?", "kicker": "Return to the opening question"}},
-    {"atPhrase": "In ROOTS, we answer through the learner’s experience and through evidence", "visual": {"kind": "comparison", "title": "Two lenses reveal learning", "kicker": "Experience and evidence", "items": ["Learner experience", "What learners encounter", "Evidence", "What learners demonstrate"], "itemPhrases": ["learner’s experience", "learner’s experience", "through evidence", "through evidence"]}},
-    {"atPhrase": "ADLX describes an active and deep experience", "visual": {"kind": "cycle", "title": "ADLX makes learning active and deep", "kicker": "The learner experience", "items": ["Participate", "Think", "Connect", "Practise", "Make meaning"], "itemPhrases": ["learners participate", "participate, think", "think, connect", "connect, practise", "make meaning"]}},
-    {"atPhrase": "FIRST provides five connected domains and fifteen principles", "visual": {"kind": "card-grid", "title": "FIRST helps design and facilitate the experience", "kicker": "A connected framework", "items": ["Five connected domains", "Fifteen principles", "Design", "Facilitate"], "itemPhrases": ["five connected domains", "fifteen principles", "help us design", "design and facilitate"]}},
-    {"atPhrase": "Before the next lesson, choose one lesson you know well", "visual": {"kind": "question", "title": "What were my learners expected to experience, do, and demonstrate?", "kicker": "Reflection before Lesson 02"}},
-    {"atPhrase": "Together, we will next explore learner-centred teaching", "visual": {"kind": "outro", "title": "Next: learner-centred teaching and the teacher’s role", "kicker": "Continue the ROOTS journey"}}
+    {
+      "visual": {
+        "kind": "question",
+        "title": "How do you know that learning has truly happened?",
+        "kicker": "Return to the opening question"
+      }
+    },
+    {
+      "atPhrase": "In ROOTS, we answer through the learner’s experience and through evidence",
+      "visual": {
+        "kind": "venn",
+        "title": "Two lenses reveal learning",
+        "kicker": "Experience and evidence",
+        "items": [
+          "Learner experience",
+          "Evidence"
+        ],
+        "itemPhrases": [
+          "learner’s experience",
+          "through evidence"
+        ],
+        "center": "Learning revealed"
+      }
+    },
+    {
+      "atPhrase": "ADLX describes an active and deep experience",
+      "visual": {
+        "kind": "cycle",
+        "title": "ADLX makes learning active and deep",
+        "kicker": "The learner experience",
+        "items": [
+          "Participate",
+          "Think",
+          "Connect",
+          "Practise",
+          "Make meaning"
+        ],
+        "itemPhrases": [
+          "learners participate",
+          "participate, think",
+          "think, connect",
+          "connect, practise",
+          "make meaning"
+        ]
+      }
+    },
+    {
+      "atPhrase": "FIRST provides five connected domains and fifteen principles",
+      "visual": {
+        "kind": "card-grid",
+        "title": "FIRST helps design and facilitate the experience",
+        "kicker": "A connected framework",
+        "items": [
+          "Five connected domains",
+          "Fifteen principles",
+          "Design",
+          "Facilitate"
+        ],
+        "itemPhrases": [
+          "five connected domains",
+          "fifteen principles",
+          "help us design",
+          "design and facilitate"
+        ]
+      }
+    },
+    {
+      "atPhrase": "Before the next lesson, choose one lesson you know well",
+      "visual": {
+        "kind": "question",
+        "title": "What were my learners expected to experience, do, and demonstrate?",
+        "kicker": "Reflection before Lesson 02"
+      }
+    },
+    {
+      "atPhrase": "Together, we will next explore learner-centred teaching",
+      "visual": {
+        "kind": "outro",
+        "title": "Next: learner-centred teaching and the teacher’s role",
+        "kicker": "Continue the ROOTS journey"
+      }
+    }
   ]
 }

@@ -16,11 +16,34 @@ export type ScriptVisual = {
     | "comparison"
     | "card-grid"
     | "staircase"
+    | "bar-chart"
+    | "donut"
+    | "pyramid"
+    | "venn"
+    | "mind-map"
+    | "target"
+    | "quadrant"
+    | "roadmap-path"
+    | "layer-stack"
+    | "before-after"
     | "outro";
   title: string;
   kicker?: string;
   items?: string[];
   itemStartSeconds?: number[];
+  /** Optional numbers for bar-chart / donut, one per item. */
+  values?: number[];
+  /** Suffix shown after values, e.g. "%". */
+  unit?: string;
+  /** Centre label for venn overlap / mind-map hub / donut middle. */
+  center?: string;
+  /** Column headings for before-after (defaults: "Avoid" / "Aim for"). */
+  leftLabel?: string;
+  rightLabel?: string;
+  /** comparison / before-after: how many items go in the left column. */
+  leftCount?: number;
+  /** comparison: badge between the columns (default "VS"; e.g. "+" or "?"). */
+  joiner?: string;
 };
 
 export type ScriptScene = {

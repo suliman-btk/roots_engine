@@ -181,20 +181,23 @@
       "section": "Scene 001",
       "background": "light",
       "visual": {
-        "kind": "comparison",
+        "kind": "before-after",
         "title": "Completion is not evidence of learning",
         "kicker": "A crucial distinction",
+        "leftLabel": "Completed",
+        "rightLabel": "Learned",
+        "leftCount": 2,
         "items": [
           "Explanation finished",
           "Content completed",
-          "Understanding visible",
-          "Application demonstrated"
+          "Understood and practised",
+          "Can now apply"
         ],
         "itemStartSeconds": [
           0.0,
           4.154,
-          7.172,
-          9.949
+          7.765,
+          10.24
         ]
       },
       "captions": [
@@ -241,11 +244,11 @@
           "Continue"
         ],
         "itemStartSeconds": [
-          1.553,
-          3.043,
-          4.268,
-          5.404,
-          7.121
+          2.21,
+          3.346,
+          4.596,
+          5.669,
+          7.955
         ]
       },
       "captions": [
@@ -290,9 +293,9 @@
           "Activities prepared"
         ],
         "itemStartSeconds": [
-          3.611,
-          5.164,
-          6.907
+          3.7,
+          5.253,
+          6.995
         ]
       },
       "captions": [
@@ -365,20 +368,27 @@
       "section": "Scene 002",
       "background": "light",
       "visual": {
-        "kind": "comparison",
+        "kind": "before-after",
         "title": "Move from delivery to the learner experience",
         "kicker": "The ROOTS viewpoint",
+        "leftLabel": "From",
+        "rightLabel": "To the learner experience",
+        "leftCount": 1,
         "items": [
-          "Teacher delivery",
-          "Content coverage",
-          "Learner participation",
-          "Thinking and evidence"
+          "What the teacher delivers",
+          "Participate",
+          "Think",
+          "Practise",
+          "Reflect",
+          "Demonstrate learning"
         ],
         "itemStartSeconds": [
-          7.222,
-          7.222,
-          9.407,
-          11.275
+          7.437,
+          11.641,
+          12.765,
+          13.498,
+          14.495,
+          15.467
         ]
       },
       "captions": [
@@ -456,7 +466,7 @@
       "section": "Scene 003",
       "background": "dark",
       "visual": {
-        "kind": "card-grid",
+        "kind": "mind-map",
         "title": "Learning is shaped by connected elements",
         "kicker": "Experience components",
         "items": [
@@ -467,12 +477,13 @@
           "Practice",
           "Reflection and feedback"
         ],
+        "center": "Learner experience",
         "itemStartSeconds": [
-          0.0,
           0.631,
           1.452,
           2.715,
           3.599,
+          4.558,
           5.391
         ]
       },
@@ -504,7 +515,7 @@
       "section": "Scene 003",
       "background": "dark",
       "visual": {
-        "kind": "timeline",
+        "kind": "card-grid",
         "title": "Learning can happen in many environments",
         "kicker": "Context changes",
         "items": [
@@ -513,8 +524,8 @@
           "Digital environment"
         ],
         "itemStartSeconds": [
-          0.631,
           0.745,
+          1.97,
           3.359
         ]
       },
@@ -541,7 +552,7 @@
       "section": "Scene 003",
       "background": "dark",
       "visual": {
-        "kind": "process",
+        "kind": "target",
         "title": "Keep every decision connected to achievement",
         "kicker": "Deliberate design",
         "items": [
@@ -552,11 +563,11 @@
           "Achievement"
         ],
         "itemStartSeconds": [
-          7.033,
           7.841,
           8.674,
           9.672,
-          12.525
+          10.758,
+          13.649
         ]
       },
       "captions": [
@@ -629,7 +640,7 @@
       "section": "Scene 004",
       "background": "light",
       "visual": {
-        "kind": "card-grid",
+        "kind": "donut",
         "title": "See the learner as a whole",
         "kicker": "Learner-centred teaching",
         "items": [
@@ -640,6 +651,7 @@
           "Participation",
           "Expected outcomes"
         ],
+        "center": "The whole learner",
         "itemStartSeconds": [
           2.121,
           3.005,
@@ -672,20 +684,21 @@
       "section": "Scene 004",
       "background": "light",
       "visual": {
-        "kind": "comparison",
+        "kind": "before-after",
         "title": "Learner-centred does not remove teacher direction",
         "kicker": "Clarify the shift",
+        "leftLabel": "It does not mean",
+        "rightLabel": "It means",
+        "leftCount": 2,
         "items": [
-          "Teacher absent",
-          "Learners without direction",
-          "Teacher purposeful",
-          "Learners supported"
+          "The teacher becomes unimportant",
+          "Learners left without direction",
+          "A more purposeful teacher role"
         ],
         "itemStartSeconds": [
           0.884,
-          3.333,
-          5.732,
-          5.732
+          4.028,
+          6.162
         ]
       },
       "captions": [
@@ -732,11 +745,11 @@
           "Use evidence"
         ],
         "itemStartSeconds": [
-          0.063,
-          2.134,
-          3.712,
-          6.023,
-          8.232
+          0.429,
+          2.664,
+          4.47,
+          7.184,
+          8.674
         ]
       },
       "captions": [
@@ -817,16 +830,20 @@
         "kind": "comparison",
         "title": "Active and deep learning work together",
         "kicker": "Two reinforcing qualities",
+        "leftLabel": "Active",
+        "rightLabel": "Deep",
+        "joiner": "+",
+        "leftCount": 2,
         "items": [
-          "Doing",
+          "Doing things",
           "Thinking about doing",
           "Seeking meaning",
           "Connecting ideas"
         ],
         "itemStartSeconds": [
-          2.134,
+          2.702,
           3.977,
-          5.896,
+          7.538,
           8.283
         ]
       },
@@ -873,18 +890,17 @@
       "section": "Scene 005",
       "background": "dark",
       "visual": {
-        "kind": "cycle",
+        "kind": "venn",
         "title": "Active and deep qualities form one experience",
         "kicker": "The complete experience",
         "items": [
           "Active involvement",
-          "Deep meaning",
-          "Whole experience"
+          "Deep meaning"
         ],
+        "center": "Whole experience",
         "itemStartSeconds": [
-          0.391,
-          0.391,
-          2.26
+          0.0,
+          1.187
         ]
       },
       "captions": [
@@ -910,20 +926,23 @@
       "section": "Scene 005",
       "background": "dark",
       "visual": {
-        "kind": "comparison",
+        "kind": "before-after",
         "title": "Purposeful experience—not busy work",
         "kicker": "The intention of ADLX",
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1,
         "items": [
-          "Keeping busy",
-          "Activity alone",
-          "Enjoyable experience",
-          "Impactful learning"
+          "Keeping learners busy",
+          "Enjoyable",
+          "Impactful",
+          "Strengthens learning"
         ],
         "itemStartSeconds": [
-          1.414,
-          1.414,
+          2.058,
           3.775,
-          4.823
+          4.823,
+          10.492
         ]
       },
       "captions": [
@@ -962,17 +981,23 @@
         "kind": "comparison",
         "title": "Activity is not automatically purposeful",
         "kicker": "Look beneath visible action",
+        "leftLabel": "Visible activity",
+        "rightLabel": "Ask",
+        "joiner": "?",
+        "leftCount": 3,
         "items": [
           "Moving",
           "Speaking",
           "Completing a task",
-          "Thinking for learning"
+          "What thinking does it require?",
+          "How does it support learning?"
         ],
         "itemStartSeconds": [
-          3.876,
           4.47,
+          5.366,
           6.515,
-          9.558
+          9.735,
+          12.45
         ]
       },
       "captions": [
@@ -1028,8 +1053,8 @@
           "Recognize learning"
         ],
         "itemStartSeconds": [
-          4.874,
           5.795,
+          6.78,
           8.194,
           9.558
         ]
@@ -1146,7 +1171,7 @@
       "section": "Scene 007",
       "background": "dark",
       "visual": {
-        "kind": "staircase",
+        "kind": "pyramid",
         "title": "The five connected FIRST domains",
         "kicker": "F · I · R · S · T",
         "items": [
@@ -1207,20 +1232,23 @@
       "section": "Scene 007",
       "background": "dark",
       "visual": {
-        "kind": "cycle",
+        "kind": "before-after",
         "title": "FIRST works as connected layers",
         "kicker": "Not isolated techniques",
+        "leftLabel": "Not",
+        "rightLabel": "Instead",
+        "leftCount": 1,
         "items": [
-          "Not separate tricks",
-          "Connect the layers",
-          "Guide experience",
-          "Design and facilitate"
+          "Separate classroom tricks",
+          "Connected layers",
+          "Guide design",
+          "Guide facilitation"
         ],
         "itemStartSeconds": [
-          0.997,
+          2.336,
           4.331,
-          5.997,
-          7.929
+          7.929,
+          8.687
         ]
       },
       "captions": [
@@ -1283,7 +1311,7 @@
       "section": "Scene 008",
       "background": "light",
       "visual": {
-        "kind": "process",
+        "kind": "roadmap-path",
         "title": "Build the experience in a coherent sequence",
         "kicker": "How ROOTS uses FIRST",
         "items": [
@@ -1296,9 +1324,9 @@
         "itemStartSeconds": [
           0.694,
           4.735,
-          9.419,
-          16.073,
-          20.568
+          9.52,
+          16.2,
+          21.414
         ]
       },
       "captions": [
@@ -1354,20 +1382,17 @@
       "section": "Scene 008",
       "background": "light",
       "visual": {
-        "kind": "cycle",
+        "kind": "venn",
         "title": "Keep the whole picture in mind",
         "kicker": "FIRST supports ADLX",
         "items": [
-          "FIRST principles",
-          "Complete experience",
-          "Active learning",
-          "Deep learning"
+          "Each principle",
+          "The whole picture"
         ],
+        "center": "Complete ADLX",
         "itemStartSeconds": [
           0.884,
-          5.253,
-          5.947,
-          6.452
+          2.626
         ]
       },
       "captions": [
@@ -1435,20 +1460,23 @@
       "section": "Scene 009",
       "background": "dark",
       "visual": {
-        "kind": "comparison",
+        "kind": "before-after",
         "title": "Focus on what learners can demonstrate",
         "kicker": "Outcome—not coverage",
+        "leftLabel": "Not simply",
+        "rightLabel": "What learners should",
+        "leftCount": 1,
         "items": [
+          "What the teacher intends to cover",
           "Know",
           "Be able to do",
-          "Be willing to demonstrate",
-          "Teacher coverage"
+          "Be willing to demonstrate"
         ],
         "itemStartSeconds": [
-          1.452,
-          2.967,
-          4.318,
-          7.121
+          7.121,
+          2.172,
+          3.106,
+          4.583
         ]
       },
       "captions": [
@@ -1484,9 +1512,10 @@
       "section": "Scene 009",
       "background": "dark",
       "visual": {
-        "kind": "process",
+        "kind": "mind-map",
         "title": "Align the learning system",
         "kicker": "Evidence supports decisions",
+        "center": "Intended outcomes",
         "items": [
           "Assessment evidence",
           "Content",
@@ -1496,10 +1525,10 @@
         ],
         "itemStartSeconds": [
           0.0,
-          6.528,
           6.944,
+          7.828,
           9.217,
-          10.442
+          10.543
         ]
       },
       "captions": [
@@ -1535,20 +1564,21 @@
       "section": "Scene 009",
       "background": "dark",
       "visual": {
-        "kind": "comparison",
+        "kind": "before-after",
         "title": "Judge learning through evidence",
         "kicker": "Reliable decisions",
+        "leftLabel": "Not only",
+        "rightLabel": "Judge through",
+        "leftCount": 2,
         "items": [
-          "Evidence",
-          "Demonstrated learning",
           "Impressions",
-          "Completed content"
+          "Completed content",
+          "Evidence"
         ],
         "itemStartSeconds": [
-          1.162,
-          1.162,
-          3.611,
-          5.745
+          4.609,
+          5.745,
+          2.361
         ]
       },
       "captions": [
@@ -1606,7 +1636,7 @@
       "section": "Scene 010",
       "background": "light",
       "visual": {
-        "kind": "card-grid",
+        "kind": "quadrant",
         "title": "Four connected practice areas",
         "kicker": "Design · Facilitate · Coach · Improve",
         "items": [
@@ -1615,10 +1645,11 @@
           "LXC · Teacher coaching",
           "MnC · Mentoring and coaching"
         ],
+        "center": "ROOTS",
         "itemStartSeconds": [
-          0.0,
-          9.318,
-          15.922,
+          0.303,
+          10.152,
+          16.78,
           19.444
         ]
       },
@@ -1677,12 +1708,12 @@
           "Improvement"
         ],
         "itemStartSeconds": [
-          0.0,
           0.442,
           1.2,
           2.02,
           2.891,
-          5.038
+          4.002,
+          5.101
         ]
       },
       "captions": [
@@ -1708,20 +1739,19 @@
       "section": "Scene 010",
       "background": "light",
       "visual": {
-        "kind": "comparison",
+        "kind": "before-after",
         "title": "Teacher application—not certification",
         "kicker": "Scope of ROOTS",
+        "leftLabel": "Not",
+        "rightLabel": "Within ROOTS",
+        "leftCount": 1,
         "items": [
-          "Teacher application",
-          "Classroom use",
-          "Professional coaching",
-          "Certification"
+          "Professional coaching certification",
+          "Teacher application level"
         ],
         "itemStartSeconds": [
-          3.902,
-          3.902,
           7.323,
-          7.323
+          3.902
         ]
       },
       "captions": [
@@ -1761,9 +1791,9 @@
           "Reflection"
         ],
         "itemStartSeconds": [
-          6.124,
           6.439,
-          8.636
+          7.437,
+          8.763
         ]
       },
       "captions": [
@@ -1807,7 +1837,7 @@
         "itemStartSeconds": [
           1.427,
           2.778,
-          5.707,
+          6.086,
           7.273,
           9.848
         ]
@@ -1845,18 +1875,19 @@
       "section": "Scene 011",
       "background": "dark",
       "visual": {
-        "kind": "comparison",
+        "kind": "before-after",
         "title": "Keep evaluation connected",
         "kicker": "Meaningful evidence",
+        "leftLabel": "Not",
+        "rightLabel": "Each piece of evidence links to",
+        "leftCount": 1,
         "items": [
           "Disconnected tasks",
-          "Activity without purpose",
-          "Taught content",
-          "Expected outcome"
+          "Content already taught",
+          "An expected outcome"
         ],
         "itemStartSeconds": [
-          1.982,
-          1.982,
+          2.866,
           6.982,
           9.217
         ]
@@ -1958,20 +1989,17 @@
       "section": "Scene 012",
       "background": "light",
       "visual": {
-        "kind": "comparison",
+        "kind": "venn",
         "title": "Two lenses reveal learning",
         "kicker": "Experience and evidence",
         "items": [
           "Learner experience",
-          "What learners encounter",
-          "Evidence",
-          "What learners demonstrate"
+          "Evidence"
         ],
+        "center": "Learning revealed",
         "itemStartSeconds": [
-          1.806,
-          1.806,
-          3.409,
-          3.409
+          2.184,
+          3.763
         ]
       },
       "captions": [
@@ -2008,10 +2036,10 @@
           "Make meaning"
         ],
         "itemStartSeconds": [
-          3.472,
           3.838,
           4.975,
           5.606,
+          6.389,
           7.487
         ]
       },
@@ -2055,8 +2083,8 @@
         "itemStartSeconds": [
           0.72,
           2.866,
-          4.343,
-          4.697
+          4.697,
+          5.682
         ]
       },
       "captions": [

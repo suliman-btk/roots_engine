@@ -9,6 +9,7 @@ import {
   Staircase,
   TimelineRoadmap,
 } from "./PrimeDiagrams";
+import { BarChart, BeforeAfter, DonutChart, LayerStack, MindMap, Pyramid, Quadrant, RoadmapPath, Target, Venn } from "./PrimeCharts";
 import type { ScriptScene } from "./schema";
 
 function enter(frame: number, delay = 0, duration = 14) {
@@ -148,6 +149,27 @@ function PrimeTitle({ title, section, label }: { title: string; section: string;
   );
 }
 
+/** Mid-video section break: no course logo — the logo title is reserved for the opening. */
+function SectionDivider({ title, section, label }: { title: string; section: string; label: string }) {
+  const theme = useTheme();
+  const frame = useCurrentFrame();
+  const ring = interpolate(frame, [0, 40], [0.6, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const bar = interpolate(frame, [18, 40], [0, 220], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  return (
+    <AbsoluteFill style={{ background: `radial-gradient(circle at 78% 40%, ${theme.colors.mid}, ${theme.colors.navy} 55%, ${theme.colors.deep})`, fontFamily: theme.bodyFamily, overflow: "hidden" }}>
+      {[520, 380, 240].map((size, i) => (
+        <div key={size} style={{ position: "absolute", right: 210 - size / 2 + 120, top: 432 - size / 2, width: size, height: size, borderRadius: "50%", border: `${i === 2 ? 10 : 3}px solid ${i === 2 ? theme.colors.gold : "rgba(255,255,255,0.14)"}`, transform: `scale(${ring}) rotate(${frame * (i % 2 ? -0.15 : 0.1)}deg)`, borderStyle: i === 1 ? "dashed" : "solid" }} />
+      ))}
+      <div style={{ position: "absolute", left: 120, top: "50%", transform: "translateY(-50%)", maxWidth: 1100 }}>
+        <div style={{ ...enter(frame, 6), color: theme.colors.gold, fontSize: 24, fontWeight: 900, letterSpacing: 5, textTransform: "uppercase", marginBottom: 26 }}>{section}</div>
+        <AnimatedHeadline text={title} dark size={92} />
+        <div style={{ width: bar, height: 8, borderRadius: 4, background: theme.colors.gold, marginTop: 40 }} />
+      </div>
+      <CourseChrome section="" label={label} dark />
+    </AbsoluteFill>
+  );
+}
+
 function LightStatement({ scene, label, dark }: { scene: ScriptScene; label: string; dark: boolean }) {
   const theme = useTheme();
   const frame = useCurrentFrame();
@@ -191,15 +213,15 @@ function Checklist({ scene, label, dark }: { scene: ScriptScene; label: string; 
               style={{
                 ...(starts
                   ? {
-                      opacity: index <= active ? 1 : 0.12,
+                      opacity: index <= active ? 1 : 0.34,
                       transform: `translateY(${index <= active ? 0 : 14}px) scale(${index === active ? 1.02 : 1})`,
                     }
                   : enter(frame, 14 + index * 7)),
                 display: "flex",
                 alignItems: "center",
                 gap: 20,
-                minHeight: 126,
-                padding: "22px 28px",
+                minHeight: 140,
+                padding: "24px 32px",
                 background: dark ? (index === active ? "rgba(255,255,255,0.14)" : "rgba(255,255,255,0.07)") : (index === active ? "#FFFFFF" : theme.colors.plumSafe),
                 border: `2px solid ${index === active ? theme.colors.gold : dark ? "rgba(255,255,255,0.13)" : "rgba(2,1,129,0.06)"}`,
                 borderRadius: 20,
@@ -209,7 +231,7 @@ function Checklist({ scene, label, dark }: { scene: ScriptScene; label: string; 
               <div style={{ color: index === active ? theme.colors.gold : dark ? "rgba(255,255,255,0.68)" : theme.colors.navy, fontWeight: 900, fontSize: 34, flexShrink: 0 }}>
                 {String(index + 1).padStart(2, "0")}
               </div>
-              <div style={{ color: dark ? "#FFFFFF" : theme.colors.deep, fontSize: 27, lineHeight: 1.32, fontWeight: 650 }}>{item}</div>
+              <div style={{ color: dark ? "#FFFFFF" : theme.colors.deep, fontSize: 32, lineHeight: 1.26, fontWeight: 750 }}>{item}</div>
             </div>
           ))}
         </div>
@@ -244,13 +266,24 @@ function DiagramScene({ scene, label, dark }: { scene: ScriptScene; label: strin
   const frame = useCurrentFrame();
   const items = scene.visual.items ?? [];
   const common = { items, dark, title: scene.visual.title, itemStartSeconds: scene.visual.itemStartSeconds };
+  const chart = { ...common, values: scene.visual.values, unit: scene.visual.unit, center: scene.visual.center, leftLabel: scene.visual.leftLabel, rightLabel: scene.visual.rightLabel, leftCount: scene.visual.leftCount, joiner: scene.visual.joiner };
   const diagram = (() => {
     switch (scene.visual.kind) {
       case "process": return <ProcessFlow {...common} />;
       case "timeline": return <TimelineRoadmap {...common} />;
       case "cycle": return <OrbitCycle {...common} />;
-      case "comparison": return <ComparisonPanel {...common} />;
+      case "comparison": return <ComparisonPanel {...chart} />;
       case "staircase": return <Staircase {...common} />;
+      case "bar-chart": return <BarChart {...chart} />;
+      case "donut": return <DonutChart {...chart} />;
+      case "pyramid": return <Pyramid {...chart} />;
+      case "venn": return <Venn {...chart} />;
+      case "mind-map": return <MindMap {...chart} />;
+      case "target": return <Target {...chart} />;
+      case "quadrant": return <Quadrant {...chart} />;
+      case "roadmap-path": return <RoadmapPath {...chart} />;
+      case "layer-stack": return <LayerStack {...chart} />;
+      case "before-after": return <BeforeAfter {...chart} />;
       case "card-grid":
       default: return <CardConstellation {...common} />;
     }
@@ -259,7 +292,7 @@ function DiagramScene({ scene, label, dark }: { scene: ScriptScene; label: strin
     <AbsoluteFill style={{ background: dark ? theme.colors.deep : theme.colors.surface, fontFamily: theme.bodyFamily }}>
       <AmbientMotion dark={dark} />
       <div style={{ position: "absolute", left: 84, right: 100, top: 146, bottom: 132, display: "flex", flexDirection: "column" }}>
-        <div style={{ ...enter(frame, 2), color: dark ? "#FFFFFF" : theme.colors.navy, fontFamily: theme.headingFamily, fontWeight: theme.headingWeight, fontSize: 50, lineHeight: 1.15, marginBottom: 14 }}>
+        <div style={{ ...enter(frame, 2), color: dark ? "#FFFFFF" : theme.colors.navy, fontFamily: theme.headingFamily, fontWeight: theme.headingWeight, fontSize: 58, lineHeight: 1.12, marginBottom: 16 }}>
           {scene.visual.title}
         </div>
         <div style={{ width: 110, height: 6, borderRadius: 4, background: theme.colors.gold }} />
@@ -272,13 +305,21 @@ function DiagramScene({ scene, label, dark }: { scene: ScriptScene; label: strin
   );
 }
 
+/** Is the area behind the top-right NAMA logo dark in this scene's actual layout? */
+export function logoAreaIsDark(scene: ScriptScene, sceneIndex: number): boolean {
+  if (scene.visual.kind === "title") return sceneIndex !== 0; // opening title: light right half; dividers: navy
+  return scene.background ? scene.background === "dark" : sceneIndex > 0 && sceneIndex % 2 === 0;
+}
+
 export function PrimeScriptScene({ scene, lessonLabel, sceneIndex }: { scene: ScriptScene; lessonLabel: string; sceneIndex: number }) {
   const dark = scene.background ? scene.background === "dark" : sceneIndex > 0 && sceneIndex % 2 === 0;
   const displaySection = scene.visual.kicker ?? scene.section;
   const displayScene = { ...scene, section: displaySection };
   switch (scene.visual.kind) {
     case "title":
-      return <PrimeTitle title={scene.visual.title} section={displaySection} label={lessonLabel} />;
+      return sceneIndex === 0
+        ? <PrimeTitle title={scene.visual.title} section={displaySection} label={lessonLabel} />
+        : <SectionDivider title={scene.visual.title} section={displaySection} label={lessonLabel} />;
     case "checklist":
       return <Checklist scene={displayScene} label={lessonLabel} dark={dark} />;
     case "process":
@@ -287,6 +328,16 @@ export function PrimeScriptScene({ scene, lessonLabel, sceneIndex }: { scene: Sc
     case "comparison":
     case "card-grid":
     case "staircase":
+    case "bar-chart":
+    case "donut":
+    case "pyramid":
+    case "venn":
+    case "mind-map":
+    case "target":
+    case "quadrant":
+    case "roadmap-path":
+    case "layer-stack":
+    case "before-after":
       return <DiagramScene scene={displayScene} label={lessonLabel} dark={dark} />;
     case "question":
       return <BrandBeat scene={displayScene} label={lessonLabel} dark={dark} />;

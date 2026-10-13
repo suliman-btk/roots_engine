@@ -31,6 +31,8 @@ DEFAULT_VOICE = "en-US-AndrewMultilingualNeural"
 VISUAL_KINDS = {
     "title", "statement", "question", "checklist", "process", "timeline",
     "cycle", "comparison", "card-grid", "staircase", "outro",
+    "bar-chart", "donut", "pyramid", "venn", "mind-map",
+    "target", "quadrant", "roadmap-path", "layer-stack", "before-after",
 }
 
 
@@ -176,7 +178,7 @@ def visual_for(block: SourceBlock, index: int, total: int, title: str) -> dict[s
         else:
             # Rotate structurally distinct treatments so consecutive list scenes do not
             # collapse into the same stack of cards when the wording is neutral.
-            rotation = ["card-grid", "process", "timeline", "cycle", "staircase"]
+            rotation = ["card-grid", "roadmap-path", "mind-map", "process", "layer-stack", "cycle", "target", "timeline", "pyramid", "staircase"]
             kind = rotation[(index - 1) % len(rotation)]
         return {"kind": kind, "title": block.section, "kicker": "Key points", "items": block.items[:6]}
     questions = [q.strip() for q in re.findall(r"[^?]+\?", block.narration) if q.strip()]
@@ -196,6 +198,22 @@ def validate_visual(visual: Any, context: str) -> dict[str, Any]:
     items = visual.get("items")
     if items is not None and (not isinstance(items, list) or not all(isinstance(item, str) for item in items)):
         raise ValueError(f"Visual items must be strings: {context}")
+    values = visual.get("values")
+    if values is not None:
+        if not isinstance(values, list) or not all(isinstance(v, (int, float)) and not isinstance(v, bool) and v >= 0 for v in values):
+            raise ValueError(f"Visual values must be non-negative numbers: {context}")
+        if not isinstance(items, list) or len(values) != len(items):
+            raise ValueError(f"Visual values must match items one-for-one: {context}")
+    left_count = visual.get("leftCount")
+    if left_count is not None and (not isinstance(left_count, int) or not isinstance(items, list) or not 1 <= left_count < len(items)):
+        raise ValueError(f"leftCount must split items into two non-empty columns: {context}")
+    for key in ("unit", "center", "leftLabel", "rightLabel", "joiner"):
+        if visual.get(key) is not None and not isinstance(visual.get(key), str):
+            raise ValueError(f"Visual {key} must be text: {context}")
+    if kind == "quadrant" and (not isinstance(items, list) or len(items) != 4):
+        raise ValueError(f"A quadrant visual needs exactly 4 items: {context}")
+    if kind == "venn" and (not isinstance(items, list) or not 2 <= len(items) <= 3):
+        raise ValueError(f"A venn visual needs 2 or 3 items: {context}")
     item_phrases = visual.get("itemPhrases")
     if item_phrases is not None:
         if not isinstance(item_phrases, list) or not all(isinstance(phrase, str) and phrase.strip() for phrase in item_phrases):
@@ -251,6 +269,41 @@ def resolve_phrase(words: list[dict[str, Any]], phrase: str, context: str) -> fl
             f"matches={len(matches)}; narration words={nearby!r}"
         )
     return float(words[matches[0]]["start"])
+
+
+STOP_WORDS = {
+    "the", "a", "an", "and", "or", "of", "to", "in", "on", "for", "with", "we", "they", "you",
+    "it", "is", "are", "be", "as", "at", "by", "that", "this", "their", "our", "what", "how",
+    "can", "may", "also", "but", "then", "now", "through", "about", "more", "not", "learners",
+}
+
+
+def _stem(token: str) -> str:
+    return token[:5] if len(token) > 5 else token
+
+
+def resolve_item_start(words: list[dict[str, Any]], phrase: str, item: str, context: str) -> float:
+    """Start time of the word inside `phrase` that actually names `item`.
+
+    Item phrases often include a lead-in ("setting, interactions" for Interactions,
+    "but also observes" for Observe). Anchoring to the phrase's first word fires the card
+    one word early. Instead, pick the first word in the phrase that shares a stem with
+    the item label; fall back to the phrase start when nothing matches.
+    """
+    needle = [token for token in (normalize_token(part) for part in phrase.split()) if token]
+    haystack = [normalize_token(str(word["text"])) for word in words]
+    matches = [
+        index for index in range(0, len(haystack) - len(needle) + 1)
+        if haystack[index:index + len(needle)] == needle
+    ]
+    if len(matches) != 1:
+        return resolve_phrase(words, phrase, context)  # raises with a helpful message
+    first = matches[0]
+    label = {_stem(tok) for tok in (normalize_token(part) for part in re.split(r"[\s·,/-]+", item)) if tok and tok not in STOP_WORDS}
+    for offset, token in enumerate(needle):
+        if token not in STOP_WORDS and _stem(token) in label:
+            return float(words[first + offset]["start"])
+    return float(words[first]["start"])
 
 
 def approximate_words(text: str, duration: float) -> list[dict[str, Any]]:
@@ -492,13 +545,26 @@ async def build_manifest(script_path: Path, voice: str, plan_only: bool) -> dict
             item_phrases = visual.pop("itemPhrases", None)
             if item_phrases:
                 item_starts = [
-                    max(0.0, resolve_phrase(words, phrase, f"{block.section} beat {beat_index} item {item_index}" ) - beat_start)
-                    for item_index, phrase in enumerate(item_phrases, start=1)
+                    max(0.0, resolve_item_start(words, phrase, item_label, f"{block.section} beat {beat_index} item {item_index}") - beat_start)
+                    for item_index, (phrase, item_label) in enumerate(zip(item_phrases, visual.get("items") or []), start=1)
                 ]
-                if any(right < left for left, right in zip(item_starts, item_starts[1:])):
-                    raise ValueError(f"Item phrase anchors are not in narration order in {block.section} beat {beat_index}")
+                # Items that share a phrase can resolve to words in a different order than
+                # the cards; keep the reveal sequence monotonic.
+                if visual.get("kind") not in {"before-after", "comparison"}:
+                    for k in range(1, len(item_starts)):
+                        item_starts[k] = max(item_starts[k], item_starts[k - 1])
                 if any(start >= beat_end - beat_start for start in item_starts):
                     raise ValueError(f"Item phrase anchor falls outside its visual beat in {block.section} beat {beat_index}")
+                ordered = sorted(item_starts)
+                for left, right in zip(ordered, ordered[1:]):
+                    if right - left < 0.45:
+                        print(
+                            f"WARNING: two cards appear together ({right - left:.2f}s apart) in "
+                            f"{block.section} beat {beat_index} ({visual.get('title')!r}). "
+                            "Give each item its own phrase in the .visuals.json.",
+                            flush=True,
+                        )
+                        break
                 visual["itemStartSeconds"] = [round(start, 3) for start in item_starts]
             scenes.append({
                 "id": f"scene-{source_index + 1:03d}-beat-{beat_index:02d}",

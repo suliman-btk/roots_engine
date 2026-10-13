@@ -1,0 +1,14 @@
+{
+  "Opening": [{ "visual": { "kind": "title", "title": "New card designs", "kicker": "Showcase" } }],
+  "Bar chart": [{ "visual": { "kind": "bar-chart", "title": "Practice grows with every stage", "kicker": "Bar chart",
+    "items": ["Awareness", "First attempts", "Regular practice", "Confident daily use"], "values": [25, 45, 70, 90], "unit": "%" } }],
+  "Donut chart": [{ "visual": { "kind": "donut", "title": "How a lesson's time is shared", "kicker": "Donut chart",
+    "items": ["Learners doing", "Discussion", "Teacher input", "Reflection"], "values": [40, 25, 20, 15], "unit": "%" } }],
+  "Pyramid": [{ "visual": { "kind": "pyramid", "title": "Build from the foundation up", "kicker": "Pyramid",
+    "items": ["Shared values", "Clear practice", "Team habits", "Visible results", "Lasting impact"] } }],
+  "Venn diagram": [{ "visual": { "kind": "venn", "title": "Where competence lives", "kicker": "Venn diagram",
+    "items": ["Knowledge", "Skills", "Attitudes"], "center": "Competence" } }],
+  "Mind map": [{ "visual": { "kind": "mind-map", "title": "One idea, many connections", "kicker": "Mind map", "center": "Learner experience",
+    "items": ["Encounter", "Do", "Think", "Show evidence", "Reflect", "Continue"] } }],
+  "Closing": [{ "visual": { "kind": "outro", "title": "More variety, clearer stories", "kicker": "Summary" } }]
+}
