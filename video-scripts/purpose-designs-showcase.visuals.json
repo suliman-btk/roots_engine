@@ -81,28 +81,6 @@
   "Scene 004": [
     {
       "visual": {
-        "kind": "tree",
-        "title": "Every practice grows from one root",
-        "kicker": "Tree · growth",
-        "items": [
-          "Careful planning",
-          "Purposeful questions",
-          "Meaningful practice",
-          "Honest reflection"
-        ],
-        "itemPhrases": [
-          "careful planning",
-          "purposeful questions",
-          "meaningful practice",
-          "honest reflection"
-        ],
-        "center": "Focus on the learner"
-      }
-    }
-  ],
-  "Scene 005": [
-    {
-      "visual": {
         "kind": "decision-tree",
         "title": "Evidence decides the next step",
         "kicker": "Decision tree · if / then",
@@ -120,7 +98,7 @@
       }
     }
   ],
-  "Scene 006": [
+  "Scene 005": [
     {
       "visual": {
         "kind": "iceberg",
@@ -148,28 +126,7 @@
       }
     }
   ],
-  "Scene 007": [
-    {
-      "visual": {
-        "kind": "bridge",
-        "title": "Teaching bridges the gap",
-        "kicker": "Bridge · closing a gap",
-        "items": [
-          "Clear explanation",
-          "Guided practice",
-          "Timely feedback"
-        ],
-        "itemPhrases": [
-          "clear explanation",
-          "guided practice",
-          "timely feedback"
-        ],
-        "leftLabel": "Where learners are",
-        "rightLabel": "Intended outcome"
-      }
-    }
-  ],
-  "Scene 008": [
+  "Scene 006": [
     {
       "visual": {
         "kind": "stat-tiles",
@@ -188,7 +145,7 @@
       }
     }
   ],
-  "Scene 009": [
+  "Scene 007": [
     {
       "visual": {
         "kind": "gears",
@@ -207,7 +164,7 @@
       }
     }
   ],
-  "Scene 010": [
+  "Scene 008": [
     {
       "visual": {
         "kind": "definition",

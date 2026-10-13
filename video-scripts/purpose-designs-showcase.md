@@ -14,28 +14,20 @@ Good facilitation keeps structure and freedom in balance. The teacher sets a cle
 
 ## Scene 004
 
-Every practice grows from one root: a focus on the learner. From that root grow careful planning, purposeful questions, meaningful practice, and honest reflection.
+When you check for understanding, the evidence decides the next step. If learners understand, continue. If they are partly there, clarify. If they are confused, give another chance to practise.
 
 ## Scene 005
 
-When you check for understanding, the evidence decides the next step. If learners understand, continue. If they are partly there, clarify. If they are confused, give another chance to practise.
+What we see in class is only the tip. Above the surface we notice participation and answers. Beneath the surface lie thinking, prior knowledge, feelings, and confidence.
 
 ## Scene 006
 
-What we see in class is only the tip. Above the surface we notice participation and answers. Beneath the surface lie thinking, prior knowledge, feelings, and confidence.
+ROOTS is built on five domains and fifteen principles, delivered across 25 lessons.
 
 ## Scene 007
 
-Teaching bridges the gap between where learners are and the intended outcome. Clear explanation, guided practice, and timely feedback carry them across.
-
-## Scene 008
-
-ROOTS is built on five domains and fifteen principles, delivered across 25 lessons.
-
-## Scene 009
-
 Planning, teaching, and assessment work like gears. When planning turns, teaching moves, and assessment drives the next decision.
 
-## Scene 010
+## Scene 008
 
 Learner-centred teaching means focusing on learners' needs, their participation, the evidence they show, and the outcomes they reach.

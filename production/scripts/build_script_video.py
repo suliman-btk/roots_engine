@@ -33,8 +33,8 @@ VISUAL_KINDS = {
     "cycle", "comparison", "card-grid", "staircase", "outro",
     "bar-chart", "donut", "pyramid", "venn", "mind-map",
     "target", "quadrant", "roadmap-path", "layer-stack", "before-after",
-    "funnel", "spectrum", "balance", "tree", "decision-tree",
-    "iceberg", "bridge", "stat-tiles", "gears", "definition",
+    "funnel", "spectrum", "balance", "decision-tree",
+    "iceberg", "stat-tiles", "gears", "definition",
 }
 
 

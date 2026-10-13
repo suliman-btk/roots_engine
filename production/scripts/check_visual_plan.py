@@ -26,8 +26,8 @@ LIMITS = {
     "pyramid": (3, 5), "layer-stack": (3, 5), "target": (3, 5), "process": (3, 5),
     "staircase": (3, 5), "roadmap-path": (3, 6), "timeline": (3, 6), "cycle": (3, 6),
     "card-grid": (2, 6), "mind-map": (3, 6), "donut": (2, 6), "bar-chart": (2, 6), "checklist": (2, 6),
-    "funnel": (3, 5), "spectrum": (2, 5), "balance": (2, 6), "tree": (3, 6), "decision-tree": (2, 4),
-    "iceberg": (3, 6), "bridge": (2, 5), "stat-tiles": (2, 4), "gears": (2, 4), "definition": (2, 5),
+    "funnel": (3, 5), "spectrum": (2, 5), "balance": (2, 6), "decision-tree": (2, 4),
+    "iceberg": (3, 6), "stat-tiles": (2, 4), "gears": (2, 4), "definition": (2, 5),
 }
 NUM_WORDS = {"one": "1", "two": "2", "three": "3", "four": "4", "five": "5", "six": "6", "seven": "7", "eight": "8", "nine": "9", "ten": "10",
              "eleven": "11", "twelve": "12", "thirteen": "13", "fourteen": "14", "fifteen": "15", "twenty": "20", "twenty-five": "25"}
