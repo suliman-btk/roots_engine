@@ -4,12 +4,14 @@ import { ActiveSheen, NumberBadge, activeIndex, itemMotion, usePalette } from ".
 import type { MoreChartProps } from "./PrimeCharts";
 
 /*
- * Purpose-driven designs. Each one answers a specific narration pattern:
+ * Ten purpose-driven designs. Each one answers a specific narration pattern:
  *   funnel         – narrowing many things down to one focus / result
  *   spectrum       – degrees on a continuum between two poles (not either/or)
  *   balance        – weighing / keeping two sides in balance
+ *   tree           – one root (principle) grows into several practices
  *   decision-tree  – "if this, then that" choices driven by evidence
  *   iceberg        – what is visible vs. what lies beneath the surface
+ *   bridge         – closing the gap from where learners are to the goal
  *   stat-tiles     – memorable numbers that are spoken in the narration
  *   gears          – parts that drive each other (interdependence)
  *   definition     – a key term and what it means
@@ -249,6 +251,65 @@ export function Balance({ items, dark, itemStartSeconds, leftCount, leftLabel, r
   );
 }
 
+/* 14 ─ Growth tree: a root principle (center) grows branches that carry each practice */
+export function GrowthTree({ items, dark, itemStartSeconds, center }: P) {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const c = usePalette(dark);
+  const visible = items.slice(0, 6);
+  const n = visible.length;
+  const active = activeIndex(frame, fps, n, itemStartSeconds);
+  const W = 1560;
+  const H = 590;
+  const tx = W / 2;
+  const ground = 452;
+  const trunkTop = 340;
+  const trunk = clamp01(grow(frame, fps, 0));
+  const cardW = Math.min(290, 1240 / Math.max(1, n - 1) - 24);
+  const leaf = (i: number) => {
+    const t = n === 1 ? 0.5 : i / (n - 1);
+    return { x: 170 + t * (W - 340), y: 60 + 110 * (2 * t - 1) ** 2 };
+  };
+  const wood = dark ? "rgba(255,255,255,0.85)" : c.navy;
+  return (
+    <div style={{ position: "relative", width: W, height: H }}>
+      <svg width={W} height={H} style={{ position: "absolute", inset: 0, overflow: "visible" }}>
+        <line x1={120} y1={ground} x2={W - 120} y2={ground} stroke={c.border} strokeWidth={3} strokeDasharray="10 10" />
+        {[-150, -70, 0, 70, 150].map((dx, k) => (
+          <path key={k} d={`M ${tx} ${ground} C ${tx + dx * 0.2} ${ground + 40}, ${tx + dx * 0.8} ${ground + 30}, ${tx + dx} ${ground + 70 + (k % 2) * 22}`} fill="none" stroke={c.accent} strokeWidth={dx === 0 ? 9 : 6} strokeLinecap="round" strokeDasharray={160} strokeDashoffset={160 * (1 - trunk)} opacity={0.85} />
+        ))}
+        <line x1={tx} y1={ground} x2={tx} y2={ground - (ground - trunkTop) * trunk} stroke={wood} strokeWidth={28} strokeLinecap="round" />
+        {visible.map((item, index) => {
+          const { x, y } = leaf(index);
+          const g = shownAt(frame, fps, index, itemStartSeconds) ? clamp01(grow(frame, fps, startAt(fps, index, itemStartSeconds) - 6)) : 0;
+          const d = `M ${tx} ${trunkTop + 10} C ${tx} ${trunkTop - 80}, ${x} ${y + 52 + (trunkTop - y - 52) * 0.6}, ${x} ${y + 52}`;
+          return (
+            <g key={item}>
+              <path d={d} fill="none" stroke={c.border} strokeWidth={8} strokeLinecap="round" />
+              <path d={d} fill="none" stroke={index === active ? c.accent : wood} strokeWidth={index === active ? 11 : 9} strokeLinecap="round" strokeDasharray={700} strokeDashoffset={700 * (1 - g)} />
+            </g>
+          );
+        })}
+      </svg>
+      {visible.map((item, index) => {
+        const { x, y } = leaf(index);
+        const hot = index === active;
+        return (
+          <div key={item} style={{ ...itemMotion(frame, fps, index, itemStartSeconds, 9), position: "absolute", left: x - cardW / 2, top: y - 50, width: cardW, height: 100, borderRadius: "56px 10px 56px 10px", display: "flex", alignItems: "center", justifyContent: "center", textAlign: "center", padding: "0 22px", background: hot ? c.accent : dark ? "#FFFFFF" : c.card, border: `3px solid ${hot ? c.accent : dark ? "transparent" : c.navy}`, color: c.navy, fontSize: n > 5 ? 22 : 25, fontWeight: 850, lineHeight: 1.15, boxShadow: hot ? "0 18px 40px rgba(205,172,59,0.35)" : "0 8px 20px rgba(2,1,129,0.10)", overflow: "hidden" }}>
+            <ActiveSheen active={hot} dark />
+            {item}
+          </div>
+        );
+      })}
+      {center ? (
+        <div style={{ position: "absolute", left: tx - 230, top: ground + 92, width: 460, textAlign: "center", opacity: trunk }}>
+          <span style={{ display: "inline-block", padding: "10px 30px", borderRadius: 999, background: dark ? "#FFFFFF" : c.navy, color: dark ? c.navy : "#FFFFFF", fontSize: 25, fontWeight: 900, border: `3px solid ${c.accent}` }}>{center}</span>
+        </div>
+      ) : null}
+    </div>
+  );
+}
+
 /* 15 ─ Decision tree: a question node branches into "condition | action" paths */
 export function DecisionTree({ items, dark, itemStartSeconds, center, title }: P) {
   const frame = useCurrentFrame();
@@ -267,7 +328,7 @@ export function DecisionTree({ items, dark, itemStartSeconds, center, title }: P
   const node = clamp01(grow(frame, fps, 0));
   const tip = dx + size / 2 * Math.SQRT2 * 0.72;
   const elbow = tip + 110;
-  const cardX = 930;
+  const cardX = 1010;
   const line = dark ? "rgba(255,255,255,0.75)" : c.navy;
   return (
     <div style={{ position: "relative", width: W, height: H }}>
@@ -298,11 +359,13 @@ export function DecisionTree({ items, dark, itemStartSeconds, center, title }: P
         return (
           <React.Fragment key={item}>
             {action ? (
-              <div style={{ ...motion, position: "absolute", left: (elbow + cardX) / 2 - 135 + 14, top: y - 25, width: 270, height: 50, borderRadius: 999, display: "flex", alignItems: "center", justifyContent: "center", background: hot ? c.accent : dark ? c.bg : "#FFFFFF", border: `2px solid ${hot ? c.accent : c.border}`, color: hot ? c.navy : c.text, fontSize: 22, fontWeight: 850, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", padding: "0 16px" }}>
-                {cond}
+              <div style={{ position: "absolute", left: elbow + 34, top: y - 44, width: cardX - 40 - (elbow + 34), height: 88, display: "flex", alignItems: "center" }}>
+                <div style={{ ...motion, width: "100%", minHeight: 58, maxHeight: 88, borderRadius: 30, display: "flex", alignItems: "center", justifyContent: "center", textAlign: "center", background: hot ? c.accent : dark ? c.bg : "#FFFFFF", border: `2px solid ${hot ? c.accent : c.border}`, color: hot ? c.navy : c.text, fontSize: cond.length > 30 ? 21 : 24, fontWeight: 850, lineHeight: 1.15, padding: "10px 22px", overflow: "hidden" }}>
+                  {cond}
+                </div>
               </div>
             ) : null}
-            <div style={{ ...motion, position: "absolute", left: cardX, top: y - Math.min(56, rowGap / 2 - 8), width: 620, height: Math.min(112, rowGap - 16), borderRadius: 20, display: "flex", alignItems: "center", gap: 20, padding: "0 28px", background: hot ? (dark ? "#FFFFFF" : c.navy) : c.card, border: `2px solid ${hot ? c.accent : c.border}`, color: hot ? (dark ? c.navy : "#FFFFFF") : c.text, fontSize: 28, fontWeight: 850, lineHeight: 1.18, boxShadow: hot ? "0 18px 40px rgba(2,1,129,0.22)" : "none", overflow: "hidden" }}>
+            <div style={{ ...motion, position: "absolute", left: cardX, top: y - Math.min(56, rowGap / 2 - 8), width: 540, height: Math.min(112, rowGap - 16), borderRadius: 20, display: "flex", alignItems: "center", gap: 20, padding: "0 28px", background: hot ? (dark ? "#FFFFFF" : c.navy) : c.card, border: `2px solid ${hot ? c.accent : c.border}`, color: hot ? (dark ? c.navy : "#FFFFFF") : c.text, fontSize: 28, fontWeight: 850, lineHeight: 1.18, boxShadow: hot ? "0 18px 40px rgba(2,1,129,0.22)" : "none", overflow: "hidden" }}>
               <ActiveSheen active={hot} dark={!dark} />
               <NumberBadge n={index + 1} hot={hot} onDark={hot ? !dark : dark} size={46} />
               {action || cond}
@@ -361,7 +424,7 @@ export function Iceberg({ items, dark, itemStartSeconds, leftCount, leftLabel, r
         <rect x={0} y={sea} width={W} height={H - sea} rx={24} fill="url(#ice-sea)" opacity={appearP} />
         <g transform={`translate(0 ${bob})`} opacity={appearP}>
           <polygon points={`${cx - 300},${sea} ${cx - 520},${sea + 150} ${cx - 430},${sea + 340} ${cx - 110},${sea + 400} ${cx + 260},${sea + 370} ${cx + 470},${sea + 190} ${cx + 300},${sea}`} fill="url(#ice-deep)" />
-          <polygon points={`${cx - 330},${sea} ${cx - 150},${sea - 120} ${cx - 40},${sea - 190} ${cx + 70},${sea - 150} ${cx + 160},${sea - 80} ${cx + 330},${sea}`} fill={dark ? "#FFFFFF" : "#F4F4FF"} stroke={dark ? "transparent" : c.navy} strokeWidth={3} />
+          <polygon points={`${cx - 330},${sea} ${cx - 150},${sea - 120} ${cx - 40},${sea - 190} ${cx + 70},${sea - 150} ${cx + 160},${sea - 80} ${cx + 330},${sea}`} fill={dark ? "#FFFFFF" : "#E6E6FA"} stroke={dark ? "transparent" : c.navy} strokeWidth={3} />
         </g>
         <path d={wave(0)} fill="none" stroke={dark ? "rgba(255,255,255,0.7)" : c.navy} strokeWidth={4} opacity={appearP} />
       </svg>
@@ -374,6 +437,67 @@ export function Iceberg({ items, dark, itemStartSeconds, leftCount, leftLabel, r
         const x = two ? cx - 70 + (k % 2 === 0 ? -170 : 170) : cx - 40;
         const y = two ? sea + 70 + Math.floor(k / 2) * 110 + (k % 2) * 40 : sea + 80 + k * 110;
         return chip(item, i, x, y, two ? 320 : 380, true);
+      })}
+    </div>
+  );
+}
+
+/* 17 ─ Bridge: each support is a pillar; the deck completes the crossing to the goal */
+export function Bridge({ items, dark, itemStartSeconds, leftLabel, rightLabel }: P) {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const c = usePalette(dark);
+  const visible = items.slice(0, 5);
+  const n = visible.length;
+  const active = activeIndex(frame, fps, n, itemStartSeconds);
+  const W = 1580;
+  const H = 560;
+  const bankW = 270;
+  const deckY = 232;
+  const xs = visible.map((_, i) => bankW + ((i + 1) * (W - 2 * bankW)) / (n + 1));
+  const supports = [bankW, ...xs, W - bankW];
+  const segs = supports.slice(1).map((x, k) => {
+    const idx = Math.min(k, n - 1);
+    const g = shownAt(frame, fps, idx, itemStartSeconds) ? clamp01(grow(frame, fps, startAt(fps, idx, itemStartSeconds) + (k === n ? 10 : 0))) : 0;
+    return { from: supports[k], to: x, g };
+  });
+  const lastStart = startAt(fps, n - 1, itemStartSeconds) + 22;
+  const walk = frame >= lastStart ? clamp01((frame - lastStart) / (fps * 2.2)) : -1;
+  const eased = walk < 0 ? 0 : 1 - (1 - walk) ** 3;
+  const arrived = walk >= 1;
+  const cardW = Math.min(250, (W - 2 * bankW) / n - 22);
+  const rock = dark ? "rgba(255,255,255,0.16)" : "#D9D9F2";
+  return (
+    <div style={{ position: "relative", width: W, height: H }}>
+      <svg width={W} height={H} style={{ position: "absolute", inset: 0, overflow: "visible" }}>
+        <path d={`M 0 ${deckY} L ${bankW} ${deckY} L ${bankW - 40} ${H} L 0 ${H} Z`} fill={rock} />
+        <path d={`M ${W} ${deckY} L ${W - bankW} ${deckY} L ${W - bankW + 40} ${H} L ${W} ${H} Z`} fill={rock} />
+        <path d={`M ${bankW - 40} ${H - 70} Q ${W / 2} ${H - 40} ${W - bankW + 40} ${H - 70} L ${W - bankW + 40} ${H} L ${bankW - 40} ${H} Z`} fill={dark ? "rgba(156,156,240,0.25)" : "rgba(2,1,129,0.10)"} />
+        {xs.map((x, i) => (
+          <rect key={i} x={x - 9} y={deckY + 20} width={18} height={H - 70 - deckY - 20} fill={i === active ? c.accent : dark ? "rgba(255,255,255,0.75)" : c.navy} opacity={shownAt(frame, fps, i, itemStartSeconds) ? 1 : 0.25} />
+        ))}
+        {segs.map((s, k) => (
+          <rect key={k} x={s.from} y={deckY} width={(s.to - s.from) * s.g} height={20} rx={4} fill={dark ? "#FFFFFF" : c.navy} />
+        ))}
+        <rect x={bankW} y={deckY} width={W - 2 * bankW} height={20} rx={4} fill="none" stroke={c.border} strokeWidth={2} strokeDasharray="8 8" />
+      </svg>
+      <div style={{ position: "absolute", left: 10, top: deckY - 112, width: bankW - 30, height: 92, borderRadius: 18, display: "flex", alignItems: "center", justifyContent: "center", textAlign: "center", padding: "0 14px", background: dark ? "rgba(255,255,255,0.14)" : c.navy, color: "#FFFFFF", fontSize: 23, fontWeight: 900, lineHeight: 1.15 }}>
+        {leftLabel ?? "Where learners are"}
+      </div>
+      <div style={{ position: "absolute", right: 10, top: deckY - 112, width: bankW - 30, height: 92, borderRadius: 18, display: "flex", alignItems: "center", justifyContent: "center", textAlign: "center", padding: "0 14px", background: c.accent, color: c.navy, fontSize: 23, fontWeight: 900, lineHeight: 1.15, boxShadow: arrived ? "0 0 0 10px rgba(205,172,59,0.25)" : "none" }}>
+        {rightLabel ?? "Intended outcome"}
+      </div>
+      {walk >= 0 ? (
+        <div style={{ position: "absolute", left: bankW - 20 + eased * (W - 2 * bankW) - 22, top: deckY - 46, width: 44, height: 44, borderRadius: "50%", background: c.accent, border: `5px solid ${dark ? "#FFFFFF" : c.navy}` }} />
+      ) : null}
+      {visible.map((item, index) => {
+        const hot = index === active;
+        return (
+          <div key={item} style={{ ...itemMotion(frame, fps, index, itemStartSeconds, 9), position: "absolute", left: xs[index] - cardW / 2, top: deckY + 74 + (index % 2) * 64, width: cardW, minHeight: 96, padding: "12px 16px", borderRadius: 16, display: "flex", alignItems: "center", justifyContent: "center", textAlign: "center", background: hot ? c.accent : dark ? "#1E1E96" : "#FFFFFF", border: `2px solid ${hot ? c.accent : c.border}`, color: hot ? c.navy : c.text, fontSize: 24, fontWeight: 850, lineHeight: 1.15, boxShadow: "0 10px 24px rgba(2,1,129,0.12)", overflow: "hidden" }}>
+            <ActiveSheen active={hot} dark />
+            {item}
+          </div>
+        );
       })}
     </div>
   );

@@ -1,0 +1,667 @@
+1
+00:00:00,088 --> 00:00:03,308
+السلام عليكم Welcome back to ROOTS
+
+2
+00:00:03,308 --> 00:00:06,862
+We have established four foundations the learner-centred
+
+3
+00:00:06,755 --> 00:00:10,612
+shift the teacher’s purposeful role Active Deep
+
+4
+00:00:10,492 --> 00:00:13,327
+Learner eXperience and the alignment of outcomes
+
+5
+00:00:13,220 --> 00:00:14,369
+with assessment
+
+6
+00:00:14,369 --> 00:00:17,507
+At NAMA Foundation we now bring those
+
+7
+00:00:17,387 --> 00:00:19,975
+foundations into the FIRST Framework
+
+8
+00:00:19,975 --> 00:00:21,484
+By the end of this lesson you
+
+9
+00:00:21,376 --> 00:00:22,974
+should be able to name its five
+
+10
+00:00:22,854 --> 00:00:27,292
+domains recognize the fifteen principles and explain
+
+11
+00:00:27,172 --> 00:00:29,312
+how the domains work together to support
+
+12
+00:00:29,192 --> 00:00:30,480
+ADLX
+
+13
+00:00:30,480 --> 00:00:32,999
+Think of FIRST as a connected view
+
+14
+00:00:32,942 --> 00:00:35,587
+of the learner experience not as five
+
+15
+00:00:35,467 --> 00:00:38,302
+separate lists or a collection of unrelated
+
+16
+00:00:38,182 --> 00:00:39,624
+teaching techniques
+
+17
+00:00:39,725 --> 00:00:42,383
+The ROOTS Programme Manual explains that Active
+
+18
+00:00:42,364 --> 00:00:45,249
+Deep Learner eXperience is the foundation of
+
+19
+00:00:45,129 --> 00:00:46,228
+FIRST
+
+20
+00:00:46,228 --> 00:00:49,416
+The framework contains five primary domains and
+
+21
+00:00:49,309 --> 00:00:52,724
+fifteen principles with three principles in each
+
+22
+00:00:52,604 --> 00:00:53,438
+domain
+
+23
+00:00:53,437 --> 00:00:56,335
+ADLX is formed when the principles are
+
+24
+00:00:56,291 --> 00:00:58,854
+integrated into a cohesive whole
+
+25
+00:00:58,854 --> 00:01:01,247
+The framework brings attention to the learner
+
+26
+00:01:01,581 --> 00:01:05,780
+interaction activity sequence and the movement of
+
+27
+00:01:05,660 --> 00:01:09,315
+learning into performance Each domain helps us
+
+28
+00:01:09,208 --> 00:01:11,600
+examine part of the experience while the
+
+29
+00:01:11,480 --> 00:01:13,923
+complete framework helps us see how those
+
+30
+00:01:13,816 --> 00:01:17,088
+parts connect during design and facilitation
+
+31
+00:01:17,189 --> 00:01:20,327
+The five domains function as layers Each
+
+32
+00:01:20,333 --> 00:01:23,597
+adds an important perspective and strengthens the
+
+33
+00:01:23,490 --> 00:01:25,611
+complete learner experience
+
+34
+00:01:25,611 --> 00:01:27,675
+We first focus on the individual learner
+
+35
+00:01:27,972 --> 00:01:30,819
+We then consider interaction and group dynamics
+
+36
+00:01:31,116 --> 00:01:34,721
+We examine readiness purposeful activity and active
+
+37
+00:01:34,614 --> 00:01:38,016
+review We connect activities through structure and
+
+38
+00:01:37,909 --> 00:01:41,766
+sequence Finally we support the movement from
+
+39
+00:01:41,646 --> 00:01:44,752
+learning into practice and performance
+
+40
+00:01:44,752 --> 00:01:46,854
+The layers are connected rather than ranked
+
+41
+00:01:47,138 --> 00:01:49,809
+A teacher uses them to notice relationships
+
+42
+00:01:49,777 --> 00:01:52,284
+across the whole experience and to avoid
+
+43
+00:01:52,239 --> 00:01:55,453
+treating one engaging activity as the complete
+
+44
+00:01:55,345 --> 00:01:56,232
+design
+
+45
+00:01:56,333 --> 00:01:59,117
+F stands for Focusing on Learner Behaviour
+
+46
+00:01:59,401 --> 00:02:01,768
+This domain asks the teacher to consider
+
+47
+00:02:01,787 --> 00:02:06,011
+each learner’s prior knowledge feelings experience learning
+
+48
+00:02:05,891 --> 00:02:08,839
+curve and responses throughout the learning journey
+
+49
+00:02:09,123 --> 00:02:12,879
+Its three principles are Individualization Probing and
+
+50
+00:02:12,759 --> 00:02:15,234
+Assessing and Trusting the Learner
+
+51
+00:02:15,235 --> 00:02:17,615
+Together they guide us to notice learner
+
+52
+00:02:17,495 --> 00:02:20,873
+differences create and use evidence for teaching
+
+53
+00:02:20,765 --> 00:02:24,547
+decisions and recognize learners as active participants
+
+54
+00:02:24,427 --> 00:02:28,922
+with knowledge experience ability and responsibility
+
+55
+00:02:28,921 --> 00:02:32,223
+F keeps the individual learner visible even
+
+56
+00:02:32,103 --> 00:02:34,281
+when teaching takes place within a larger
+
+57
+00:02:34,161 --> 00:02:35,184
+class
+
+58
+00:02:35,272 --> 00:02:37,817
+I stands for Interacting within Positive Group
+
+59
+00:02:37,709 --> 00:02:38,896
+Dynamics
+
+60
+00:02:38,896 --> 00:02:41,112
+While F looks closely at each learner
+
+61
+00:02:41,472 --> 00:02:44,079
+I considers interaction between learners and the
+
+62
+00:02:43,959 --> 00:02:46,106
+experience created by the group
+
+63
+00:02:46,106 --> 00:02:48,145
+Its three principles are Learning as a
+
+64
+00:02:48,038 --> 00:02:51,453
+Social Event Creating a Positive Spirit and
+
+65
+00:02:51,333 --> 00:02:53,669
+Supporting Motivation and Attention
+
+66
+00:02:53,669 --> 00:02:57,148
+These principles remind us that interaction emotion
+
+67
+00:02:57,419 --> 00:03:01,971
+motivation focus and relationships influence participation and
+
+68
+00:03:01,851 --> 00:03:02,621
+learning
+
+69
+00:03:02,621 --> 00:03:04,976
+The teacher considers how the social environment
+
+70
+00:03:04,856 --> 00:03:07,615
+supports the outcome rather than assuming that
+
+71
+00:03:07,495 --> 00:03:10,935
+placing learners together automatically creates a positive
+
+72
+00:03:10,929 --> 00:03:12,672
+or productive experience
+
+73
+00:03:12,773 --> 00:03:15,519
+R stands for Reviewing Activities within RAR
+
+74
+00:03:15,803 --> 00:03:18,865
+RAR directs attention to the full experience
+
+75
+00:03:18,758 --> 00:03:21,782
+of an activity readiness before it begins
+
+76
+00:03:21,838 --> 00:03:25,330
+facilitation while learners participate and active review
+
+77
+00:03:25,210 --> 00:03:26,093
+afterward
+
+78
+00:03:26,094 --> 00:03:29,093
+Its three principles are Increasing Learner Readiness
+
+79
+00:03:29,225 --> 00:03:32,931
+Facilitating Learner Activity and Reviewing Learning Actively
+
+80
+00:03:33,228 --> 00:03:36,176
+The activity itself is not the whole
+
+81
+00:03:36,056 --> 00:03:39,497
+learning process Learners need preparation to enter
+
+82
+00:03:39,377 --> 00:03:43,335
+it support to participate meaningfully and review
+
+83
+00:03:43,278 --> 00:03:45,318
+that helps them use the experience for
+
+84
+00:03:45,210 --> 00:03:46,839
+learning and development
+
+85
+00:03:46,839 --> 00:03:50,015
+In ROOTS active review is where experience
+
+86
+00:03:49,907 --> 00:03:52,920
+is examined and meaning becomes visible
+
+87
+00:03:53,021 --> 00:03:56,777
+S stands for Sequencing Activities This domain
+
+88
+00:03:56,670 --> 00:03:59,202
+considers the complete flow of the learning
+
+89
+00:03:59,094 --> 00:04:01,752
+experience from beginning to end and how
+
+90
+00:04:01,632 --> 00:04:02,832
+its parts connect
+
+91
+00:04:02,832 --> 00:04:05,780
+Its three principles are Structuring and Sequencing
+
+92
+00:04:05,673 --> 00:04:09,631
+Learning Repetition without Boredom and Linking and
+
+93
+00:04:09,511 --> 00:04:10,660
+Summarizing
+
+94
+00:04:10,660 --> 00:04:13,634
+Structure helps ideas and activities make sense
+
+95
+00:04:13,526 --> 00:04:17,320
+together Purposeful variation and repetition support the
+
+96
+00:04:17,213 --> 00:04:20,502
+development of knowledge and skill without reducing
+
+97
+00:04:20,382 --> 00:04:24,113
+learning to redundant drill Linking and summarizing
+
+98
+00:04:23,993 --> 00:04:26,689
+help learners monitor the learning path see
+
+99
+00:04:26,569 --> 00:04:29,669
+connections and consolidate what the experience is
+
+100
+00:04:29,549 --> 00:04:30,408
+building
+
+101
+00:04:30,509 --> 00:04:34,404
+T stands for Transforming Learning into Performance
+
+102
+00:04:34,701 --> 00:04:36,866
+This domain asks how learning begins to
+
+103
+00:04:36,746 --> 00:04:39,366
+move into action and how practice and
+
+104
+00:04:39,259 --> 00:04:41,039
+transfer are supported
+
+105
+00:04:41,039 --> 00:04:43,899
+Its three principles are Reflection on Reality
+
+106
+00:04:44,196 --> 00:04:48,735
+Practising and Experiencing and Continuity and Follow-Up
+
+107
+00:04:49,019 --> 00:04:50,995
+Learners connect the topic with their own
+
+108
+00:04:50,875 --> 00:04:54,960
+reality receive opportunities to practise and experience
+
+109
+00:04:54,852 --> 00:04:56,917
+what they are learning and continue the
+
+110
+00:04:56,797 --> 00:04:59,347
+learning beyond the immediate event
+
+111
+00:04:59,347 --> 00:05:01,740
+T keeps performance in view and reminds
+
+112
+00:05:01,620 --> 00:05:04,505
+the teacher that understanding gains strength when
+
+113
+00:05:04,398 --> 00:05:08,103
+learners connect it with reality action feedback
+
+114
+00:05:08,198 --> 00:05:09,816
+and continued application
+
+115
+00:05:09,917 --> 00:05:12,310
+Now notice how the domains connect F
+
+116
+00:05:12,202 --> 00:05:14,444
+helps us understand and respond to the
+
+117
+00:05:14,324 --> 00:05:17,777
+learner I considers the interaction and conditions
+
+118
+00:05:17,808 --> 00:05:22,120
+surrounding participation R shapes readiness activity and
+
+119
+00:05:22,000 --> 00:05:25,302
+review S organizes the complete flow and
+
+120
+00:05:25,195 --> 00:05:28,320
+connects its parts T supports the movement
+
+121
+00:05:28,276 --> 00:05:31,584
+of learning into practice and performance
+
+122
+00:05:31,584 --> 00:05:34,356
+Removing one layer can weaken the whole
+
+123
+00:05:34,248 --> 00:05:38,560
+experience Activity without readiness or review may
+
+124
+00:05:38,453 --> 00:05:41,565
+lose meaning Sequence without attention to learner
+
+125
+00:05:41,445 --> 00:05:45,542
+response may become rigid Practice without connection
+
+126
+00:05:45,498 --> 00:05:48,554
+or feedback may repeat current performance
+
+127
+00:05:48,553 --> 00:05:51,299
+FIRST helps us examine these relationships together
+
+128
+00:05:51,739 --> 00:05:55,142
+For teachers the framework supports both design
+
+129
+00:05:55,211 --> 00:05:58,399
+and facilitation During design we can use
+
+130
+00:05:58,279 --> 00:06:00,824
+the domains to examine the intended outcome
+
+131
+00:06:01,120 --> 00:06:05,925
+learner differences interaction activity sequence practice and
+
+132
+00:06:05,805 --> 00:06:09,460
+follow-up During facilitation we can observe learner
+
+133
+00:06:09,340 --> 00:06:13,639
+behaviour support participation guide activity help learners
+
+134
+00:06:13,532 --> 00:06:16,707
+review make connections visible and respond to
+
+135
+00:06:16,587 --> 00:06:17,686
+evidence
+
+136
+00:06:17,686 --> 00:06:19,990
+FIRST is not a checklist to display
+
+137
+00:06:20,110 --> 00:06:23,058
+without application Its value comes from using
+
+138
+00:06:22,938 --> 00:06:25,862
+the principles to make connected decisions that
+
+139
+00:06:25,742 --> 00:06:29,220
+strengthen the Active Deep Learner eXperience in
+
+140
+00:06:29,113 --> 00:06:30,984
+a particular learning context
+
+141
+00:06:31,085 --> 00:06:33,705
+Choose one lesson or learning experience you
+
+142
+00:06:33,585 --> 00:06:35,321
+know well and scan it through the
+
+143
+00:06:35,201 --> 00:06:36,666
+five domains
+
+144
+00:06:36,666 --> 00:06:39,412
+Where do you consider individual learners How
+
+145
+00:06:39,292 --> 00:06:42,367
+does interaction support learning What prepares learners
+
+146
+00:06:42,247 --> 00:06:44,639
+for activity and how is the activity
+
+147
+00:06:44,532 --> 00:06:48,415
+reviewed How are ideas and experiences sequenced
+
+148
+00:06:48,408 --> 00:06:51,117
+and linked What helps learning move toward
+
+149
+00:06:50,997 --> 00:06:54,381
+reality practice and continued action
+
+150
+00:06:54,380 --> 00:06:56,179
+You are not trying to apply all
+
+151
+00:06:56,059 --> 00:06:58,995
+fifteen principles at once This first review
+
+152
+00:06:58,875 --> 00:07:00,952
+helps you notice which layers are already
+
+153
+00:07:00,832 --> 00:07:04,449
+visible and which relationships deserve closer attention
+
+154
+00:07:04,607 --> 00:07:06,937
+as we study each domain in depth
+
+155
+00:07:07,363 --> 00:07:10,955
+FIRST contains five connected domains Focusing on
+
+156
+00:07:10,835 --> 00:07:14,629
+Learner Behaviour Interacting within Positive Group Dynamics
+
+157
+00:07:14,787 --> 00:07:19,049
+Reviewing Activities within RAR Sequencing Activities and
+
+158
+00:07:18,929 --> 00:07:21,605
+Transforming Learning into Performance
+
+159
+00:07:21,605 --> 00:07:25,563
+Each domain contains three principles creating fifteen
+
+160
+00:07:25,443 --> 00:07:28,568
+principles that work together to support ADLX
+
+161
+00:07:28,840 --> 00:07:31,725
+In ROOTS we will study every principle
+
+162
+00:07:31,832 --> 00:07:34,276
+while keeping the complete learner experience in
+
+163
+00:07:34,168 --> 00:07:34,951
+view
+
+164
+00:07:34,951 --> 00:07:36,674
+In the next lesson we begin with
+
+165
+00:07:36,555 --> 00:07:39,149
+the F domain and its first principle
+
+166
+00:07:39,471 --> 00:07:43,644
+Individualization examining how awareness of learner differences
+
+167
+00:07:43,524 --> 00:07:46,800
+can guide design and facilitation decisions

@@ -1,0 +1,2075 @@
+{
+  "version": 1,
+  "slug": "roots-lesson-05-from-adlx-to-the-first-framework",
+  "title": "ROOTS — Lesson 05: From ADLX to the FIRST Framework",
+  "lessonLabel": "ROOTS · Lesson 05",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "totalDurationSeconds": 466.8,
+  "narrationAudioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/roots-lesson-05-from-adlx-to-the-first-framework-narration.mp3",
+  "audioTracks": [
+    {
+      "id": "source-scene-001",
+      "startSeconds": 0.0,
+      "durationSeconds": 39.624,
+      "audioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/source-scene-001.mp3",
+      "narration": "السلام عليكم. Welcome back to ROOTS. We have established four foundations: the learner-centred shift, the teacher’s purposeful role, Active Deep Learner eXperience, and the alignment of outcomes with assessment. At NAMA Foundation, we now bring those foundations into the FIRST Framework. By the end of this lesson, you should be able to name its five domains, recognize the fifteen principles, and explain how the domains work together to support ADLX. Think of FIRST as a connected view of the learner experience, not as five separate lists or a collection of unrelated teaching techniques.",
+      "section": "Scene 001"
+    },
+    {
+      "id": "source-scene-002",
+      "startSeconds": 39.624,
+      "durationSeconds": 37.464,
+      "audioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/source-scene-002.mp3",
+      "narration": "The ROOTS Programme Manual explains that Active Deep Learner eXperience is the foundation of FIRST. The framework contains five primary domains and fifteen principles, with three principles in each domain. ADLX is formed when the principles are integrated into a cohesive whole. The framework brings attention to the learner, interaction, activity, sequence, and the movement of learning into performance. Each domain helps us examine part of the experience, while the complete framework helps us see how those parts connect during design and facilitation.",
+      "section": "Scene 002"
+    },
+    {
+      "id": "source-scene-003",
+      "startSeconds": 77.088,
+      "durationSeconds": 39.144,
+      "audioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/source-scene-003.mp3",
+      "narration": "The five domains function as layers. Each adds an important perspective and strengthens the complete learner experience. We first focus on the individual learner. We then consider interaction and group dynamics. We examine readiness, purposeful activity, and active review. We connect activities through structure and sequence. Finally, we support the movement from learning into practice and performance. The layers are connected rather than ranked. A teacher uses them to notice relationships across the whole experience and to avoid treating one engaging activity as the complete design.",
+      "section": "Scene 003"
+    },
+    {
+      "id": "source-scene-004",
+      "startSeconds": 116.232,
+      "durationSeconds": 38.952,
+      "audioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/source-scene-004.mp3",
+      "narration": "F stands for Focusing on Learner Behaviour. This domain asks the teacher to consider each learner’s prior knowledge, feelings, experience, learning curve, and responses throughout the learning journey. Its three principles are Individualization, Probing and Assessing, and Trusting the Learner. Together, they guide us to notice learner differences, create and use evidence for teaching decisions, and recognize learners as active participants with knowledge, experience, ability, and responsibility. F keeps the individual learner visible even when teaching takes place within a larger class.",
+      "section": "Scene 004"
+    },
+    {
+      "id": "source-scene-005",
+      "startSeconds": 155.184,
+      "durationSeconds": 37.488,
+      "audioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/source-scene-005.mp3",
+      "narration": "I stands for Interacting within Positive Group Dynamics. While F looks closely at each learner, I considers interaction between learners and the experience created by the group. Its three principles are Learning as a Social Event, Creating a Positive Spirit, and Supporting Motivation and Attention. These principles remind us that interaction, emotion, motivation, focus, and relationships influence participation and learning. The teacher considers how the social environment supports the outcome, rather than assuming that placing learners together automatically creates a positive or productive experience.",
+      "section": "Scene 005"
+    },
+    {
+      "id": "source-scene-006",
+      "startSeconds": 192.672,
+      "durationSeconds": 40.248,
+      "audioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/source-scene-006.mp3",
+      "narration": "R stands for Reviewing Activities within RAR. RAR directs attention to the full experience of an activity: readiness before it begins, facilitation while learners participate, and active review afterward. Its three principles are Increasing Learner Readiness, Facilitating Learner Activity, and Reviewing Learning Actively. The activity itself is not the whole learning process. Learners need preparation to enter it, support to participate meaningfully, and review that helps them use the experience for learning and development. In ROOTS, active review is where experience is examined and meaning becomes visible.",
+      "section": "Scene 006"
+    },
+    {
+      "id": "source-scene-007",
+      "startSeconds": 232.92,
+      "durationSeconds": 37.488,
+      "audioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/source-scene-007.mp3",
+      "narration": "S stands for Sequencing Activities. This domain considers the complete flow of the learning experience from beginning to end and how its parts connect. Its three principles are Structuring and Sequencing Learning, Repetition without Boredom, and Linking and Summarizing. Structure helps ideas and activities make sense together. Purposeful variation and repetition support the development of knowledge and skill without reducing learning to redundant drill. Linking and summarizing help learners monitor the learning path, see connections, and consolidate what the experience is building.",
+      "section": "Scene 007"
+    },
+    {
+      "id": "source-scene-008",
+      "startSeconds": 270.408,
+      "durationSeconds": 39.408,
+      "audioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/source-scene-008.mp3",
+      "narration": "T stands for Transforming Learning into Performance. This domain asks how learning begins to move into action and how practice and transfer are supported. Its three principles are Reflection on Reality, Practising and Experiencing, and Continuity and Follow-Up. Learners connect the topic with their own reality, receive opportunities to practise and experience what they are learning, and continue the learning beyond the immediate event. T keeps performance in view and reminds the teacher that understanding gains strength when learners connect it with reality, action, feedback, and continued application.",
+      "section": "Scene 008"
+    },
+    {
+      "id": "source-scene-009",
+      "startSeconds": 309.816,
+      "durationSeconds": 41.784,
+      "audioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/source-scene-009.mp3",
+      "narration": "Now notice how the domains connect. F helps us understand and respond to the learner. I considers the interaction and conditions surrounding participation. R shapes readiness, activity, and review. S organizes the complete flow and connects its parts. T supports the movement of learning into practice and performance. Removing one layer can weaken the whole experience. Activity without readiness or review may lose meaning. Sequence without attention to learner response may become rigid. Practice without connection or feedback may repeat current performance. FIRST helps us examine these relationships together.",
+      "section": "Scene 009"
+    },
+    {
+      "id": "source-scene-010",
+      "startSeconds": 351.6,
+      "durationSeconds": 39.384,
+      "audioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/source-scene-010.mp3",
+      "narration": "For teachers, the framework supports both design and facilitation. During design, we can use the domains to examine the intended outcome, learner differences, interaction, activity, sequence, practice, and follow-up. During facilitation, we can observe learner behaviour, support participation, guide activity, help learners review, make connections visible, and respond to evidence. FIRST is not a checklist to display without application. Its value comes from using the principles to make connected decisions that strengthen the Active Deep Learner eXperience in a particular learning context.",
+      "section": "Scene 010"
+    },
+    {
+      "id": "source-scene-011",
+      "startSeconds": 390.984,
+      "durationSeconds": 36.24,
+      "audioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/source-scene-011.mp3",
+      "narration": "Choose one lesson or learning experience you know well and scan it through the five domains. Where do you consider individual learners? How does interaction support learning? What prepares learners for activity, and how is the activity reviewed? How are ideas and experiences sequenced and linked? What helps learning move toward reality, practice, and continued action? You are not trying to apply all fifteen principles at once. This first review helps you notice which layers are already visible and which relationships deserve closer attention as we study each domain in depth.",
+      "section": "Scene 011"
+    },
+    {
+      "id": "source-scene-012",
+      "startSeconds": 427.224,
+      "durationSeconds": 39.576,
+      "audioSrc": "script-videos/roots-lesson-05-from-adlx-to-the-first-framework/source-scene-012.mp3",
+      "narration": "FIRST contains five connected domains: Focusing on Learner Behaviour, Interacting within Positive Group Dynamics, Reviewing Activities within RAR, Sequencing Activities, and Transforming Learning into Performance. Each domain contains three principles, creating fifteen principles that work together to support ADLX. In ROOTS, we will study every principle while keeping the complete learner experience in view. In the next lesson, we begin with the F domain and its first principle, Individualization, examining how awareness of learner differences can guide design and facilitation decisions.",
+      "section": "Scene 012"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-001-beat-01",
+      "sourceSceneId": "source-scene-001",
+      "startSeconds": 0.0,
+      "durationSeconds": 3.308,
+      "audioSrc": null,
+      "narration": "السلام عليكم Welcome back to ROOTS",
+      "section": "Scene 001",
+      "background": "light",
+      "visual": {
+        "kind": "title",
+        "title": "From ADLX to the FIRST Framework",
+        "kicker": "Lesson 05"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.088,
+          "endSeconds": 3.308,
+          "text": "السلام عليكم Welcome back to ROOTS"
+        }
+      ]
+    },
+    {
+      "id": "scene-001-beat-02",
+      "sourceSceneId": "source-scene-001",
+      "startSeconds": 3.308,
+      "durationSeconds": 11.061,
+      "audioSrc": null,
+      "narration": "We have established four foundations the learner-centred shift the teacher’s purposeful role Active Deep Learner eXperience and the alignment of outcomes with assessment",
+      "section": "Scene 001",
+      "background": "light",
+      "visual": {
+        "kind": "card-grid",
+        "title": "Four foundations so far",
+        "kicker": "What we have established",
+        "items": [
+          "Learner-centred shift",
+          "Purposeful teacher role",
+          "ADLX",
+          "Outcomes aligned with assessment"
+        ],
+        "itemStartSeconds": [
+          2.904,
+          4.861,
+          6.376,
+          8.598
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.554,
+          "text": "We have established four foundations the learner-centred"
+        },
+        {
+          "startSeconds": 3.447,
+          "endSeconds": 7.304,
+          "text": "shift the teacher’s purposeful role Active Deep"
+        },
+        {
+          "startSeconds": 7.184,
+          "endSeconds": 10.019,
+          "text": "Learner eXperience and the alignment of outcomes"
+        },
+        {
+          "startSeconds": 9.912,
+          "endSeconds": 11.061,
+          "text": "with assessment"
+        }
+      ]
+    },
+    {
+      "id": "scene-001-beat-03",
+      "sourceSceneId": "source-scene-001",
+      "startSeconds": 14.369,
+      "durationSeconds": 5.606,
+      "audioSrc": null,
+      "narration": "At NAMA Foundation we now bring those foundations into the FIRST Framework",
+      "section": "Scene 001",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "Now: the FIRST Framework",
+        "kicker": "At NAMA Foundation"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.138,
+          "text": "At NAMA Foundation we now bring those"
+        },
+        {
+          "startSeconds": 3.018,
+          "endSeconds": 5.606,
+          "text": "foundations into the FIRST Framework"
+        }
+      ]
+    },
+    {
+      "id": "scene-001-beat-04",
+      "sourceSceneId": "source-scene-001",
+      "startSeconds": 19.975,
+      "durationSeconds": 10.505,
+      "audioSrc": null,
+      "narration": "By the end of this lesson you should be able to name its five domains recognize the fifteen principles and explain how the domains work together to support ADLX",
+      "section": "Scene 001",
+      "background": "light",
+      "visual": {
+        "kind": "checklist",
+        "title": "By the end of this lesson",
+        "kicker": "Lesson outcome",
+        "items": [
+          "Name the five domains",
+          "Recognize the fifteen principles",
+          "Explain how the domains support ADLX"
+        ],
+        "itemStartSeconds": [
+          1.793,
+          4.091,
+          6.654
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 1.509,
+          "text": "By the end of this lesson you"
+        },
+        {
+          "startSeconds": 1.401,
+          "endSeconds": 2.999,
+          "text": "should be able to name its five"
+        },
+        {
+          "startSeconds": 2.879,
+          "endSeconds": 7.317,
+          "text": "domains recognize the fifteen principles and explain"
+        },
+        {
+          "startSeconds": 7.197,
+          "endSeconds": 9.337,
+          "text": "how the domains work together to support"
+        },
+        {
+          "startSeconds": 9.217,
+          "endSeconds": 10.505,
+          "text": "ADLX"
+        }
+      ]
+    },
+    {
+      "id": "scene-001-beat-05",
+      "sourceSceneId": "source-scene-001",
+      "startSeconds": 30.48,
+      "durationSeconds": 9.144,
+      "audioSrc": null,
+      "narration": "Think of FIRST as a connected view of the learner experience not as five separate lists or a collection of unrelated teaching techniques",
+      "section": "Scene 001",
+      "background": "light",
+      "visual": {
+        "kind": "before-after",
+        "title": "FIRST is a connected view",
+        "kicker": "Not separate lists",
+        "items": [
+          "Five separate lists",
+          "Unrelated teaching techniques",
+          "A connected view of the learner experience"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 2,
+        "itemStartSeconds": [
+          4.609,
+          7.134,
+          1.427
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.519,
+          "text": "Think of FIRST as a connected view"
+        },
+        {
+          "startSeconds": 2.462,
+          "endSeconds": 5.107,
+          "text": "of the learner experience not as five"
+        },
+        {
+          "startSeconds": 4.987,
+          "endSeconds": 7.822,
+          "text": "separate lists or a collection of unrelated"
+        },
+        {
+          "startSeconds": 7.702,
+          "endSeconds": 9.144,
+          "text": "teaching techniques"
+        }
+      ]
+    },
+    {
+      "id": "scene-002-beat-01",
+      "sourceSceneId": "source-scene-002",
+      "startSeconds": 39.624,
+      "durationSeconds": 6.604,
+      "audioSrc": null,
+      "narration": "The ROOTS Programme Manual explains that Active Deep Learner eXperience is the foundation of FIRST",
+      "section": "Scene 002",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "ADLX is the foundation of FIRST",
+        "kicker": "The ROOTS Programme Manual"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.101,
+          "endSeconds": 2.759,
+          "text": "The ROOTS Programme Manual explains that Active"
+        },
+        {
+          "startSeconds": 2.74,
+          "endSeconds": 5.625,
+          "text": "Deep Learner eXperience is the foundation of"
+        },
+        {
+          "startSeconds": 5.505,
+          "endSeconds": 6.604,
+          "text": "FIRST"
+        }
+      ]
+    },
+    {
+      "id": "scene-002-beat-02",
+      "sourceSceneId": "source-scene-002",
+      "startSeconds": 46.228,
+      "durationSeconds": 7.21,
+      "audioSrc": null,
+      "narration": "The framework contains five primary domains and fifteen principles with three principles in each domain",
+      "section": "Scene 002",
+      "background": "light",
+      "visual": {
+        "kind": "stat-tiles",
+        "title": "The FIRST Framework in numbers",
+        "kicker": "Structure",
+        "items": [
+          "5|Primary domains",
+          "15|Principles",
+          "3|Principles in each domain"
+        ],
+        "itemStartSeconds": [
+          1.427,
+          3.687,
+          5.189
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.188,
+          "text": "The framework contains five primary domains and"
+        },
+        {
+          "startSeconds": 3.081,
+          "endSeconds": 6.496,
+          "text": "fifteen principles with three principles in each"
+        },
+        {
+          "startSeconds": 6.376,
+          "endSeconds": 7.21,
+          "text": "domain"
+        }
+      ]
+    },
+    {
+      "id": "scene-002-beat-03",
+      "sourceSceneId": "source-scene-002",
+      "startSeconds": 53.437,
+      "durationSeconds": 5.417,
+      "audioSrc": null,
+      "narration": "ADLX is formed when the principles are integrated into a cohesive whole",
+      "section": "Scene 002",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "ADLX forms when the principles integrate into a cohesive whole",
+        "kicker": "Integration"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.898,
+          "text": "ADLX is formed when the principles are"
+        },
+        {
+          "startSeconds": 2.854,
+          "endSeconds": 5.417,
+          "text": "integrated into a cohesive whole"
+        }
+      ]
+    },
+    {
+      "id": "scene-002-beat-04",
+      "sourceSceneId": "source-scene-002",
+      "startSeconds": 58.854,
+      "durationSeconds": 18.234,
+      "audioSrc": null,
+      "narration": "The framework brings attention to the learner interaction activity sequence and the movement of learning into performance Each domain helps us examine part of the experience while the complete framework helps us see how those parts connect during design and facilitation",
+      "section": "Scene 002",
+      "background": "light",
+      "visual": {
+        "kind": "mind-map",
+        "title": "The framework brings attention to",
+        "kicker": "FIRST",
+        "items": [
+          "The learner",
+          "Interaction",
+          "Activity",
+          "Sequence",
+          "Learning into performance"
+        ],
+        "center": "FIRST",
+        "itemStartSeconds": [
+          1.793,
+          2.727,
+          3.939,
+          4.823,
+          7.525
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.393,
+          "text": "The framework brings attention to the learner"
+        },
+        {
+          "startSeconds": 2.727,
+          "endSeconds": 6.926,
+          "text": "interaction activity sequence and the movement of"
+        },
+        {
+          "startSeconds": 6.806,
+          "endSeconds": 10.461,
+          "text": "learning into performance Each domain helps us"
+        },
+        {
+          "startSeconds": 10.354,
+          "endSeconds": 12.746,
+          "text": "examine part of the experience while the"
+        },
+        {
+          "startSeconds": 12.626,
+          "endSeconds": 15.069,
+          "text": "complete framework helps us see how those"
+        },
+        {
+          "startSeconds": 14.962,
+          "endSeconds": 18.234,
+          "text": "parts connect during design and facilitation"
+        }
+      ]
+    },
+    {
+      "id": "scene-003-beat-01",
+      "sourceSceneId": "source-scene-003",
+      "startSeconds": 77.088,
+      "durationSeconds": 8.523,
+      "audioSrc": null,
+      "narration": "The five domains function as layers Each adds an important perspective and strengthens the complete learner experience",
+      "section": "Scene 003",
+      "background": "dark",
+      "visual": {
+        "kind": "statement",
+        "title": "The five domains function as layers",
+        "kicker": "Each adds a perspective"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.101,
+          "endSeconds": 3.239,
+          "text": "The five domains function as layers Each"
+        },
+        {
+          "startSeconds": 3.245,
+          "endSeconds": 6.509,
+          "text": "adds an important perspective and strengthens the"
+        },
+        {
+          "startSeconds": 6.402,
+          "endSeconds": 8.523,
+          "text": "complete learner experience"
+        }
+      ]
+    },
+    {
+      "id": "scene-003-beat-02",
+      "sourceSceneId": "source-scene-003",
+      "startSeconds": 85.611,
+      "durationSeconds": 19.141,
+      "audioSrc": null,
+      "narration": "We first focus on the individual learner We then consider interaction and group dynamics We examine readiness purposeful activity and active review We connect activities through structure and sequence Finally we support the movement from learning into practice and performance",
+      "section": "Scene 003",
+      "background": "dark",
+      "visual": {
+        "kind": "layer-stack",
+        "title": "Five layers of the learner experience",
+        "kicker": "From learner to performance",
+        "items": [
+          "The individual learner",
+          "Interaction and group dynamics",
+          "Readiness, activity, review",
+          "Structure and sequence",
+          "Practice and performance"
+        ],
+        "itemStartSeconds": [
+          0.934,
+          3.131,
+          6.162,
+          11.402,
+          16.932
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.064,
+          "text": "We first focus on the individual learner"
+        },
+        {
+          "startSeconds": 2.361,
+          "endSeconds": 5.208,
+          "text": "We then consider interaction and group dynamics"
+        },
+        {
+          "startSeconds": 5.505,
+          "endSeconds": 9.11,
+          "text": "We examine readiness purposeful activity and active"
+        },
+        {
+          "startSeconds": 9.003,
+          "endSeconds": 12.405,
+          "text": "review We connect activities through structure and"
+        },
+        {
+          "startSeconds": 12.298,
+          "endSeconds": 16.155,
+          "text": "sequence Finally we support the movement from"
+        },
+        {
+          "startSeconds": 16.035,
+          "endSeconds": 19.141,
+          "text": "learning into practice and performance"
+        }
+      ]
+    },
+    {
+      "id": "scene-003-beat-03",
+      "sourceSceneId": "source-scene-003",
+      "startSeconds": 104.752,
+      "durationSeconds": 11.48,
+      "audioSrc": null,
+      "narration": "The layers are connected rather than ranked A teacher uses them to notice relationships across the whole experience and to avoid treating one engaging activity as the complete design",
+      "section": "Scene 003",
+      "background": "dark",
+      "visual": {
+        "kind": "before-after",
+        "title": "Connected, not ranked",
+        "kicker": "The layers work together",
+        "items": [
+          "Ranked layers",
+          "One engaging activity as the whole design",
+          "Relationships across the whole experience"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 2,
+        "itemStartSeconds": [
+          1.566,
+          7.904,
+          4.053
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.102,
+          "text": "The layers are connected rather than ranked"
+        },
+        {
+          "startSeconds": 2.386,
+          "endSeconds": 5.057,
+          "text": "A teacher uses them to notice relationships"
+        },
+        {
+          "startSeconds": 5.025,
+          "endSeconds": 7.532,
+          "text": "across the whole experience and to avoid"
+        },
+        {
+          "startSeconds": 7.487,
+          "endSeconds": 10.701,
+          "text": "treating one engaging activity as the complete"
+        },
+        {
+          "startSeconds": 10.593,
+          "endSeconds": 11.48,
+          "text": "design"
+        }
+      ]
+    },
+    {
+      "id": "scene-004-beat-01",
+      "sourceSceneId": "source-scene-004",
+      "startSeconds": 116.232,
+      "durationSeconds": 3.169,
+      "audioSrc": null,
+      "narration": "F stands for Focusing on Learner Behaviour",
+      "section": "Scene 004",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "F · Focusing on Learner Behaviour",
+        "kicker": "Domain 1"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.101,
+          "endSeconds": 2.885,
+          "text": "F stands for Focusing on Learner Behaviour"
+        }
+      ]
+    },
+    {
+      "id": "scene-004-beat-02",
+      "sourceSceneId": "source-scene-004",
+      "startSeconds": 119.401,
+      "durationSeconds": 9.722,
+      "audioSrc": null,
+      "narration": "This domain asks the teacher to consider each learner’s prior knowledge feelings experience learning curve and responses throughout the learning journey",
+      "section": "Scene 004",
+      "background": "light",
+      "visual": {
+        "kind": "card-grid",
+        "title": "The domain asks the teacher to consider",
+        "kicker": "Each learner’s",
+        "items": [
+          "Prior knowledge",
+          "Feelings",
+          "Experience",
+          "Learning curve",
+          "Responses"
+        ],
+        "itemStartSeconds": [
+          3.03,
+          4.205,
+          5.088,
+          6.162,
+          7.235
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.367,
+          "text": "This domain asks the teacher to consider"
+        },
+        {
+          "startSeconds": 2.386,
+          "endSeconds": 6.61,
+          "text": "each learner’s prior knowledge feelings experience learning"
+        },
+        {
+          "startSeconds": 6.49,
+          "endSeconds": 9.438,
+          "text": "curve and responses throughout the learning journey"
+        }
+      ]
+    },
+    {
+      "id": "scene-004-beat-03",
+      "sourceSceneId": "source-scene-004",
+      "startSeconds": 129.123,
+      "durationSeconds": 6.111,
+      "audioSrc": null,
+      "narration": "Its three principles are Individualization Probing and Assessing and Trusting the Learner",
+      "section": "Scene 004",
+      "background": "light",
+      "visual": {
+        "kind": "mind-map",
+        "title": "Three principles of F",
+        "kicker": "Focusing on Learner Behaviour",
+        "items": [
+          "Individualization",
+          "Probing and Assessing",
+          "Trusting the Learner"
+        ],
+        "center": "F",
+        "itemStartSeconds": [
+          1.263,
+          2.828,
+          4.798
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.756,
+          "text": "Its three principles are Individualization Probing and"
+        },
+        {
+          "startSeconds": 3.636,
+          "endSeconds": 6.111,
+          "text": "Assessing and Trusting the Learner"
+        }
+      ]
+    },
+    {
+      "id": "scene-004-beat-04",
+      "sourceSceneId": "source-scene-004",
+      "startSeconds": 135.235,
+      "durationSeconds": 13.687,
+      "audioSrc": null,
+      "narration": "Together they guide us to notice learner differences create and use evidence for teaching decisions and recognize learners as active participants with knowledge experience ability and responsibility",
+      "section": "Scene 004",
+      "background": "light",
+      "visual": {
+        "kind": "checklist",
+        "title": "Together, they guide us to",
+        "kicker": "Principles in practice",
+        "items": [
+          "Notice learner differences",
+          "Create and use evidence for decisions",
+          "See learners as active participants"
+        ],
+        "itemStartSeconds": [
+          1.49,
+          3.308,
+          8.207
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.38,
+          "text": "Together they guide us to notice learner"
+        },
+        {
+          "startSeconds": 2.26,
+          "endSeconds": 5.638,
+          "text": "differences create and use evidence for teaching"
+        },
+        {
+          "startSeconds": 5.53,
+          "endSeconds": 9.312,
+          "text": "decisions and recognize learners as active participants"
+        },
+        {
+          "startSeconds": 9.192,
+          "endSeconds": 13.687,
+          "text": "with knowledge experience ability and responsibility"
+        }
+      ]
+    },
+    {
+      "id": "scene-004-beat-05",
+      "sourceSceneId": "source-scene-004",
+      "startSeconds": 148.921,
+      "durationSeconds": 6.263,
+      "audioSrc": null,
+      "narration": "F keeps the individual learner visible even when teaching takes place within a larger class",
+      "section": "Scene 004",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "F keeps the individual learner visible, even in a larger class",
+        "kicker": "The point of F"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.302,
+          "text": "F keeps the individual learner visible even"
+        },
+        {
+          "startSeconds": 3.182,
+          "endSeconds": 5.36,
+          "text": "when teaching takes place within a larger"
+        },
+        {
+          "startSeconds": 5.24,
+          "endSeconds": 6.263,
+          "text": "class"
+        }
+      ]
+    },
+    {
+      "id": "scene-005-beat-01",
+      "sourceSceneId": "source-scene-005",
+      "startSeconds": 155.184,
+      "durationSeconds": 3.712,
+      "audioSrc": null,
+      "narration": "I stands for Interacting within Positive Group Dynamics",
+      "section": "Scene 005",
+      "background": "dark",
+      "visual": {
+        "kind": "statement",
+        "title": "I · Interacting within Positive Group Dynamics",
+        "kicker": "Domain 2"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.088,
+          "endSeconds": 2.633,
+          "text": "I stands for Interacting within Positive Group"
+        },
+        {
+          "startSeconds": 2.525,
+          "endSeconds": 3.712,
+          "text": "Dynamics"
+        }
+      ]
+    },
+    {
+      "id": "scene-005-beat-02",
+      "sourceSceneId": "source-scene-005",
+      "startSeconds": 158.896,
+      "durationSeconds": 7.21,
+      "audioSrc": null,
+      "narration": "While F looks closely at each learner I considers interaction between learners and the experience created by the group",
+      "section": "Scene 005",
+      "background": "dark",
+      "visual": {
+        "kind": "comparison",
+        "title": "F and I look at different things",
+        "kicker": "Learner and group",
+        "items": [
+          "Each learner",
+          "The experience created by the group"
+        ],
+        "leftLabel": "F looks at",
+        "rightLabel": "I considers",
+        "joiner": "+",
+        "leftCount": 1,
+        "itemStartSeconds": [
+          1.414,
+          5.063
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.216,
+          "text": "While F looks closely at each learner"
+        },
+        {
+          "startSeconds": 2.576,
+          "endSeconds": 5.183,
+          "text": "I considers interaction between learners and the"
+        },
+        {
+          "startSeconds": 5.063,
+          "endSeconds": 7.21,
+          "text": "experience created by the group"
+        }
+      ]
+    },
+    {
+      "id": "scene-005-beat-03",
+      "sourceSceneId": "source-scene-005",
+      "startSeconds": 166.106,
+      "durationSeconds": 7.563,
+      "audioSrc": null,
+      "narration": "Its three principles are Learning as a Social Event Creating a Positive Spirit and Supporting Motivation and Attention",
+      "section": "Scene 005",
+      "background": "dark",
+      "visual": {
+        "kind": "card-grid",
+        "title": "Three principles of I",
+        "kicker": "Interacting within Positive Group Dynamics",
+        "items": [
+          "Learning as a Social Event",
+          "Creating a Positive Spirit",
+          "Supporting Motivation and Attention"
+        ],
+        "itemStartSeconds": [
+          1.187,
+          3.194,
+          5.227
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.039,
+          "text": "Its three principles are Learning as a"
+        },
+        {
+          "startSeconds": 1.932,
+          "endSeconds": 5.347,
+          "text": "Social Event Creating a Positive Spirit and"
+        },
+        {
+          "startSeconds": 5.227,
+          "endSeconds": 7.563,
+          "text": "Supporting Motivation and Attention"
+        }
+      ]
+    },
+    {
+      "id": "scene-005-beat-04",
+      "sourceSceneId": "source-scene-005",
+      "startSeconds": 173.669,
+      "durationSeconds": 8.952,
+      "audioSrc": null,
+      "narration": "These principles remind us that interaction emotion motivation focus and relationships influence participation and learning",
+      "section": "Scene 005",
+      "background": "dark",
+      "visual": {
+        "kind": "mind-map",
+        "title": "These influence participation and learning",
+        "kicker": "Why it matters",
+        "items": [
+          "Interaction",
+          "Emotion",
+          "Motivation",
+          "Focus",
+          "Relationships"
+        ],
+        "center": "Participation and learning",
+        "itemStartSeconds": [
+          1.692,
+          2.79,
+          3.75,
+          4.672,
+          5.707
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.479,
+          "text": "These principles remind us that interaction emotion"
+        },
+        {
+          "startSeconds": 3.75,
+          "endSeconds": 8.302,
+          "text": "motivation focus and relationships influence participation and"
+        },
+        {
+          "startSeconds": 8.182,
+          "endSeconds": 8.952,
+          "text": "learning"
+        }
+      ]
+    },
+    {
+      "id": "scene-005-beat-05",
+      "sourceSceneId": "source-scene-005",
+      "startSeconds": 182.621,
+      "durationSeconds": 10.051,
+      "audioSrc": null,
+      "narration": "The teacher considers how the social environment supports the outcome rather than assuming that placing learners together automatically creates a positive or productive experience",
+      "section": "Scene 005",
+      "background": "dark",
+      "visual": {
+        "kind": "before-after",
+        "title": "A social environment that supports the outcome",
+        "kicker": "Do not assume",
+        "items": [
+          "Placing learners together",
+          "A social environment that supports the outcome"
+        ],
+        "leftLabel": "Not automatic",
+        "rightLabel": "Consider",
+        "leftCount": 1,
+        "itemStartSeconds": [
+          4.874,
+          2.235
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.355,
+          "text": "The teacher considers how the social environment"
+        },
+        {
+          "startSeconds": 2.235,
+          "endSeconds": 4.994,
+          "text": "supports the outcome rather than assuming that"
+        },
+        {
+          "startSeconds": 4.874,
+          "endSeconds": 8.314,
+          "text": "placing learners together automatically creates a positive"
+        },
+        {
+          "startSeconds": 8.308,
+          "endSeconds": 10.051,
+          "text": "or productive experience"
+        }
+      ]
+    },
+    {
+      "id": "scene-006-beat-01",
+      "sourceSceneId": "source-scene-006",
+      "startSeconds": 192.672,
+      "durationSeconds": 3.131,
+      "audioSrc": null,
+      "narration": "R stands for Reviewing Activities within RAR",
+      "section": "Scene 006",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "R · Reviewing Activities within RAR",
+        "kicker": "Domain 3"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.101,
+          "endSeconds": 2.847,
+          "text": "R stands for Reviewing Activities within RAR"
+        }
+      ]
+    },
+    {
+      "id": "scene-006-beat-02",
+      "sourceSceneId": "source-scene-006",
+      "startSeconds": 195.803,
+      "durationSeconds": 10.29,
+      "audioSrc": null,
+      "narration": "RAR directs attention to the full experience of an activity readiness before it begins facilitation while learners participate and active review afterward",
+      "section": "Scene 006",
+      "background": "light",
+      "visual": {
+        "kind": "process",
+        "title": "RAR: the full experience of an activity",
+        "kicker": "Before, during, after",
+        "items": [
+          "Readiness",
+          "Facilitation",
+          "Active review"
+        ],
+        "itemStartSeconds": [
+          4.255,
+          6.035,
+          8.674
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.062,
+          "text": "RAR directs attention to the full experience"
+        },
+        {
+          "startSeconds": 2.955,
+          "endSeconds": 5.979,
+          "text": "of an activity readiness before it begins"
+        },
+        {
+          "startSeconds": 6.035,
+          "endSeconds": 9.527,
+          "text": "facilitation while learners participate and active review"
+        },
+        {
+          "startSeconds": 9.407,
+          "endSeconds": 10.29,
+          "text": "afterward"
+        }
+      ]
+    },
+    {
+      "id": "scene-006-beat-03",
+      "sourceSceneId": "source-scene-006",
+      "startSeconds": 206.094,
+      "durationSeconds": 7.134,
+      "audioSrc": null,
+      "narration": "Its three principles are Increasing Learner Readiness Facilitating Learner Activity and Reviewing Learning Actively",
+      "section": "Scene 006",
+      "background": "light",
+      "visual": {
+        "kind": "card-grid",
+        "title": "Three principles of R",
+        "kicker": "Reviewing Activities within RAR",
+        "items": [
+          "Increasing Learner Readiness",
+          "Facilitating Learner Activity",
+          "Reviewing Learning Actively"
+        ],
+        "itemStartSeconds": [
+          1.136,
+          3.131,
+          5.29
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.999,
+          "text": "Its three principles are Increasing Learner Readiness"
+        },
+        {
+          "startSeconds": 3.131,
+          "endSeconds": 6.837,
+          "text": "Facilitating Learner Activity and Reviewing Learning Actively"
+        }
+      ]
+    },
+    {
+      "id": "scene-006-beat-04",
+      "sourceSceneId": "source-scene-006",
+      "startSeconds": 213.228,
+      "durationSeconds": 13.611,
+      "audioSrc": null,
+      "narration": "The activity itself is not the whole learning process Learners need preparation to enter it support to participate meaningfully and review that helps them use the experience for learning and development",
+      "section": "Scene 006",
+      "background": "light",
+      "visual": {
+        "kind": "checklist",
+        "title": "The activity is not the whole process",
+        "kicker": "Learners need",
+        "items": [
+          "Preparation to enter",
+          "Support to participate",
+          "Review for learning"
+        ],
+        "itemStartSeconds": [
+          4.949,
+          6.692,
+          9.457
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.948,
+          "text": "The activity itself is not the whole"
+        },
+        {
+          "startSeconds": 2.828,
+          "endSeconds": 6.269,
+          "text": "learning process Learners need preparation to enter"
+        },
+        {
+          "startSeconds": 6.149,
+          "endSeconds": 10.107,
+          "text": "it support to participate meaningfully and review"
+        },
+        {
+          "startSeconds": 10.05,
+          "endSeconds": 12.09,
+          "text": "that helps them use the experience for"
+        },
+        {
+          "startSeconds": 11.982,
+          "endSeconds": 13.611,
+          "text": "learning and development"
+        }
+      ]
+    },
+    {
+      "id": "scene-006-beat-05",
+      "sourceSceneId": "source-scene-006",
+      "startSeconds": 226.839,
+      "durationSeconds": 6.081,
+      "audioSrc": null,
+      "narration": "In ROOTS active review is where experience is examined and meaning becomes visible",
+      "section": "Scene 006",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "Active review is where meaning becomes visible",
+        "kicker": "In ROOTS"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.176,
+          "text": "In ROOTS active review is where experience"
+        },
+        {
+          "startSeconds": 3.068,
+          "endSeconds": 6.081,
+          "text": "is examined and meaning becomes visible"
+        }
+      ]
+    },
+    {
+      "id": "scene-007-beat-01",
+      "sourceSceneId": "source-scene-007",
+      "startSeconds": 232.92,
+      "durationSeconds": 9.912,
+      "audioSrc": null,
+      "narration": "S stands for Sequencing Activities This domain considers the complete flow of the learning experience from beginning to end and how its parts connect",
+      "section": "Scene 007",
+      "background": "dark",
+      "visual": {
+        "kind": "statement",
+        "title": "S · Sequencing Activities",
+        "kicker": "Domain 4"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.101,
+          "endSeconds": 3.857,
+          "text": "S stands for Sequencing Activities This domain"
+        },
+        {
+          "startSeconds": 3.75,
+          "endSeconds": 6.282,
+          "text": "considers the complete flow of the learning"
+        },
+        {
+          "startSeconds": 6.174,
+          "endSeconds": 8.832,
+          "text": "experience from beginning to end and how"
+        },
+        {
+          "startSeconds": 8.712,
+          "endSeconds": 9.912,
+          "text": "its parts connect"
+        }
+      ]
+    },
+    {
+      "id": "scene-007-beat-02",
+      "sourceSceneId": "source-scene-007",
+      "startSeconds": 242.832,
+      "durationSeconds": 7.828,
+      "audioSrc": null,
+      "narration": "Its three principles are Structuring and Sequencing Learning Repetition without Boredom and Linking and Summarizing",
+      "section": "Scene 007",
+      "background": "dark",
+      "visual": {
+        "kind": "roadmap-path",
+        "title": "The flow of the experience",
+        "kicker": "Beginning to end",
+        "items": [
+          "Structuring and Sequencing Learning",
+          "Repetition without Boredom",
+          "Linking and Summarizing"
+        ],
+        "itemStartSeconds": [
+          1.162,
+          3.611,
+          5.859
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.948,
+          "text": "Its three principles are Structuring and Sequencing"
+        },
+        {
+          "startSeconds": 2.841,
+          "endSeconds": 6.799,
+          "text": "Learning Repetition without Boredom and Linking and"
+        },
+        {
+          "startSeconds": 6.679,
+          "endSeconds": 7.828,
+          "text": "Summarizing"
+        }
+      ]
+    },
+    {
+      "id": "scene-007-beat-03",
+      "sourceSceneId": "source-scene-007",
+      "startSeconds": 250.66,
+      "durationSeconds": 19.748,
+      "audioSrc": null,
+      "narration": "Structure helps ideas and activities make sense together Purposeful variation and repetition support the development of knowledge and skill without reducing learning to redundant drill Linking and summarizing help learners monitor the learning path see connections and consolidate what the experience is building",
+      "section": "Scene 007",
+      "background": "dark",
+      "visual": {
+        "kind": "checklist",
+        "title": "What each principle does",
+        "kicker": "Principles in practice",
+        "items": [
+          "Structure makes ideas fit",
+          "Variation builds skill",
+          "Linking shows the path"
+        ],
+        "itemStartSeconds": [
+          0.0,
+          4.268,
+          11.843
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.974,
+          "text": "Structure helps ideas and activities make sense"
+        },
+        {
+          "startSeconds": 2.866,
+          "endSeconds": 6.66,
+          "text": "together Purposeful variation and repetition support the"
+        },
+        {
+          "startSeconds": 6.553,
+          "endSeconds": 9.842,
+          "text": "development of knowledge and skill without reducing"
+        },
+        {
+          "startSeconds": 9.722,
+          "endSeconds": 13.453,
+          "text": "learning to redundant drill Linking and summarizing"
+        },
+        {
+          "startSeconds": 13.333,
+          "endSeconds": 16.029,
+          "text": "help learners monitor the learning path see"
+        },
+        {
+          "startSeconds": 15.909,
+          "endSeconds": 19.009,
+          "text": "connections and consolidate what the experience is"
+        },
+        {
+          "startSeconds": 18.889,
+          "endSeconds": 19.748,
+          "text": "building"
+        }
+      ]
+    },
+    {
+      "id": "scene-008-beat-01",
+      "sourceSceneId": "source-scene-008",
+      "startSeconds": 270.408,
+      "durationSeconds": 10.631,
+      "audioSrc": null,
+      "narration": "T stands for Transforming Learning into Performance This domain asks how learning begins to move into action and how practice and transfer are supported",
+      "section": "Scene 008",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "T · Transforming Learning into Performance",
+        "kicker": "Domain 5"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.101,
+          "endSeconds": 3.996,
+          "text": "T stands for Transforming Learning into Performance"
+        },
+        {
+          "startSeconds": 4.293,
+          "endSeconds": 6.458,
+          "text": "This domain asks how learning begins to"
+        },
+        {
+          "startSeconds": 6.338,
+          "endSeconds": 8.958,
+          "text": "move into action and how practice and"
+        },
+        {
+          "startSeconds": 8.851,
+          "endSeconds": 10.631,
+          "text": "transfer are supported"
+        }
+      ]
+    },
+    {
+      "id": "scene-008-beat-02",
+      "sourceSceneId": "source-scene-008",
+      "startSeconds": 281.039,
+      "durationSeconds": 7.98,
+      "audioSrc": null,
+      "narration": "Its three principles are Reflection on Reality Practising and Experiencing and Continuity and Follow-Up",
+      "section": "Scene 008",
+      "background": "light",
+      "visual": {
+        "kind": "staircase",
+        "title": "Three principles of T",
+        "kicker": "From learning to performance",
+        "items": [
+          "Reflection on Reality",
+          "Practising and Experiencing",
+          "Continuity and Follow-Up"
+        ],
+        "itemStartSeconds": [
+          1.111,
+          3.157,
+          5.758
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.86,
+          "text": "Its three principles are Reflection on Reality"
+        },
+        {
+          "startSeconds": 3.157,
+          "endSeconds": 7.696,
+          "text": "Practising and Experiencing and Continuity and Follow-Up"
+        }
+      ]
+    },
+    {
+      "id": "scene-008-beat-03",
+      "sourceSceneId": "source-scene-008",
+      "startSeconds": 289.019,
+      "durationSeconds": 10.328,
+      "audioSrc": null,
+      "narration": "Learners connect the topic with their own reality receive opportunities to practise and experience what they are learning and continue the learning beyond the immediate event",
+      "section": "Scene 008",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "Connect with reality, practise, and continue beyond the event",
+        "kicker": "What learners do"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 1.976,
+          "text": "Learners connect the topic with their own"
+        },
+        {
+          "startSeconds": 1.856,
+          "endSeconds": 5.941,
+          "text": "reality receive opportunities to practise and experience"
+        },
+        {
+          "startSeconds": 5.833,
+          "endSeconds": 7.898,
+          "text": "what they are learning and continue the"
+        },
+        {
+          "startSeconds": 7.778,
+          "endSeconds": 10.328,
+          "text": "learning beyond the immediate event"
+        }
+      ]
+    },
+    {
+      "id": "scene-008-beat-04",
+      "sourceSceneId": "source-scene-008",
+      "startSeconds": 299.347,
+      "durationSeconds": 10.469,
+      "audioSrc": null,
+      "narration": "T keeps performance in view and reminds the teacher that understanding gains strength when learners connect it with reality action feedback and continued application",
+      "section": "Scene 008",
+      "background": "light",
+      "visual": {
+        "kind": "mind-map",
+        "title": "Understanding gains strength",
+        "kicker": "T keeps performance in view",
+        "items": [
+          "Reality",
+          "Action",
+          "Feedback",
+          "Continued application"
+        ],
+        "center": "Understanding",
+        "itemStartSeconds": [
+          6.124,
+          7.172,
+          7.942,
+          8.939
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.393,
+          "text": "T keeps performance in view and reminds"
+        },
+        {
+          "startSeconds": 2.273,
+          "endSeconds": 5.158,
+          "text": "the teacher that understanding gains strength when"
+        },
+        {
+          "startSeconds": 5.051,
+          "endSeconds": 8.756,
+          "text": "learners connect it with reality action feedback"
+        },
+        {
+          "startSeconds": 8.851,
+          "endSeconds": 10.469,
+          "text": "and continued application"
+        }
+      ]
+    },
+    {
+      "id": "scene-009-beat-01",
+      "sourceSceneId": "source-scene-009",
+      "startSeconds": 309.816,
+      "durationSeconds": 21.768,
+      "audioSrc": null,
+      "narration": "Now notice how the domains connect F helps us understand and respond to the learner I considers the interaction and conditions surrounding participation R shapes readiness activity and review S organizes the complete flow and connects its parts T supports the movement of learning into practice and performance",
+      "section": "Scene 009",
+      "background": "dark",
+      "visual": {
+        "kind": "mind-map",
+        "title": "How the domains connect",
+        "kicker": "One role each",
+        "items": [
+          "F: respond to the learner",
+          "I: interaction and conditions",
+          "R: readiness, activity, review",
+          "S: the complete flow",
+          "T: practice and performance"
+        ],
+        "center": "FIRST",
+        "itemStartSeconds": [
+          2.197,
+          5.316,
+          9.672,
+          13.005,
+          16.919
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.101,
+          "endSeconds": 2.494,
+          "text": "Now notice how the domains connect F"
+        },
+        {
+          "startSeconds": 2.386,
+          "endSeconds": 4.628,
+          "text": "helps us understand and respond to the"
+        },
+        {
+          "startSeconds": 4.508,
+          "endSeconds": 7.961,
+          "text": "learner I considers the interaction and conditions"
+        },
+        {
+          "startSeconds": 7.992,
+          "endSeconds": 12.304,
+          "text": "surrounding participation R shapes readiness activity and"
+        },
+        {
+          "startSeconds": 12.184,
+          "endSeconds": 15.486,
+          "text": "review S organizes the complete flow and"
+        },
+        {
+          "startSeconds": 15.379,
+          "endSeconds": 18.504,
+          "text": "connects its parts T supports the movement"
+        },
+        {
+          "startSeconds": 18.46,
+          "endSeconds": 21.768,
+          "text": "of learning into practice and performance"
+        }
+      ]
+    },
+    {
+      "id": "scene-009-beat-02",
+      "sourceSceneId": "source-scene-009",
+      "startSeconds": 331.584,
+      "durationSeconds": 16.97,
+      "audioSrc": null,
+      "narration": "Removing one layer can weaken the whole experience Activity without readiness or review may lose meaning Sequence without attention to learner response may become rigid Practice without connection or feedback may repeat current performance",
+      "section": "Scene 009",
+      "background": "dark",
+      "visual": {
+        "kind": "decision-tree",
+        "title": "If a layer is missing…",
+        "kicker": "Removing one layer",
+        "items": [
+          "Activity without readiness or review | Loses meaning",
+          "Sequence without learner response | Becomes rigid",
+          "Practice without connection or feedback | Repeats current performance"
+        ],
+        "center": "A layer is missing",
+        "itemStartSeconds": [
+          3.902,
+          8.068,
+          12.273
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.772,
+          "text": "Removing one layer can weaken the whole"
+        },
+        {
+          "startSeconds": 2.664,
+          "endSeconds": 6.976,
+          "text": "experience Activity without readiness or review may"
+        },
+        {
+          "startSeconds": 6.869,
+          "endSeconds": 9.981,
+          "text": "lose meaning Sequence without attention to learner"
+        },
+        {
+          "startSeconds": 9.861,
+          "endSeconds": 13.958,
+          "text": "response may become rigid Practice without connection"
+        },
+        {
+          "startSeconds": 13.914,
+          "endSeconds": 16.97,
+          "text": "or feedback may repeat current performance"
+        }
+      ]
+    },
+    {
+      "id": "scene-009-beat-03",
+      "sourceSceneId": "source-scene-009",
+      "startSeconds": 348.553,
+      "durationSeconds": 3.047,
+      "audioSrc": null,
+      "narration": "FIRST helps us examine these relationships together",
+      "section": "Scene 009",
+      "background": "dark",
+      "visual": {
+        "kind": "statement",
+        "title": "FIRST helps us examine these relationships together",
+        "kicker": "The point"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.746,
+          "text": "FIRST helps us examine these relationships together"
+        }
+      ]
+    },
+    {
+      "id": "scene-010-beat-01",
+      "sourceSceneId": "source-scene-010",
+      "startSeconds": 351.6,
+      "durationSeconds": 26.086,
+      "audioSrc": null,
+      "narration": "For teachers the framework supports both design and facilitation During design we can use the domains to examine the intended outcome learner differences interaction activity sequence practice and follow-up During facilitation we can observe learner behaviour support participation guide activity help learners review make connections visible and respond to evidence",
+      "section": "Scene 010",
+      "background": "light",
+      "visual": {
+        "kind": "comparison",
+        "title": "The framework supports design and facilitation",
+        "kicker": "Two uses",
+        "items": [
+          "Examine the intended outcome",
+          "Examine interaction and activity",
+          "Examine sequence, practice and follow-up",
+          "Observe learner behaviour",
+          "Support participation and guide activity",
+          "Help learners review and respond to evidence"
+        ],
+        "leftLabel": "During design",
+        "rightLabel": "During facilitation",
+        "joiner": "+",
+        "leftCount": 3,
+        "itemStartSeconds": [
+          8.068,
+          10.72,
+          12.626,
+          16.995,
+          18.573,
+          21.326
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.139,
+          "endSeconds": 3.542,
+          "text": "For teachers the framework supports both design"
+        },
+        {
+          "startSeconds": 3.611,
+          "endSeconds": 6.799,
+          "text": "and facilitation During design we can use"
+        },
+        {
+          "startSeconds": 6.679,
+          "endSeconds": 9.224,
+          "text": "the domains to examine the intended outcome"
+        },
+        {
+          "startSeconds": 9.52,
+          "endSeconds": 14.325,
+          "text": "learner differences interaction activity sequence practice and"
+        },
+        {
+          "startSeconds": 14.205,
+          "endSeconds": 17.86,
+          "text": "follow-up During facilitation we can observe learner"
+        },
+        {
+          "startSeconds": 17.74,
+          "endSeconds": 22.039,
+          "text": "behaviour support participation guide activity help learners"
+        },
+        {
+          "startSeconds": 21.932,
+          "endSeconds": 25.107,
+          "text": "review make connections visible and respond to"
+        },
+        {
+          "startSeconds": 24.987,
+          "endSeconds": 26.086,
+          "text": "evidence"
+        }
+      ]
+    },
+    {
+      "id": "scene-010-beat-02",
+      "sourceSceneId": "source-scene-010",
+      "startSeconds": 377.686,
+      "durationSeconds": 13.298,
+      "audioSrc": null,
+      "narration": "FIRST is not a checklist to display without application Its value comes from using the principles to make connected decisions that strengthen the Active Deep Learner eXperience in a particular learning context",
+      "section": "Scene 010",
+      "background": "light",
+      "visual": {
+        "kind": "before-after",
+        "title": "Use the principles; do not display them",
+        "kicker": "Application",
+        "items": [
+          "A checklist to display",
+          "Connected decisions that strengthen ADLX"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1,
+        "itemStartSeconds": [
+          0.758,
+          6.401
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.304,
+          "text": "FIRST is not a checklist to display"
+        },
+        {
+          "startSeconds": 2.424,
+          "endSeconds": 5.372,
+          "text": "without application Its value comes from using"
+        },
+        {
+          "startSeconds": 5.252,
+          "endSeconds": 8.176,
+          "text": "the principles to make connected decisions that"
+        },
+        {
+          "startSeconds": 8.056,
+          "endSeconds": 11.534,
+          "text": "strengthen the Active Deep Learner eXperience in"
+        },
+        {
+          "startSeconds": 11.427,
+          "endSeconds": 13.298,
+          "text": "a particular learning context"
+        }
+      ]
+    },
+    {
+      "id": "scene-011-beat-01",
+      "sourceSceneId": "source-scene-011",
+      "startSeconds": 390.984,
+      "durationSeconds": 5.682,
+      "audioSrc": null,
+      "narration": "Choose one lesson or learning experience you know well and scan it through the five domains",
+      "section": "Scene 011",
+      "background": "dark",
+      "visual": {
+        "kind": "statement",
+        "title": "Scan one lesson through the five domains",
+        "kicker": "Your turn"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.101,
+          "endSeconds": 2.721,
+          "text": "Choose one lesson or learning experience you"
+        },
+        {
+          "startSeconds": 2.601,
+          "endSeconds": 4.337,
+          "text": "know well and scan it through the"
+        },
+        {
+          "startSeconds": 4.217,
+          "endSeconds": 5.682,
+          "text": "five domains"
+        }
+      ]
+    },
+    {
+      "id": "scene-011-beat-02",
+      "sourceSceneId": "source-scene-011",
+      "startSeconds": 396.666,
+      "durationSeconds": 17.715,
+      "audioSrc": null,
+      "narration": "Where do you consider individual learners How does interaction support learning What prepares learners for activity and how is the activity reviewed How are ideas and experiences sequenced and linked What helps learning move toward reality practice and continued action",
+      "section": "Scene 011",
+      "background": "dark",
+      "visual": {
+        "kind": "process",
+        "title": "Five questions, one for each domain",
+        "kicker": "F · I · R · S · T",
+        "items": [
+          "Individual learners?",
+          "Interaction?",
+          "Preparation and review?",
+          "Sequence and links?",
+          "Reality and practice?"
+        ],
+        "itemStartSeconds": [
+          0.922,
+          2.778,
+          4.659,
+          10.896,
+          14.331
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.746,
+          "text": "Where do you consider individual learners How"
+        },
+        {
+          "startSeconds": 2.626,
+          "endSeconds": 5.701,
+          "text": "does interaction support learning What prepares learners"
+        },
+        {
+          "startSeconds": 5.581,
+          "endSeconds": 7.973,
+          "text": "for activity and how is the activity"
+        },
+        {
+          "startSeconds": 7.866,
+          "endSeconds": 11.749,
+          "text": "reviewed How are ideas and experiences sequenced"
+        },
+        {
+          "startSeconds": 11.742,
+          "endSeconds": 14.451,
+          "text": "and linked What helps learning move toward"
+        },
+        {
+          "startSeconds": 14.331,
+          "endSeconds": 17.715,
+          "text": "reality practice and continued action"
+        }
+      ]
+    },
+    {
+      "id": "scene-011-beat-03",
+      "sourceSceneId": "source-scene-011",
+      "startSeconds": 414.38,
+      "durationSeconds": 12.844,
+      "audioSrc": null,
+      "narration": "You are not trying to apply all fifteen principles at once This first review helps you notice which layers are already visible and which relationships deserve closer attention as we study each domain in depth",
+      "section": "Scene 011",
+      "background": "dark",
+      "visual": {
+        "kind": "before-after",
+        "title": "A first review, not a full audit",
+        "kicker": "Notice, do not apply everything",
+        "items": [
+          "Applying all fifteen principles at once",
+          "Notice which layers are already visible"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1,
+        "itemStartSeconds": [
+          0.644,
+          4.836
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 1.799,
+          "text": "You are not trying to apply all"
+        },
+        {
+          "startSeconds": 1.679,
+          "endSeconds": 4.615,
+          "text": "fifteen principles at once This first review"
+        },
+        {
+          "startSeconds": 4.495,
+          "endSeconds": 6.572,
+          "text": "helps you notice which layers are already"
+        },
+        {
+          "startSeconds": 6.452,
+          "endSeconds": 10.069,
+          "text": "visible and which relationships deserve closer attention"
+        },
+        {
+          "startSeconds": 10.227,
+          "endSeconds": 12.557,
+          "text": "as we study each domain in depth"
+        }
+      ]
+    },
+    {
+      "id": "scene-012-beat-01",
+      "sourceSceneId": "source-scene-012",
+      "startSeconds": 427.224,
+      "durationSeconds": 14.381,
+      "audioSrc": null,
+      "narration": "FIRST contains five connected domains Focusing on Learner Behaviour Interacting within Positive Group Dynamics Reviewing Activities within RAR Sequencing Activities and Transforming Learning into Performance",
+      "section": "Scene 012",
+      "background": "light",
+      "visual": {
+        "kind": "card-grid",
+        "title": "FIRST: five connected domains",
+        "kicker": "Summary",
+        "items": [
+          "F · Learner Behaviour",
+          "I · Positive Group Dynamics",
+          "R · Reviewing Activities (RAR)",
+          "S · Sequencing Activities",
+          "T · Learning into Performance"
+        ],
+        "itemStartSeconds": [
+          3.611,
+          5.795,
+          7.563,
+          10.05,
+          12.487
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.139,
+          "endSeconds": 3.731,
+          "text": "FIRST contains five connected domains Focusing on"
+        },
+        {
+          "startSeconds": 3.611,
+          "endSeconds": 7.405,
+          "text": "Learner Behaviour Interacting within Positive Group Dynamics"
+        },
+        {
+          "startSeconds": 7.563,
+          "endSeconds": 11.825,
+          "text": "Reviewing Activities within RAR Sequencing Activities and"
+        },
+        {
+          "startSeconds": 11.705,
+          "endSeconds": 14.381,
+          "text": "Transforming Learning into Performance"
+        }
+      ]
+    },
+    {
+      "id": "scene-012-beat-02",
+      "sourceSceneId": "source-scene-012",
+      "startSeconds": 441.605,
+      "durationSeconds": 7.235,
+      "audioSrc": null,
+      "narration": "Each domain contains three principles creating fifteen principles that work together to support ADLX",
+      "section": "Scene 012",
+      "background": "light",
+      "visual": {
+        "kind": "stat-tiles",
+        "title": "Three principles in each domain",
+        "kicker": "Fifteen in all",
+        "items": [
+          "3|Principles in each domain",
+          "15|Principles together"
+        ],
+        "itemStartSeconds": [
+          1.982,
+          3.838
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.958,
+          "text": "Each domain contains three principles creating fifteen"
+        },
+        {
+          "startSeconds": 3.838,
+          "endSeconds": 6.963,
+          "text": "principles that work together to support ADLX"
+        }
+      ]
+    },
+    {
+      "id": "scene-012-beat-03",
+      "sourceSceneId": "source-scene-012",
+      "startSeconds": 448.84,
+      "durationSeconds": 6.111,
+      "audioSrc": null,
+      "narration": "In ROOTS we will study every principle while keeping the complete learner experience in view",
+      "section": "Scene 012",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "We will study every principle, keeping the whole experience in view",
+        "kicker": "In ROOTS"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.885,
+          "text": "In ROOTS we will study every principle"
+        },
+        {
+          "startSeconds": 2.992,
+          "endSeconds": 5.436,
+          "text": "while keeping the complete learner experience in"
+        },
+        {
+          "startSeconds": 5.328,
+          "endSeconds": 6.111,
+          "text": "view"
+        }
+      ]
+    },
+    {
+      "id": "scene-012-beat-04",
+      "sourceSceneId": "source-scene-012",
+      "startSeconds": 454.951,
+      "durationSeconds": 11.849,
+      "audioSrc": null,
+      "narration": "In the next lesson we begin with the F domain and its first principle Individualization examining how awareness of learner differences can guide design and facilitation decisions",
+      "section": "Scene 012",
+      "background": "light",
+      "visual": {
+        "kind": "outro",
+        "title": "Next: the F domain and Individualization",
+        "kicker": "Continue the ROOTS journey"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 1.723,
+          "text": "In the next lesson we begin with"
+        },
+        {
+          "startSeconds": 1.604,
+          "endSeconds": 4.198,
+          "text": "the F domain and its first principle"
+        },
+        {
+          "startSeconds": 4.52,
+          "endSeconds": 8.693,
+          "text": "Individualization examining how awareness of learner differences"
+        },
+        {
+          "startSeconds": 8.573,
+          "endSeconds": 11.849,
+          "text": "can guide design and facilitation decisions"
+        }
+      ]
+    }
+  ]
+}

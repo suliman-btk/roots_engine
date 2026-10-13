@@ -1,0 +1,775 @@
+{
+  "Scene 001": [
+    {
+      "visual": {
+        "kind": "title",
+        "title": "From ADLX to the FIRST Framework",
+        "kicker": "Lesson 05"
+      },
+      "why": "opening title"
+    },
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Four foundations so far",
+        "kicker": "What we have established",
+        "items": [
+          "Learner-centred shift",
+          "Purposeful teacher role",
+          "ADLX",
+          "Outcomes aligned with assessment"
+        ],
+        "itemPhrases": [
+          "the learner-centred shift",
+          "purposeful role",
+          "Active Deep Learner eXperience",
+          "alignment of outcomes"
+        ]
+      },
+      "atPhrase": "We have established four foundations",
+      "why": "four separate foundations listed with no order"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Now: the FIRST Framework",
+        "kicker": "At NAMA Foundation"
+      },
+      "atPhrase": "At NAMA Foundation, we now bring",
+      "why": "one key term to remember"
+    },
+    {
+      "visual": {
+        "kind": "checklist",
+        "title": "By the end of this lesson",
+        "kicker": "Lesson outcome",
+        "items": [
+          "Name the five domains",
+          "Recognize the fifteen principles",
+          "Explain how the domains support ADLX"
+        ],
+        "itemPhrases": [
+          "name its five domains",
+          "recognize the fifteen principles",
+          "explain how the domains work together"
+        ]
+      },
+      "atPhrase": "By the end of this lesson",
+      "why": "three outcomes the narrator lists"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "FIRST is a connected view",
+        "kicker": "Not separate lists",
+        "items": [
+          "Five separate lists",
+          "Unrelated teaching techniques",
+          "A connected view of the learner experience"
+        ],
+        "itemPhrases": [
+          "five separate lists",
+          "unrelated teaching techniques",
+          "connected view"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 2
+      },
+      "atPhrase": "Think of FIRST as a connected view",
+      "why": "narrator says not separate lists, but a connected view"
+    }
+  ],
+  "Scene 002": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "ADLX is the foundation of FIRST",
+        "kicker": "The ROOTS Programme Manual"
+      },
+      "why": "one key sentence"
+    },
+    {
+      "visual": {
+        "kind": "stat-tiles",
+        "title": "The FIRST Framework in numbers",
+        "kicker": "Structure",
+        "items": [
+          "5|Primary domains",
+          "15|Principles",
+          "3|Principles in each domain"
+        ],
+        "itemPhrases": [
+          "five primary domains",
+          "fifteen principles",
+          "three principles in each domain"
+        ]
+      },
+      "atPhrase": "The framework contains five primary domains",
+      "why": "narrator states real numbers"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "ADLX forms when the principles integrate into a cohesive whole",
+        "kicker": "Integration"
+      },
+      "atPhrase": "ADLX is formed when the principles",
+      "why": "one key sentence"
+    },
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "The framework brings attention to",
+        "kicker": "FIRST",
+        "items": [
+          "The learner",
+          "Interaction",
+          "Activity",
+          "Sequence",
+          "Learning into performance"
+        ],
+        "itemPhrases": [
+          "the learner",
+          "interaction",
+          "activity",
+          "sequence",
+          "into performance"
+        ],
+        "center": "FIRST"
+      },
+      "atPhrase": "The framework brings attention to",
+      "why": "one hub (FIRST) with five concerns around it"
+    }
+  ],
+  "Scene 003": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "The five domains function as layers",
+        "kicker": "Each adds a perspective"
+      },
+      "why": "opening claim"
+    },
+    {
+      "visual": {
+        "kind": "layer-stack",
+        "title": "Five layers of the learner experience",
+        "kicker": "From learner to performance",
+        "items": [
+          "The individual learner",
+          "Interaction and group dynamics",
+          "Readiness, activity, review",
+          "Structure and sequence",
+          "Practice and performance"
+        ],
+        "itemPhrases": [
+          "the individual learner",
+          "interaction and group dynamics",
+          "readiness, purposeful activity",
+          "structure and sequence",
+          "practice and performance"
+        ]
+      },
+      "atPhrase": "We first focus on the individual learner",
+      "why": "narrator describes layers building one on another"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "Connected, not ranked",
+        "kicker": "The layers work together",
+        "items": [
+          "Ranked layers",
+          "One engaging activity as the whole design",
+          "Relationships across the whole experience"
+        ],
+        "itemPhrases": [
+          "rather than ranked",
+          "one engaging activity",
+          "notice relationships across the whole experience"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 2
+      },
+      "atPhrase": "The layers are connected rather than ranked",
+      "why": "narrator says connected rather than ranked"
+    }
+  ],
+  "Scene 004": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "F · Focusing on Learner Behaviour",
+        "kicker": "Domain 1"
+      },
+      "why": "names the domain"
+    },
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "The domain asks the teacher to consider",
+        "kicker": "Each learner’s",
+        "items": [
+          "Prior knowledge",
+          "Feelings",
+          "Experience",
+          "Learning curve",
+          "Responses"
+        ],
+        "itemPhrases": [
+          "prior knowledge",
+          "feelings",
+          "experience, learning curve",
+          "learning curve",
+          "responses"
+        ]
+      },
+      "atPhrase": "This domain asks the teacher to consider",
+      "why": "five separate things considered"
+    },
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "Three principles of F",
+        "kicker": "Focusing on Learner Behaviour",
+        "items": [
+          "Individualization",
+          "Probing and Assessing",
+          "Trusting the Learner"
+        ],
+        "itemPhrases": [
+          "Individualization",
+          "Probing and Assessing",
+          "Trusting the Learner"
+        ],
+        "center": "F"
+      },
+      "atPhrase": "Its three principles are",
+      "why": "one hub (the domain) with its three principles"
+    },
+    {
+      "visual": {
+        "kind": "checklist",
+        "title": "Together, they guide us to",
+        "kicker": "Principles in practice",
+        "items": [
+          "Notice learner differences",
+          "Create and use evidence for decisions",
+          "See learners as active participants"
+        ],
+        "itemPhrases": [
+          "notice learner differences",
+          "create and use evidence",
+          "recognize learners as active participants"
+        ]
+      },
+      "atPhrase": "Together, they guide us to notice",
+      "why": "three guidance points the narrator lists"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "F keeps the individual learner visible, even in a larger class",
+        "kicker": "The point of F"
+      },
+      "atPhrase": "F keeps the individual learner visible",
+      "why": "closing sentence"
+    }
+  ],
+  "Scene 005": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "I · Interacting within Positive Group Dynamics",
+        "kicker": "Domain 2"
+      },
+      "why": "names the domain"
+    },
+    {
+      "visual": {
+        "kind": "comparison",
+        "title": "F and I look at different things",
+        "kicker": "Learner and group",
+        "items": [
+          "Each learner",
+          "The experience created by the group"
+        ],
+        "itemPhrases": [
+          "each learner",
+          "experience created by the group"
+        ],
+        "leftLabel": "F looks at",
+        "rightLabel": "I considers",
+        "joiner": "+",
+        "leftCount": 1
+      },
+      "atPhrase": "While F looks closely at each learner",
+      "why": "two views that work together"
+    },
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Three principles of I",
+        "kicker": "Interacting within Positive Group Dynamics",
+        "items": [
+          "Learning as a Social Event",
+          "Creating a Positive Spirit",
+          "Supporting Motivation and Attention"
+        ],
+        "itemPhrases": [
+          "Learning as a Social Event",
+          "Creating a Positive Spirit",
+          "Supporting Motivation and Attention"
+        ]
+      },
+      "atPhrase": "Its three principles are",
+      "why": "three parallel principles with no order"
+    },
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "These influence participation and learning",
+        "kicker": "Why it matters",
+        "items": [
+          "Interaction",
+          "Emotion",
+          "Motivation",
+          "Focus",
+          "Relationships"
+        ],
+        "itemPhrases": [
+          "interaction, emotion",
+          "emotion, motivation",
+          "motivation, focus",
+          "focus, and relationships",
+          "relationships"
+        ],
+        "center": "Participation and learning"
+      },
+      "atPhrase": "These principles remind us",
+      "why": "one hub with five influences around it"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "A social environment that supports the outcome",
+        "kicker": "Do not assume",
+        "items": [
+          "Placing learners together",
+          "A social environment that supports the outcome"
+        ],
+        "itemPhrases": [
+          "placing learners together",
+          "supports the outcome"
+        ],
+        "leftLabel": "Not automatic",
+        "rightLabel": "Consider",
+        "leftCount": 1
+      },
+      "atPhrase": "The teacher considers how the social environment",
+      "why": "narrator says not automatic, but supports the outcome"
+    }
+  ],
+  "Scene 006": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "R · Reviewing Activities within RAR",
+        "kicker": "Domain 3"
+      },
+      "why": "names the domain"
+    },
+    {
+      "visual": {
+        "kind": "process",
+        "title": "RAR: the full experience of an activity",
+        "kicker": "Before, during, after",
+        "items": [
+          "Readiness",
+          "Facilitation",
+          "Active review"
+        ],
+        "itemPhrases": [
+          "readiness before it begins",
+          "facilitation while learners participate",
+          "active review afterward"
+        ]
+      },
+      "atPhrase": "RAR directs attention to the full experience",
+      "why": "narrator names three phases in order"
+    },
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Three principles of R",
+        "kicker": "Reviewing Activities within RAR",
+        "items": [
+          "Increasing Learner Readiness",
+          "Facilitating Learner Activity",
+          "Reviewing Learning Actively"
+        ],
+        "itemPhrases": [
+          "Increasing Learner Readiness",
+          "Facilitating Learner Activity",
+          "Reviewing Learning Actively"
+        ]
+      },
+      "atPhrase": "Its three principles are",
+      "why": "three named principles"
+    },
+    {
+      "visual": {
+        "kind": "checklist",
+        "title": "The activity is not the whole process",
+        "kicker": "Learners need",
+        "items": [
+          "Preparation to enter",
+          "Support to participate",
+          "Review for learning"
+        ],
+        "itemPhrases": [
+          "preparation to enter it",
+          "support to participate meaningfully",
+          "review that helps them"
+        ]
+      },
+      "atPhrase": "The activity itself is not the whole learning process",
+      "why": "three needs the narrator lists"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Active review is where meaning becomes visible",
+        "kicker": "In ROOTS"
+      },
+      "atPhrase": "In ROOTS, active review is where",
+      "why": "closing sentence"
+    }
+  ],
+  "Scene 007": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "S · Sequencing Activities",
+        "kicker": "Domain 4"
+      },
+      "why": "names the domain"
+    },
+    {
+      "visual": {
+        "kind": "roadmap-path",
+        "title": "The flow of the experience",
+        "kicker": "Beginning to end",
+        "items": [
+          "Structuring and Sequencing Learning",
+          "Repetition without Boredom",
+          "Linking and Summarizing"
+        ],
+        "itemPhrases": [
+          "Structuring and Sequencing Learning",
+          "Repetition without Boredom",
+          "Boredom, and Linking"
+        ]
+      },
+      "atPhrase": "Its three principles are",
+      "why": "narrator describes the flow, with three principles as its stages"
+    },
+    {
+      "visual": {
+        "kind": "checklist",
+        "title": "What each principle does",
+        "kicker": "Principles in practice",
+        "items": [
+          "Structure makes ideas fit",
+          "Variation builds skill",
+          "Linking shows the path"
+        ],
+        "itemPhrases": [
+          "Structure helps ideas",
+          "variation and repetition",
+          "Linking and summarizing help"
+        ]
+      },
+      "atPhrase": "Structure helps ideas and activities",
+      "why": "three effects the narrator lists"
+    }
+  ],
+  "Scene 008": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "T · Transforming Learning into Performance",
+        "kicker": "Domain 5"
+      },
+      "why": "names the domain"
+    },
+    {
+      "visual": {
+        "kind": "staircase",
+        "title": "Three principles of T",
+        "kicker": "From learning to performance",
+        "items": [
+          "Reflection on Reality",
+          "Practising and Experiencing",
+          "Continuity and Follow-Up"
+        ],
+        "itemPhrases": [
+          "Reflection on Reality",
+          "Practising and Experiencing",
+          "Continuity and Follow-Up"
+        ]
+      },
+      "atPhrase": "Its three principles are",
+      "why": "three levels moving learning toward action"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Connect with reality, practise, and continue beyond the event",
+        "kicker": "What learners do"
+      },
+      "atPhrase": "Learners connect the topic with their own reality",
+      "why": "one key sentence"
+    },
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "Understanding gains strength",
+        "kicker": "T keeps performance in view",
+        "items": [
+          "Reality",
+          "Action",
+          "Feedback",
+          "Continued application"
+        ],
+        "itemPhrases": [
+          "connect it with reality",
+          "reality, action",
+          "feedback",
+          "continued application"
+        ],
+        "center": "Understanding"
+      },
+      "atPhrase": "T keeps performance in view",
+      "why": "one hub with four things that strengthen understanding"
+    }
+  ],
+  "Scene 009": [
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "How the domains connect",
+        "kicker": "One role each",
+        "items": [
+          "F: respond to the learner",
+          "I: interaction and conditions",
+          "R: readiness, activity, review",
+          "S: the complete flow",
+          "T: practice and performance"
+        ],
+        "itemPhrases": [
+          "F helps us",
+          "I considers",
+          "R shapes",
+          "S organizes",
+          "T supports"
+        ],
+        "center": "FIRST"
+      },
+      "why": "one hub (FIRST) with five domains and their roles"
+    },
+    {
+      "visual": {
+        "kind": "decision-tree",
+        "title": "If a layer is missing…",
+        "kicker": "Removing one layer",
+        "items": [
+          "Activity without readiness or review | Loses meaning",
+          "Sequence without learner response | Becomes rigid",
+          "Practice without connection or feedback | Repeats current performance"
+        ],
+        "itemPhrases": [
+          "Activity without readiness",
+          "Sequence without attention",
+          "Practice without connection"
+        ],
+        "center": "A layer is missing"
+      },
+      "atPhrase": "Removing one layer can weaken the whole experience",
+      "why": "narrator says X without Y leads to Z"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "FIRST helps us examine these relationships together",
+        "kicker": "The point"
+      },
+      "atPhrase": "FIRST helps us examine these relationships",
+      "why": "closing sentence"
+    }
+  ],
+  "Scene 010": [
+    {
+      "visual": {
+        "kind": "comparison",
+        "title": "The framework supports design and facilitation",
+        "kicker": "Two uses",
+        "items": [
+          "Examine the intended outcome",
+          "Examine interaction and activity",
+          "Examine sequence, practice and follow-up",
+          "Observe learner behaviour",
+          "Support participation and guide activity",
+          "Help learners review and respond to evidence"
+        ],
+        "itemPhrases": [
+          "the intended outcome",
+          "interaction, activity",
+          "sequence, practice",
+          "observe learner behaviour",
+          "support participation",
+          "help learners review"
+        ],
+        "leftLabel": "During design",
+        "rightLabel": "During facilitation",
+        "joiner": "+",
+        "leftCount": 3
+      },
+      "why": "two uses that work together"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "Use the principles; do not display them",
+        "kicker": "Application",
+        "items": [
+          "A checklist to display",
+          "Connected decisions that strengthen ADLX"
+        ],
+        "itemPhrases": [
+          "checklist to display",
+          "connected decisions"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      },
+      "atPhrase": "FIRST is not a checklist to display",
+      "why": "narrator says not a checklist to display, but connected decisions"
+    }
+  ],
+  "Scene 011": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Scan one lesson through the five domains",
+        "kicker": "Your turn"
+      },
+      "why": "opening instruction"
+    },
+    {
+      "visual": {
+        "kind": "process",
+        "title": "Five questions, one for each domain",
+        "kicker": "F · I · R · S · T",
+        "items": [
+          "Individual learners?",
+          "Interaction?",
+          "Preparation and review?",
+          "Sequence and links?",
+          "Reality and practice?"
+        ],
+        "itemPhrases": [
+          "Where do you consider individual learners",
+          "How does interaction support learning",
+          "What prepares learners for activity",
+          "How are ideas and experiences sequenced",
+          "What helps learning move toward reality"
+        ]
+      },
+      "atPhrase": "Where do you consider individual learners",
+      "why": "narrator asks questions in domain order"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "A first review, not a full audit",
+        "kicker": "Notice, do not apply everything",
+        "items": [
+          "Applying all fifteen principles at once",
+          "Notice which layers are already visible"
+        ],
+        "itemPhrases": [
+          "apply all fifteen principles",
+          "notice which layers are already visible"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      },
+      "atPhrase": "You are not trying to apply",
+      "why": "narrator says not all at once, but notice what is visible"
+    }
+  ],
+  "Scene 012": [
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "FIRST: five connected domains",
+        "kicker": "Summary",
+        "items": [
+          "F · Learner Behaviour",
+          "I · Positive Group Dynamics",
+          "R · Reviewing Activities (RAR)",
+          "S · Sequencing Activities",
+          "T · Learning into Performance"
+        ],
+        "itemPhrases": [
+          "Focusing on Learner Behaviour",
+          "Interacting within Positive Group Dynamics",
+          "Reviewing Activities within RAR",
+          "Sequencing Activities",
+          "Transforming Learning into Performance"
+        ]
+      },
+      "why": "five parallel named domains"
+    },
+    {
+      "visual": {
+        "kind": "stat-tiles",
+        "title": "Three principles in each domain",
+        "kicker": "Fifteen in all",
+        "items": [
+          "3|Principles in each domain",
+          "15|Principles together"
+        ],
+        "itemPhrases": [
+          "three principles",
+          "fifteen principles"
+        ]
+      },
+      "atPhrase": "Each domain contains three principles",
+      "why": "narrator states real numbers"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "We will study every principle, keeping the whole experience in view",
+        "kicker": "In ROOTS"
+      },
+      "atPhrase": "In ROOTS, we will study every principle",
+      "why": "one key sentence"
+    },
+    {
+      "visual": {
+        "kind": "outro",
+        "title": "Next: the F domain and Individualization",
+        "kicker": "Continue the ROOTS journey"
+      },
+      "atPhrase": "In the next lesson, we begin with the F domain",
+      "why": "closing pointer to next lesson"
+    }
+  ]
+}

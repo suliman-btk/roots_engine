@@ -1,0 +1,747 @@
+1
+00:00:00,101 --> 00:00:03,453
+السلام عليكم Welcome back to ROOTS We
+
+2
+00:00:03,333 --> 00:00:06,888
+have explored learner-centred teaching and Active Deep
+
+3
+00:00:06,768 --> 00:00:08,283
+Learner eXperience
+
+4
+00:00:08,283 --> 00:00:11,219
+At NAMA Foundation we now connect that
+
+5
+00:00:11,099 --> 00:00:14,148
+experience with a clear direction and evidence
+
+6
+00:00:14,041 --> 00:00:16,648
+that shows where learning stands This is
+
+7
+00:00:16,541 --> 00:00:19,868
+the relationship between learning outcomes and assessment
+
+8
+00:00:20,164 --> 00:00:21,812
+By the end of this lesson you
+
+9
+00:00:21,704 --> 00:00:23,150
+should be able to explain how an
+
+10
+00:00:23,144 --> 00:00:27,304
+outcome guides content activity and teacher decisions
+
+11
+00:00:27,437 --> 00:00:29,968
+and identify assessment evidence that supports learning
+
+12
+00:00:30,253 --> 00:00:32,671
+Begin with one question when your lesson
+
+13
+00:00:32,564 --> 00:00:34,590
+ends what should learners be able to
+
+14
+00:00:34,470 --> 00:00:37,305
+demonstrate that they could not demonstrate before
+
+15
+00:00:37,685 --> 00:00:40,608
+The ROOTS knowledge material describes learning outcomes
+
+16
+00:00:40,715 --> 00:00:43,954
+as statements of significant and essential learning
+
+17
+00:00:44,049 --> 00:00:46,744
+that learners have achieved and can reliably
+
+18
+00:00:46,637 --> 00:00:48,297
+demonstrate at the end of a course
+
+19
+00:00:48,177 --> 00:00:49,213
+or programme
+
+20
+00:00:49,213 --> 00:00:51,290
+An outcome identifies what the learner will
+
+21
+00:00:51,170 --> 00:00:53,815
+know be able to do or be
+
+22
+00:00:53,708 --> 00:00:55,286
+willing to demonstrate
+
+23
+00:00:55,286 --> 00:00:57,477
+This wording matters because it places the
+
+24
+00:00:57,357 --> 00:00:59,813
+result with the learner An outcome is
+
+25
+00:00:59,693 --> 00:01:01,694
+not simply a topic heading or a
+
+26
+00:01:01,574 --> 00:01:03,676
+list of what the teacher intends to
+
+27
+00:01:03,556 --> 00:01:06,429
+explain It describes the change in knowledge
+
+28
+00:01:06,536 --> 00:01:09,623
+skill attitude or performance that the learning
+
+29
+00:01:09,503 --> 00:01:11,784
+experience is intended to support
+
+30
+00:01:11,872 --> 00:01:13,861
+Consider the difference between these two planning
+
+31
+00:01:13,741 --> 00:01:17,270
+questions What content will I cover and
+
+32
+00:01:17,605 --> 00:01:20,326
+What should learners demonstrate The first question
+
+33
+00:01:20,206 --> 00:01:23,331
+directs attention toward the teacher’s delivery The
+
+34
+00:01:23,211 --> 00:01:27,018
+second directs attention toward learning Both content
+
+35
+00:01:27,037 --> 00:01:29,656
+and explanation still matter but they are
+
+36
+00:01:29,549 --> 00:01:31,809
+selected in service of the outcome
+
+37
+00:01:31,809 --> 00:01:34,328
+In ROOTS we use outcomes to connect
+
+38
+00:01:34,221 --> 00:01:37,074
+the learner-centred shift with practical planning
+
+39
+00:01:37,074 --> 00:01:39,454
+Once the expected learning is clear the
+
+40
+00:01:39,334 --> 00:01:41,739
+teacher can make more deliberate decisions about
+
+41
+00:01:41,619 --> 00:01:46,664
+content questions activity practice review and the
+
+42
+00:01:46,556 --> 00:01:48,120
+evidence to observe
+
+43
+00:01:48,221 --> 00:01:51,030
+The ROOTS Programme Manual groups learning outcomes
+
+44
+00:01:50,910 --> 00:01:55,046
+into three domains knowledge skill and attitude
+
+45
+00:01:55,330 --> 00:01:58,657
+Knowledge includes ideas facts and models that
+
+46
+00:01:58,537 --> 00:02:02,230
+a learner understands Skill concerns an ability
+
+47
+00:02:02,123 --> 00:02:06,447
+the learner can perform Attitude concerns inclination
+
+48
+00:02:06,378 --> 00:02:07,804
+or willingness
+
+49
+00:02:07,804 --> 00:02:10,070
+being capable of an action does not
+
+50
+00:02:09,950 --> 00:02:12,331
+necessarily mean a person chooses to carry
+
+51
+00:02:12,211 --> 00:02:14,666
+it out These domains help a teacher
+
+52
+00:02:14,559 --> 00:02:17,135
+clarify the kind of learning expected
+
+53
+00:02:17,135 --> 00:02:19,364
+They also remind us that one form
+
+54
+00:02:19,244 --> 00:02:21,674
+of evidence may not be suitable for
+
+55
+00:02:21,731 --> 00:02:24,250
+every outcome The evidence should match the
+
+56
+00:02:24,143 --> 00:02:28,104
+knowledge skill or attitude being examined
+
+57
+00:02:28,192 --> 00:02:30,939
+A useful outcome makes the expected learning
+
+58
+00:02:30,819 --> 00:02:33,533
+visible enough to guide decisions
+
+59
+00:02:33,533 --> 00:02:36,393
+If an outcome concerns knowledge learners may
+
+60
+00:02:36,273 --> 00:02:40,067
+need to explain distinguish connect or apply
+
+61
+00:02:39,947 --> 00:02:42,757
+an idea If it concerns skill they
+
+62
+00:02:42,649 --> 00:02:46,115
+need an opportunity to perform or demonstrate
+
+63
+00:02:46,399 --> 00:02:49,436
+If it concerns attitude evidence must relate
+
+64
+00:02:49,366 --> 00:02:52,693
+to the intended willingness or tendency rather
+
+65
+00:02:52,573 --> 00:02:55,648
+than knowledge alone ROOTS asks us to
+
+66
+00:02:55,528 --> 00:02:57,693
+keep the learner’s result at the centre
+
+67
+00:02:57,990 --> 00:02:59,966
+The wording of an outcome should help
+
+68
+00:02:59,859 --> 00:03:02,643
+the teacher recognize what evidence to seek
+
+69
+00:03:02,902 --> 00:03:04,852
+and help learners understand the direction of
+
+70
+00:03:04,732 --> 00:03:05,640
+their effort
+
+71
+00:03:05,741 --> 00:03:07,704
+Once the outcome is clear we can
+
+72
+00:03:07,584 --> 00:03:10,369
+examine alignment The content should provide the
+
+73
+00:03:10,249 --> 00:03:13,071
+knowledge and understanding needed for the outcome
+
+74
+00:03:13,367 --> 00:03:16,732
+The activity should give learners an appropriate
+
+75
+00:03:16,612 --> 00:03:19,775
+way to engage with that learning Practice
+
+76
+00:03:19,845 --> 00:03:22,768
+should prepare them to demonstrate it Assessment
+
+77
+00:03:22,660 --> 00:03:25,154
+should then gather evidence that matches what
+
+78
+00:03:25,034 --> 00:03:26,549
+the outcome asks
+
+79
+00:03:26,549 --> 00:03:28,487
+If learners are expected to demonstrate a
+
+80
+00:03:28,380 --> 00:03:32,010
+skill but only recall information the evidence
+
+81
+00:03:32,016 --> 00:03:35,141
+is incomplete If an activity is engaging
+
+82
+00:03:35,122 --> 00:03:37,414
+but unrelated to the outcome it may
+
+83
+00:03:37,294 --> 00:03:40,520
+not support the intended learning Alignment keeps
+
+84
+00:03:40,577 --> 00:03:43,058
+every part moving in the same direction
+
+85
+00:03:43,432 --> 00:03:46,898
+Assessment is not something that belongs only
+
+86
+00:03:46,778 --> 00:03:47,889
+at the end
+
+87
+00:03:47,889 --> 00:03:50,345
+The ROOTS Programme Manual describes it as
+
+88
+00:03:50,237 --> 00:03:52,428
+a dynamic and integral part of the
+
+89
+00:03:52,308 --> 00:03:56,898
+learning process that supports understanding improvement motivation
+
+90
+00:03:57,232 --> 00:03:59,897
+accountability and continuous development
+
+91
+00:03:59,897 --> 00:04:02,984
+During teaching assessment helps us see what
+
+92
+00:04:02,877 --> 00:04:05,901
+learners understand what they can do and
+
+93
+00:04:05,793 --> 00:04:07,984
+where they may need further support It
+
+94
+00:04:07,864 --> 00:04:09,802
+gives the teacher information for the next
+
+95
+00:04:09,682 --> 00:04:12,328
+decision and gives learners information about their
+
+96
+00:04:12,208 --> 00:04:13,357
+progress
+
+97
+00:04:13,357 --> 00:04:15,863
+In this sense assessment becomes part of
+
+98
+00:04:15,756 --> 00:04:19,020
+learning rather than an interruption added after
+
+99
+00:04:18,900 --> 00:04:20,304
+learning is complete
+
+100
+00:04:20,405 --> 00:04:22,684
+The Focusing on Learner material makes an
+
+101
+00:04:22,564 --> 00:04:25,664
+important distinction assessment should be used for
+
+102
+00:04:25,557 --> 00:04:26,440
+learning
+
+103
+00:04:26,440 --> 00:04:29,161
+The purpose is not to classify learners
+
+104
+00:04:29,445 --> 00:04:31,535
+It is to gather information that helps
+
+105
+00:04:31,427 --> 00:04:35,032
+learning move forward This mindset changes how
+
+106
+00:04:34,912 --> 00:04:36,768
+a teacher uses evidence
+
+107
+00:04:36,769 --> 00:04:39,768
+A response that shows misunderstanding is not
+
+108
+00:04:39,698 --> 00:04:42,003
+merely a mark against the learner it
+
+109
+00:04:41,883 --> 00:04:44,856
+is information about what needs clarification or
+
+110
+00:04:44,736 --> 00:04:48,051
+further practice A strong response is also
+
+111
+00:04:47,931 --> 00:04:51,056
+useful because it reveals readiness to continue
+
+112
+00:04:51,251 --> 00:04:52,691
+or deepen the work
+
+113
+00:04:52,690 --> 00:04:55,676
+Assessment for learning keeps evidence connected to
+
+114
+00:04:55,556 --> 00:04:58,694
+support feedback and the next teaching decision
+
+115
+00:04:59,069 --> 00:05:02,194
+ROOTS connects assessment with probing Probing is
+
+116
+00:05:02,074 --> 00:05:05,287
+proactive the teacher creates opportunities to keep
+
+117
+00:05:05,167 --> 00:05:07,649
+track of learning so that decisions or
+
+118
+00:05:07,541 --> 00:05:11,335
+feedback can follow Assessing is reactive the
+
+119
+00:05:11,215 --> 00:05:14,580
+teacher uses available opportunities and learner responses
+
+120
+00:05:14,473 --> 00:05:17,724
+to understand outcomes and the overall experience
+
+121
+00:05:18,008 --> 00:05:20,729
+Together they help the teacher remain attentive
+
+122
+00:05:20,723 --> 00:05:21,834
+during learning
+
+123
+00:05:21,834 --> 00:05:24,997
+A purposeful question can reveal current understanding
+
+124
+00:05:25,256 --> 00:05:28,027
+Observation during practice can reveal how a
+
+125
+00:05:27,907 --> 00:05:29,864
+skill is developing
+
+126
+00:05:29,864 --> 00:05:32,168
+The important point is to use evidence
+
+127
+00:05:32,061 --> 00:05:34,946
+deliberately not to wait until the end
+
+128
+00:05:34,826 --> 00:05:37,104
+before discovering what learners needed
+
+129
+00:05:37,192 --> 00:05:40,128
+Evidence can come from different strategies depending
+
+130
+00:05:40,008 --> 00:05:42,161
+on what needs to be understood The
+
+131
+00:05:42,041 --> 00:05:45,141
+ROOTS material includes different types of questioning
+
+132
+00:05:45,437 --> 00:05:49,370
+one-to-one conversation about learner work assignments observation
+
+133
+00:05:49,250 --> 00:05:53,348
+during activities written insight or reflection summaries
+
+134
+00:05:53,442 --> 00:05:56,031
+answers and demonstrations of skill
+
+135
+00:05:56,031 --> 00:05:59,611
+No single strategy is automatically suitable for
+
+136
+00:05:59,667 --> 00:06:02,780
+every outcome A teacher chooses evidence that
+
+137
+00:06:02,660 --> 00:06:05,318
+can reveal the intended learning and pays
+
+138
+00:06:05,198 --> 00:06:08,146
+attention to what the evidence actually shows
+
+139
+00:06:08,430 --> 00:06:11,151
+This prevents assessment from becoming a routine
+
+140
+00:06:11,031 --> 00:06:14,169
+task disconnected from the decision the teacher
+
+141
+00:06:14,061 --> 00:06:15,288
+needs to make
+
+142
+00:06:15,452 --> 00:06:19,120
+Feedback follows naturally from evidence When assessment
+
+143
+00:06:19,000 --> 00:06:22,062
+reveals where learning stands feedback can help
+
+144
+00:06:21,942 --> 00:06:24,537
+the learner understand what is working and
+
+145
+00:06:24,429 --> 00:06:25,743
+what should improve
+
+146
+00:06:25,743 --> 00:06:28,514
+The teacher may clarify an idea ask
+
+147
+00:06:28,394 --> 00:06:31,658
+a further question identify a specific strength
+
+148
+00:06:31,968 --> 00:06:33,754
+or direct attention to the next part
+
+149
+00:06:33,634 --> 00:06:34,619
+of a skill
+
+150
+00:06:34,619 --> 00:06:37,340
+Feedback is most useful when it remains
+
+151
+00:06:37,220 --> 00:06:39,714
+connected to the outcome and the evidence
+
+152
+00:06:40,010 --> 00:06:42,630
+General approval does not explain what has
+
+153
+00:06:42,510 --> 00:06:45,787
+been achieved and correction without guidance may
+
+154
+00:06:45,667 --> 00:06:47,662
+not support the next attempt
+
+155
+00:06:47,662 --> 00:06:50,509
+ROOTS keeps feedback within a continuing process
+
+156
+00:06:50,389 --> 00:06:53,352
+of learning practice and improvement
+
+157
+00:06:53,453 --> 00:06:55,795
+Now select one learning outcome from a
+
+158
+00:06:55,688 --> 00:06:57,102
+lesson you teach
+
+159
+00:06:57,102 --> 00:07:00,492
+Identify whether it mainly concerns knowledge skill
+
+160
+00:07:00,549 --> 00:07:01,799
+or attitude
+
+161
+00:07:01,799 --> 00:07:04,015
+Then ask what would learners need to
+
+162
+00:07:03,908 --> 00:07:08,182
+say produce choose explain or demonstrate for
+
+163
+00:07:08,062 --> 00:07:10,492
+me to see progress toward this outcome
+
+164
+00:07:10,764 --> 00:07:13,333
+Compare that evidence with the content and
+
+165
+00:07:13,226 --> 00:07:16,440
+activity you currently use Do they prepare
+
+166
+00:07:16,320 --> 00:07:19,078
+learners for the same result This short
+
+167
+00:07:18,958 --> 00:07:21,339
+review can reveal strong alignment or an
+
+168
+00:07:21,219 --> 00:07:22,405
+important gap
+
+169
+00:07:22,405 --> 00:07:24,331
+The purpose is not to collect more
+
+170
+00:07:24,211 --> 00:07:26,414
+assessment It is to collect the right
+
+171
+00:07:26,306 --> 00:07:28,535
+evidence and use it to support the
+
+172
+00:07:28,428 --> 00:07:30,048
+next learning decision
+
+173
+00:07:30,149 --> 00:07:32,984
+Learning outcomes describe what learners should know
+
+174
+00:07:33,482 --> 00:07:36,304
+do or be willing to demonstrate They
+
+175
+00:07:36,184 --> 00:07:39,865
+guide the selection of content activity practice
+
+176
+00:07:39,909 --> 00:07:41,311
+and evidence
+
+177
+00:07:41,311 --> 00:07:44,512
+Assessment then helps teachers and learners understand
+
+178
+00:07:44,644 --> 00:07:46,898
+what has been achieved and what support
+
+179
+00:07:46,829 --> 00:07:48,331
+may be needed next
+
+180
+00:07:48,331 --> 00:07:52,251
+In ROOTS outcomes and assessment remain connected
+
+181
+00:07:52,131 --> 00:07:55,055
+to the learner-centred experience we teach toward
+
+182
+00:07:54,935 --> 00:07:57,870
+clear learning and use evidence for learning
+
+183
+00:07:57,851 --> 00:07:58,937
+and improvement
+
+184
+00:07:58,937 --> 00:08:00,913
+In the next lesson we will connect
+
+185
+00:08:00,806 --> 00:08:03,400
+these foundations with the FIRST Framework and
+
+186
+00:08:03,280 --> 00:08:05,964
+see how its five domains and fifteen
+
+187
+00:08:05,856 --> 00:08:09,549
+principles support ADLX as one coherent whole

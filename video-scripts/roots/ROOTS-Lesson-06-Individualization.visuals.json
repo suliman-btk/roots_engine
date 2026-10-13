@@ -1,0 +1,796 @@
+{
+ "Scene 001": [
+  {
+   "visual": {
+    "kind": "title",
+    "title": "Individualization",
+    "kicker": "Lesson 06"
+   },
+   "why": "opening title"
+  },
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "The F domain begins: Focusing on Learner Behaviour",
+    "kicker": "FIRST framework"
+   },
+   "why": "narrator opens a new domain",
+   "atPhrase": "We now begin the F domain"
+  },
+  {
+   "visual": {
+    "kind": "checklist",
+    "title": "By the end of this lesson",
+    "kicker": "Lesson outcome",
+    "items": [
+     "Explain Individualization",
+     "Identify teacher decisions that respond to learner differences while keeping a shared outcome"
+    ],
+    "itemPhrases": [
+     "explain Individualization",
+     "identify teacher decisions"
+    ]
+   },
+   "why": "two things learners will do",
+   "atPhrase": "By the end of this lesson"
+  },
+  {
+   "visual": {
+    "kind": "question",
+    "title": "What differences influence how learners enter, experience and respond to the same lesson?",
+    "kicker": "Think about a class you know well"
+   },
+   "why": "reflection question",
+   "atPhrase": "Think about a class you know well"
+  }
+ ],
+ "Scene 002": [
+  {
+   "visual": {
+    "kind": "definition",
+    "title": "Individualization",
+    "kicker": "Key term",
+    "items": [
+     "A unique experience for every learner, whenever possible",
+     "A direct relationship with each individual"
+    ],
+    "itemPhrases": [
+     "unique for every learner",
+     "direct relationship with each individual"
+    ],
+    "center": "Individualization",
+    "joiner": "means"
+   },
+   "why": "narrator defines a term"
+  },
+  {
+   "visual": {
+    "kind": "before-after",
+    "title": "Not a separate course for everyone",
+    "kicker": "Conscious of individuals",
+    "items": [
+     "A completely separate course for every learner",
+     "A teacher conscious of individuals, not only one group"
+    ],
+    "itemPhrases": [
+     "completely separate course",
+     "conscious of individuals"
+    ],
+    "leftLabel": "Does not mean",
+    "rightLabel": "It means",
+    "leftCount": 1
+   },
+   "why": "not X but Y contrast",
+   "atPhrase": "This does not mean"
+  },
+  {
+   "visual": {
+    "kind": "mind-map",
+    "title": "What guides the teacher",
+    "kicker": "Learner information",
+    "items": [
+     "Responses",
+     "Needs",
+     "Knowledge",
+     "Feelings",
+     "Abilities",
+     "Experience"
+    ],
+    "itemPhrases": [
+     "responses",
+     "needs",
+     "knowledge",
+     "feelings",
+     "abilities",
+     "and experience"
+    ],
+    "center": "Learner information"
+   },
+   "why": "six kinds of information around one idea",
+   "atPhrase": "responses, needs, knowledge"
+  }
+ ],
+ "Scene 003": [
+  {
+   "visual": {
+    "kind": "card-grid",
+    "title": "The F domain considers",
+    "kicker": "Learner behaviour",
+    "items": [
+     "Curve of learning",
+     "Previous knowledge",
+     "Feelings",
+     "Experience"
+    ],
+    "itemPhrases": [
+     "curve of learning",
+     "previous knowledge",
+     "feelings",
+     "and experience"
+    ]
+   },
+   "why": "four parallel elements"
+  },
+  {
+   "visual": {
+    "kind": "checklist",
+    "title": "Learners may share one outcome but differ in",
+    "kicker": "Individualization begins by noticing",
+    "items": [
+     "Starting points",
+     "Responses",
+     "Support needs"
+    ],
+    "itemPhrases": [
+     "starting points",
+     "responses",
+     "support needs"
+    ]
+   },
+   "why": "three differences",
+   "atPhrase": "Individualization begins when"
+  },
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "Awareness comes before any adjustment",
+    "kicker": "Notice first"
+   },
+   "why": "one key sentence",
+   "atPhrase": "Awareness comes before any adjustment"
+  }
+ ],
+ "Scene 004": [
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "Stay aware. Make a conscious effort, whenever possible.",
+    "kicker": "Honest about the challenge"
+   },
+   "why": "narrator names a challenge and a stance"
+  },
+  {
+   "visual": {
+    "kind": "before-after",
+    "title": "The goal is deliberate attention",
+    "kicker": "Not perfection",
+    "items": [
+     "Perfection",
+     "Constant one-to-one teaching",
+     "Deliberate attention"
+    ],
+    "itemPhrases": [
+     "perfection",
+     "constant one-to-one teaching",
+     "deliberate attention"
+    ],
+    "leftLabel": "Not",
+    "rightLabel": "But",
+    "leftCount": 2
+   },
+   "why": "not X but Y contrast",
+   "atPhrase": "The goal is not perfection"
+  },
+  {
+   "visual": {
+    "kind": "checklist",
+    "title": "A teacher can",
+    "kicker": "Within reach",
+    "items": [
+     "Notice patterns without losing sight of individuals",
+     "Create moments to hear learner thinking",
+     "Use available opportunities to see progress"
+    ],
+    "itemPhrases": [
+     "notice patterns",
+     "create moments",
+     "use available opportunities"
+    ]
+   },
+   "why": "three practical moves",
+   "atPhrase": "A teacher can"
+  },
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "Small, informed decisions make the experience more responsive",
+    "kicker": "Shared direction stays"
+   },
+   "why": "one key sentence",
+   "atPhrase": "Small, informed decisions"
+  }
+ ],
+ "Scene 005": [
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "A direct relationship helps the teacher understand the learner",
+    "kicker": "Purposeful contact"
+   },
+   "why": "opening idea"
+  },
+  {
+   "visual": {
+    "kind": "card-grid",
+    "title": "The relationship can develop through",
+    "kicker": "Ways to connect",
+    "items": [
+     "A question",
+     "A brief conversation about the work",
+     "Careful listening",
+     "Attention during practice"
+    ],
+    "itemPhrases": [
+     "a question",
+     "brief conversation",
+     "careful listening",
+     "attention during practice"
+    ]
+   },
+   "why": "four parallel ways",
+   "atPhrase": "This relationship can develop through"
+  },
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "Even a break can become a check-in",
+    "kicker": "In ROOTS"
+   },
+   "why": "narrator names a surprising moment",
+   "atPhrase": "even a break"
+  },
+  {
+   "visual": {
+    "kind": "before-after",
+    "title": "Purposeful contact",
+    "kicker": "Not data collection",
+    "items": [
+     "Collecting personal detail without reason",
+     "Learning what may support participation and progress"
+    ],
+    "itemPhrases": [
+     "collecting personal detail",
+     "support participation and progress"
+    ],
+    "leftLabel": "Not",
+    "rightLabel": "But",
+    "leftCount": 1
+   },
+   "why": "not X but Y contrast",
+   "atPhrase": "What matters is purposeful contact"
+  },
+  {
+   "visual": {
+    "kind": "mind-map",
+    "title": "Respectful attention can reveal",
+    "kicker": "What the teacher learns",
+    "items": [
+     "Previous understanding",
+     "Uncertainty",
+     "Confidence",
+     "Interest",
+     "Need for guidance"
+    ],
+    "itemPhrases": [
+     "previous understanding",
+     "uncertainty",
+     "confidence",
+     "interest",
+     "further guidance"
+    ],
+    "center": "Respectful attention"
+   },
+   "why": "five things around one idea",
+   "atPhrase": "Respectful attention can reveal"
+  }
+ ],
+ "Scene 006": [
+  {
+   "visual": {
+    "kind": "mind-map",
+    "title": "Evidence of how a learner experiences the lesson",
+    "kicker": "Individualization in practice",
+    "items": [
+     "Answer",
+     "Question",
+     "Written response",
+     "Demonstration",
+     "Behaviour"
+    ],
+    "itemPhrases": [
+     "answer",
+     "question,",
+     "written response",
+     "demonstration",
+     "behaviour during an activity"
+    ],
+    "center": "Evidence"
+   },
+   "why": "several kinds of evidence"
+  },
+  {
+   "visual": {
+    "kind": "checklist",
+    "title": "To understand what needs monitoring",
+    "kicker": "The teacher can",
+    "items": [
+     "Use different questions",
+     "Observe work",
+     "Hold a short conversation"
+    ],
+    "itemPhrases": [
+     "different questions",
+     "observe work",
+     "short conversation"
+    ]
+   },
+   "why": "three ways",
+   "atPhrase": "The teacher can use different questions"
+  },
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "Evidence connects with the intended outcome",
+    "kicker": "Keep the link"
+   },
+   "why": "one key sentence",
+   "atPhrase": "This evidence should connect"
+  },
+  {
+   "visual": {
+    "kind": "before-after",
+    "title": "Responding to what can be noticed",
+    "kicker": "Not assumption",
+    "items": [
+     "Assumption or preference",
+     "What the teacher can notice and understand about learning"
+    ],
+    "itemPhrases": [
+     "assumption or preference",
+     "notice and understand"
+    ],
+    "leftLabel": "Not only",
+    "rightLabel": "But",
+    "leftCount": 1
+   },
+   "why": "not X but Y contrast",
+   "atPhrase": "Individualization is not based only"
+  }
+ ],
+ "Scene 007": [
+  {
+   "visual": {
+    "kind": "card-grid",
+    "title": "Different learners, different next steps",
+    "kicker": "After noticing a difference",
+    "items": [
+     "Clarification",
+     "A deeper question",
+     "Another chance to practise or explain"
+    ],
+    "itemPhrases": [
+     "clarification",
+     "deeper question",
+     "additional opportunity"
+    ]
+   },
+   "why": "three parallel responses"
+  },
+  {
+   "visual": {
+    "kind": "checklist",
+    "title": "The teacher may adjust",
+    "kicker": "Decisions",
+    "items": [
+     "The question",
+     "The amount of support",
+     "The pace of a step",
+     "How evidence is gathered"
+    ],
+    "itemPhrases": [
+     "adjust the question",
+     "amount of support",
+     "pace of a step",
+     "way evidence is gathered"
+    ]
+   },
+   "why": "four adjustable things",
+   "atPhrase": "The teacher may adjust"
+  },
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "Not automatic actions",
+    "kicker": "It depends"
+   },
+   "why": "one key sentence",
+   "atPhrase": "These are not automatic actions"
+  },
+  {
+   "visual": {
+    "kind": "venn",
+    "title": "The response depends on",
+    "kicker": "Three things together",
+    "items": [
+     "The learner",
+     "The outcome",
+     "The evidence"
+    ],
+    "itemPhrases": [
+     "depends on the learner",
+     "the outcome,",
+     "the evidence available"
+    ]
+   },
+   "why": "three overlapping inputs",
+   "atPhrase": "The appropriate response depends"
+  },
+  {
+   "visual": {
+    "kind": "process",
+    "title": "From attention to decision",
+    "kicker": "Individualization",
+    "items": [
+     "Notice the learner",
+     "Interpret the response carefully",
+     "Choose support"
+    ],
+    "itemPhrases": [
+     "notice the learner",
+     "interpret the response",
+     "choose support"
+    ]
+   },
+   "why": "three ordered steps",
+   "atPhrase": "Individualization connects attention with decision"
+  }
+ ],
+ "Scene 008": [
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "A shared outcome and an individualized experience can exist together",
+    "kicker": "Both at once"
+   },
+   "why": "opening idea"
+  },
+  {
+   "visual": {
+    "kind": "comparison",
+    "title": "Shared outcome, individual route",
+    "kicker": "What stays and what responds",
+    "items": [
+     "The significant learning learners should demonstrate",
+     "How learners engage, practise, respond or receive support"
+    ],
+    "itemPhrases": [
+     "the outcome identifies",
+     "individualization considers"
+    ],
+    "leftLabel": "Shared",
+    "rightLabel": "Individualized",
+    "joiner": "AND",
+    "leftCount": 1
+   },
+   "why": "two sides set against each other",
+   "atPhrase": "The outcome identifies"
+  },
+  {
+   "visual": {
+    "kind": "before-after",
+    "title": "Examine the route, not the destination",
+    "kicker": "The outcome is not lowered",
+    "items": [
+     "Lowering the outcome",
+     "Examining the route and the evidence"
+    ],
+    "itemPhrases": [
+     "lower the outcome",
+     "route and the evidence"
+    ],
+    "leftLabel": "Not",
+    "rightLabel": "But",
+    "leftCount": 1
+   },
+   "why": "not X but Y contrast",
+   "atPhrase": "The teacher does not lower the outcome"
+  },
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "Learner-centred, without losing clarity",
+    "kicker": "The destination stays visible"
+   },
+   "why": "one key sentence",
+   "atPhrase": "This distinction keeps the lesson learner-centred"
+  }
+ ],
+ "Scene 009": [
+  {
+   "visual": {
+    "kind": "card-grid",
+    "title": "What learners bring",
+    "kicker": "Stay open",
+    "items": [
+     "Previous knowledge",
+     "Experience",
+     "Feelings",
+     "Confidence"
+    ],
+    "itemPhrases": [
+     "previous knowledge",
+     "experience",
+     "feelings",
+     "confidence"
+    ]
+   },
+   "why": "four parallel elements"
+  },
+  {
+   "visual": {
+    "kind": "mind-map",
+    "title": "Behaviour is not interpreted alone",
+    "kicker": "Look at context",
+    "items": [
+     "Silence",
+     "Quick answer",
+     "Hesitation",
+     "Willingness to try"
+    ],
+    "itemPhrases": [
+     "silence",
+     "quick answer",
+     "hesitation",
+     "willingness to try"
+    ],
+    "center": "Learner behaviour"
+   },
+   "why": "four behaviours around one idea",
+   "atPhrase": "silence, quick answer, hesitation"
+  },
+  {
+   "visual": {
+    "kind": "process",
+    "title": "Rather than act on one impression",
+    "kicker": "ROOTS encourages",
+    "items": [
+     "Probe",
+     "Observe",
+     "Build understanding"
+    ],
+    "itemPhrases": [
+     "probe",
+     "observe",
+     "build understanding"
+    ]
+   },
+   "why": "three ordered verbs",
+   "atPhrase": "ROOTS encourages teachers to"
+  },
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "Behaviour is information to explore",
+    "kicker": "Evidence guides the response"
+   },
+   "why": "one key sentence",
+   "atPhrase": "The purpose is to treat"
+  }
+ ],
+ "Scene 010": [
+  {
+   "visual": {
+    "kind": "checklist",
+    "title": "During design, ask where the lesson",
+    "kicker": "Create chances to notice",
+    "items": [
+     "Reveals previous knowledge",
+     "Makes different responses visible",
+     "Lets learners explain their thinking"
+    ],
+    "itemPhrases": [
+     "reveals previous knowledge",
+     "makes different responses visible",
+     "explain their thinking"
+    ]
+   },
+   "why": "three design questions"
+  },
+  {
+   "visual": {
+    "kind": "question",
+    "title": "Whose learning is visible, and whose is still unclear?",
+    "kicker": "During facilitation"
+   },
+   "why": "narrator poses a question",
+   "atPhrase": "During facilitation"
+  },
+  {
+   "visual": {
+    "kind": "comparison",
+    "title": "Design and facilitation",
+    "kicker": "Learner eXperience",
+    "items": [
+     "Plans opportunities for evidence",
+     "Uses those opportunities to respond"
+    ],
+    "itemPhrases": [
+     "plans opportunities for evidence",
+     "uses those opportunities to respond"
+    ],
+    "leftLabel": "Learner eXperience Design",
+    "rightLabel": "Learner eXperience Facilitation",
+    "joiner": "THEN",
+    "leftCount": 1
+   },
+   "why": "two roles set against each other",
+   "atPhrase": "The teacher plans opportunities for evidence"
+  },
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "Design prepares the possibility. Facilitation turns attention into action.",
+    "kicker": "In ROOTS"
+   },
+   "why": "closing sentence",
+   "atPhrase": "Design prepares the possibility"
+  }
+ ],
+ "Scene 011": [
+  {
+   "visual": {
+    "kind": "process",
+    "title": "Your reflection",
+    "kicker": "Start small",
+    "items": [
+     "Choose one lesson and a shared outcome",
+     "Select three learners or response patterns",
+     "Note the evidence for each"
+    ],
+    "itemPhrases": [
+     "choose one lesson",
+     "select three learners",
+     "for each one"
+    ]
+   },
+   "why": "three ordered steps"
+  },
+  {
+   "visual": {
+    "kind": "checklist",
+    "title": "Evidence available",
+    "kicker": "Look for",
+    "items": [
+     "Previous knowledge",
+     "A demonstration",
+     "Participation",
+     "Difficulty",
+     "Progress"
+    ],
+    "itemPhrases": [
+     "previous knowledge",
+     "a demonstration",
+     "participation",
+     "difficulty",
+     "progress"
+    ]
+   },
+   "why": "five kinds of evidence",
+   "atPhrase": "previous knowledge"
+  },
+  {
+   "visual": {
+    "kind": "checklist",
+    "title": "What small adjustment could help?",
+    "kicker": "Same outcome",
+    "items": [
+     "Change a question",
+     "Add practice",
+     "Offer clarification",
+     "Invite an explanation",
+     "Observe further"
+    ],
+    "itemPhrases": [
+     "change a question",
+     "add practice",
+     "offer clarification",
+     "invite an explanation",
+     "observe further"
+    ]
+   },
+   "why": "five options",
+   "atPhrase": "Ask what small adjustment"
+  },
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "One real teaching decision, not a full redesign",
+    "kicker": "Reflection"
+   },
+   "why": "one key sentence",
+   "atPhrase": "This reflection evaluates"
+  }
+ ],
+ "Scene 012": [
+  {
+   "visual": {
+    "kind": "checklist",
+    "title": "Individualization asks teachers to notice",
+    "kicker": "Summary",
+    "items": [
+     "Previous knowledge",
+     "Feelings",
+     "Experience",
+     "Behaviour",
+     "Curve of learning"
+    ],
+    "itemPhrases": [
+     "previous knowledge",
+     "feelings",
+     "experience",
+     "behaviour",
+     "curve of learning"
+    ]
+   },
+   "why": "five things to notice"
+  },
+  {
+   "visual": {
+    "kind": "before-after",
+    "title": "Conscious attention, not a lesson for each person",
+    "kicker": "Whenever possible",
+    "items": [
+     "A separate lesson for every person",
+     "Conscious attention and purposeful response"
+    ],
+    "itemPhrases": [
+     "separate lesson",
+     "conscious attention"
+    ],
+    "leftLabel": "Not",
+    "rightLabel": "But",
+    "leftCount": 1
+   },
+   "why": "not X but Y contrast",
+   "atPhrase": "It does not require a separate lesson"
+  },
+  {
+   "visual": {
+    "kind": "statement",
+    "title": "Connect evidence with adjustments. Keep the shared outcome clear.",
+    "kicker": "In ROOTS"
+   },
+   "why": "one key sentence",
+   "atPhrase": "In ROOTS, the teacher connects evidence"
+  },
+  {
+   "visual": {
+    "kind": "outro",
+    "title": "Next: Probing and Assessing",
+    "kicker": "The second F principle"
+   },
+   "why": "closing pointer to next lesson",
+   "atPhrase": "In the next lesson"
+  }
+ ]
+}
