@@ -1,0 +1,727 @@
+{
+  "Scene 001": [
+    {
+      "visual": {
+        "kind": "title",
+        "title": "Learner-Centred Teaching",
+        "kicker": "Lesson 02"
+      }
+    },
+    {
+      "atPhrase": "At NAMA Foundation, we now look more closely",
+      "visual": {
+        "kind": "comparison",
+        "title": "The learner-centred shift",
+        "kicker": "From delivery to learning",
+        "items": [
+          "Content delivery",
+          "Learner-centred teaching"
+        ],
+        "itemPhrases": [
+          "content delivery",
+          "learner-centred teaching"
+        ],
+        "leftLabel": "From",
+        "rightLabel": "Toward",
+        "joiner": "VS",
+        "leftCount": 1
+      }
+    },
+    {
+      "atPhrase": "By the end of this lesson",
+      "visual": {
+        "kind": "checklist",
+        "title": "By the end of this lesson",
+        "kicker": "Lesson outcome",
+        "items": [
+          "Explain the shift",
+          "Identify teacher decisions"
+        ],
+        "itemPhrases": [
+          "explain that shift",
+          "identify the decisions a teacher makes"
+        ]
+      }
+    },
+    {
+      "atPhrase": "Begin by thinking about where your attention",
+      "visual": {
+        "kind": "question",
+        "title": "Where does your attention go while you teach?",
+        "kicker": "Begin by thinking"
+      }
+    }
+  ],
+  "Scene 002": [
+    {
+      "visual": {
+        "kind": "checklist",
+        "title": "Delivery-centred success",
+        "kicker": "What it can look like",
+        "items": [
+          "Completing the explanation",
+          "Covering the planned pages",
+          "Reaching the end of the presentation"
+        ],
+        "itemPhrases": [
+          "completing the explanation",
+          "covering the planned pages",
+          "reaching the end of the presentation"
+        ]
+      }
+    },
+    {
+      "atPhrase": "In ROOTS, we also ask what happened for the learner",
+      "visual": {
+        "kind": "card-grid",
+        "title": "What happened for the learner?",
+        "kicker": "ROOTS asks also",
+        "items": [
+          "Connect",
+          "Participate",
+          "Question",
+          "Practise",
+          "Explain"
+        ],
+        "itemPhrases": [
+          "connect the idea",
+          "participate",
+          "question",
+          "practise",
+          "explain"
+        ]
+      }
+    },
+    {
+      "atPhrase": "This change in attention helps us",
+      "visual": {
+        "kind": "before-after",
+        "title": "Examine teaching through learning",
+        "kicker": "A change in attention",
+        "items": [
+          "Delivery alone",
+          "Learning"
+        ],
+        "itemPhrases": [
+          "delivery alone",
+          "through learning"
+        ],
+        "leftLabel": "Not only",
+        "rightLabel": "Through",
+        "leftCount": 1
+      }
+    }
+  ],
+  "Scene 003": [
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "Learner-centred teaching focuses on",
+        "kicker": "Five areas",
+        "items": [
+          "Needs",
+          "Ideas",
+          "Learning preferences",
+          "Participation",
+          "Outcomes"
+        ],
+        "itemPhrases": [
+          "needs",
+          "ideas",
+          "learning preferences",
+          "participation",
+          "outcomes"
+        ],
+        "center": "Learners"
+      }
+    },
+    {
+      "atPhrase": "They bring previous knowledge",
+      "visual": {
+        "kind": "card-grid",
+        "title": "Learners are not empty containers",
+        "kicker": "They bring",
+        "items": [
+          "Previous knowledge",
+          "Feelings",
+          "Abilities",
+          "Questions",
+          "Life experience"
+        ],
+        "itemPhrases": [
+          "previous knowledge",
+          "feelings",
+          "abilities",
+          "questions",
+          "life experience"
+        ]
+      }
+    },
+    {
+      "atPhrase": "The purpose is not to prepare",
+      "visual": {
+        "kind": "before-after",
+        "title": "Aware, not identical",
+        "kicker": "The purpose",
+        "items": [
+          "A different lesson for every person",
+          "Aware of individual learners"
+        ],
+        "itemPhrases": [
+          "completely different lesson",
+          "individual learners"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      }
+    }
+  ],
+  "Scene 004": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "The shift changes the planning questions",
+        "kicker": "Learner-centred planning"
+      }
+    },
+    {
+      "atPhrase": "Instead of asking only",
+      "visual": {
+        "kind": "comparison",
+        "title": "The planning questions change",
+        "kicker": "Ask both",
+        "items": [
+          "What will I teach?",
+          "What should learners know, do, or demonstrate?"
+        ],
+        "itemPhrases": [
+          "What will I teach",
+          "What should learners know"
+        ],
+        "leftLabel": "Before",
+        "rightLabel": "Also",
+        "joiner": "+",
+        "leftCount": 1
+      }
+    },
+    {
+      "atPhrase": "We consider what they already know",
+      "visual": {
+        "kind": "checklist",
+        "title": "Also consider",
+        "kicker": "Planning for learning",
+        "items": [
+          "What they already know",
+          "How they may participate",
+          "What evidence reveals progress"
+        ],
+        "itemPhrases": [
+          "what they already know",
+          "how they may participate",
+          "what evidence will reveal"
+        ]
+      }
+    },
+    {
+      "atPhrase": "The content remains important",
+      "visual": {
+        "kind": "statement",
+        "title": "Content now serves the intended learning",
+        "kicker": "Purpose first"
+      }
+    },
+    {
+      "atPhrase": "This keeps the lesson directed",
+      "visual": {
+        "kind": "before-after",
+        "title": "Direct the lesson toward the learner",
+        "kicker": "What learners carry away",
+        "items": [
+          "What the teacher will cover",
+          "What learners will carry away"
+        ],
+        "itemPhrases": [
+          "what the teacher will cover",
+          "what learners will carry away"
+        ],
+        "leftLabel": "Not simply",
+        "rightLabel": "But",
+        "leftCount": 1
+      }
+    }
+  ],
+  "Scene 005": [
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Participation makes learning visible",
+        "kicker": "Learners",
+        "items": [
+          "Solve problems",
+          "Answer questions",
+          "Ask own questions",
+          "Discuss ideas",
+          "Explain thinking"
+        ],
+        "itemPhrases": [
+          "solving problems",
+          "answering questions",
+          "questions of their own",
+          "discussing ideas",
+          "explaining their thinking"
+        ]
+      }
+    },
+    {
+      "atPhrase": "However, participation is not measured",
+      "visual": {
+        "kind": "statement",
+        "title": "Participation is more than talking or moving",
+        "kicker": "A teacher looks deeper"
+      }
+    },
+    {
+      "atPhrase": "A teacher considers whether the participation",
+      "visual": {
+        "kind": "checklist",
+        "title": "Meaningful participation",
+        "kicker": "Three tests",
+        "items": [
+          "Supports the outcome",
+          "Involves meaningful thinking",
+          "Provides useful evidence"
+        ],
+        "itemPhrases": [
+          "supports the intended outcome",
+          "involves meaningful thinking",
+          "provides useful evidence"
+        ]
+      }
+    }
+  ],
+  "Scene 006": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "The teacher's role is broader and more intentional",
+        "kicker": "Not removed"
+      }
+    },
+    {
+      "atPhrase": "The teacher still brings subject knowledge",
+      "visual": {
+        "kind": "comparison",
+        "title": "Teacher still brings + also does",
+        "kicker": "One broader role",
+        "items": [
+          "Subject knowledge",
+          "Prepares content",
+          "Gives direction",
+          "Designs the experience",
+          "Listens and observes",
+          "Asks, supports, reflects"
+        ],
+        "itemPhrases": [
+          "subject knowledge",
+          "prepares content",
+          "provides direction",
+          "designs the experience",
+          "listens to learners",
+          "asks purposeful questions"
+        ],
+        "leftLabel": "Still brings",
+        "rightLabel": "At the same time",
+        "joiner": "+",
+        "leftCount": 3
+      }
+    },
+    {
+      "atPhrase": "In ROOTS, we see the teacher",
+      "visual": {
+        "kind": "statement",
+        "title": "Create conditions for learning, then stay attentive to the evidence",
+        "kicker": "The teacher in ROOTS"
+      }
+    }
+  ],
+  "Scene 007": [
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Evidence of where learning stands",
+        "kicker": "Observe",
+        "items": [
+          "Answer",
+          "Demonstration",
+          "Written response",
+          "Difficulty"
+        ],
+        "itemPhrases": [
+          "answer",
+          "demonstration",
+          "written response",
+          "difficulty"
+        ]
+      }
+    },
+    {
+      "atPhrase": "The teacher can use that evidence",
+      "visual": {
+        "kind": "mind-map",
+        "title": "Use evidence to decide",
+        "kicker": "Next teaching action",
+        "items": [
+          "Continue",
+          "Clarify",
+          "Ask another question",
+          "Give feedback",
+          "Create practice"
+        ],
+        "itemPhrases": [
+          "to continue",
+          "clarify",
+          "ask another question",
+          "provide feedback",
+          "create another opportunity"
+        ],
+        "center": "Next action"
+      }
+    },
+    {
+      "atPhrase": "This means the lesson is not treated",
+      "visual": {
+        "kind": "before-after",
+        "title": "Not a fixed performance",
+        "kicker": "Evidence guides",
+        "items": [
+          "A fixed performance",
+          "Evidence guides the next action"
+        ],
+        "itemPhrases": [
+          "fixed performance",
+          "using evidence to guide"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      }
+    }
+  ],
+  "Scene 008": [
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "See each learner",
+        "kicker": "Focusing on Learner",
+        "items": [
+          "The class as one group",
+          "Each learner"
+        ],
+        "itemPhrases": [
+          "the class as one group",
+          "each learner"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      }
+    },
+    {
+      "atPhrase": "The Focusing on Learner domain",
+      "visual": {
+        "kind": "mind-map",
+        "title": "The learner domain considers",
+        "kicker": "Focusing on Learner",
+        "items": [
+          "Curve of learning",
+          "Previous knowledge",
+          "Feelings",
+          "Experience"
+        ],
+        "itemPhrases": [
+          "curve of learning",
+          "previous knowledge",
+          "feelings",
+          "and experience"
+        ],
+        "center": "Each learner"
+      }
+    },
+    {
+      "atPhrase": "Its principle of individualization",
+      "visual": {
+        "kind": "statement",
+        "title": "Individualization: distinct and personal",
+        "kicker": "Principle"
+      }
+    },
+    {
+      "atPhrase": "Individualization begins with awareness",
+      "visual": {
+        "kind": "checklist",
+        "title": "Individualization begins with awareness",
+        "kicker": "Ask yourself",
+        "items": [
+          "Who needs further explanation?",
+          "Who is ready to extend an idea?",
+          "Who has experience that helps?"
+        ],
+        "itemPhrases": [
+          "who needs further explanation",
+          "who is ready to extend an idea",
+          "who has experience"
+        ]
+      }
+    }
+  ],
+  "Scene 009": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Trusting the learner",
+        "kicker": "Adult learners bring experience"
+      }
+    },
+    {
+      "atPhrase": "The ROOTS material explains",
+      "visual": {
+        "kind": "staircase",
+        "title": "From experience to self-direction",
+        "kicker": "Adult learners",
+        "items": [
+          "Knowledge and life experience",
+          "Use that foundation",
+          "Greater responsibility",
+          "Self-direction"
+        ],
+        "itemPhrases": [
+          "knowledge and life experience",
+          "use that foundation",
+          "greater responsibility",
+          "self-direction"
+        ]
+      }
+    },
+    {
+      "atPhrase": "Trust does not mean leaving learners",
+      "visual": {
+        "kind": "before-after",
+        "title": "Trust is not absence of guidance",
+        "kicker": "Make room",
+        "items": [
+          "Leaving learners without guidance",
+          "Making room for experience and choices"
+        ],
+        "itemPhrases": [
+          "without guidance",
+          "making room"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      }
+    },
+    {
+      "atPhrase": "A teacher can still set",
+      "visual": {
+        "kind": "comparison",
+        "title": "Structure and trust together",
+        "kicker": "Active participants",
+        "items": [
+          "Clear outcome",
+          "Structure",
+          "Active participants"
+        ],
+        "itemPhrases": [
+          "clear outcome",
+          "provide structure",
+          "active participants"
+        ],
+        "leftLabel": "Teacher sets",
+        "rightLabel": "Learners are",
+        "joiner": "+",
+        "leftCount": 2
+      }
+    }
+  ],
+  "Scene 010": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Pay attention to interaction",
+        "kicker": "Learners influence one another"
+      }
+    },
+    {
+      "atPhrase": "ROOTS therefore considers",
+      "visual": {
+        "kind": "mind-map",
+        "title": "ROOTS considers",
+        "kicker": "The learning environment",
+        "items": [
+          "Positive spirit",
+          "Motivation",
+          "Attention",
+          "Social dimension"
+        ],
+        "itemPhrases": [
+          "positive spirit",
+          "learner motivation",
+          "attention, and the social",
+          "social dimension"
+        ],
+        "center": "Interaction"
+      }
+    },
+    {
+      "atPhrase": "It is to consider whether interaction helps them",
+      "visual": {
+        "kind": "checklist",
+        "title": "Interaction should help learners",
+        "kicker": "Purpose over presence",
+        "items": [
+          "Participate",
+          "Exchange understanding",
+          "Remain focused",
+          "Move toward the outcome"
+        ],
+        "itemPhrases": [
+          "participate",
+          "exchange understanding",
+          "remain focused",
+          "move toward the outcome"
+        ]
+      }
+    }
+  ],
+  "Scene 011": [
+    {
+      "visual": {
+        "kind": "roadmap-path",
+        "title": "A sequence of teacher decisions",
+        "kicker": "Bring it together",
+        "items": [
+          "Clarify the outcome",
+          "Consider what they bring",
+          "Observe and gather evidence",
+          "Choose the next action"
+        ],
+        "itemPhrases": [
+          "clarify what learners should achieve",
+          "what they already bring",
+          "observe their behaviour",
+          "choose the next action"
+        ]
+      }
+    },
+    {
+      "atPhrase": "This sequence is not a separate method",
+      "visual": {
+        "kind": "statement",
+        "title": "A learner-centred way of planning, facilitating and reviewing",
+        "kicker": "Not a separate method"
+      }
+    }
+  ],
+  "Scene 012": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Apply the shift to one lesson you know well",
+        "kicker": "Start with the outcome"
+      }
+    },
+    {
+      "atPhrase": "Then ask three questions",
+      "visual": {
+        "kind": "process",
+        "title": "Three reflection questions",
+        "kicker": "Ask",
+        "items": [
+          "What did learners do?",
+          "What evidence did I notice?",
+          "What decision did I make?"
+        ],
+        "itemPhrases": [
+          "what did the learners do",
+          "what evidence did I notice",
+          "what decision did I make"
+        ]
+      }
+    },
+    {
+      "atPhrase": "If your reflection focuses mainly",
+      "visual": {
+        "kind": "card-grid",
+        "title": "Look from the learners' side",
+        "kicker": "Notice",
+        "items": [
+          "Questions",
+          "Practice",
+          "Connections",
+          "Demonstrations",
+          "Difficulty"
+        ],
+        "itemPhrases": [
+          "their questions",
+          "practice",
+          "connections",
+          "demonstrations",
+          "points of difficulty"
+        ]
+      }
+    },
+    {
+      "atPhrase": "This reflection is not about judging",
+      "visual": {
+        "kind": "before-after",
+        "title": "Reflect to see, not to judge",
+        "kicker": "Learner-centred decisions",
+        "items": [
+          "Good or bad",
+          "More deliberate decisions"
+        ],
+        "itemPhrases": [
+          "simply good or bad",
+          "more deliberate"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      }
+    }
+  ],
+  "Scene 013": [
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "The teacher remains essential as",
+        "kicker": "Facilitating learning",
+        "items": [
+          "Designer",
+          "Guide",
+          "Observer",
+          "Questioner",
+          "Facilitator"
+        ],
+        "itemPhrases": [
+          "designer",
+          "guide",
+          "observer",
+          "questioner",
+          "facilitator"
+        ],
+        "center": "Teacher"
+      }
+    },
+    {
+      "atPhrase": "In ROOTS, this shift prepares the ground",
+      "visual": {
+        "kind": "outro",
+        "title": "Next: Active Deep Learner eXperience",
+        "kicker": "Continue the ROOTS journey"
+      }
+    }
+  ]
+}
