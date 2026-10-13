@@ -10,6 +10,7 @@ import {
   TimelineRoadmap,
 } from "./PrimeDiagrams";
 import { BarChart, BeforeAfter, DonutChart, LayerStack, MindMap, Pyramid, Quadrant, RoadmapPath, Target, Venn } from "./PrimeCharts";
+import { Balance, Bridge, DecisionTree, Definition, Funnel, Gears, GrowthTree, Iceberg, Spectrum, StatTiles } from "./PrimeShapes";
 import type { ScriptScene } from "./schema";
 
 function enter(frame: number, delay = 0, duration = 14) {
@@ -284,6 +285,16 @@ function DiagramScene({ scene, label, dark }: { scene: ScriptScene; label: strin
       case "roadmap-path": return <RoadmapPath {...chart} />;
       case "layer-stack": return <LayerStack {...chart} />;
       case "before-after": return <BeforeAfter {...chart} />;
+      case "funnel": return <Funnel {...chart} />;
+      case "spectrum": return <Spectrum {...chart} />;
+      case "balance": return <Balance {...chart} />;
+      case "tree": return <GrowthTree {...chart} />;
+      case "decision-tree": return <DecisionTree {...chart} />;
+      case "iceberg": return <Iceberg {...chart} />;
+      case "bridge": return <Bridge {...chart} />;
+      case "stat-tiles": return <StatTiles {...chart} />;
+      case "gears": return <Gears {...chart} />;
+      case "definition": return <Definition {...chart} />;
       case "card-grid":
       default: return <CardConstellation {...common} />;
     }
@@ -338,6 +349,16 @@ export function PrimeScriptScene({ scene, lessonLabel, sceneIndex }: { scene: Sc
     case "roadmap-path":
     case "layer-stack":
     case "before-after":
+    case "funnel":
+    case "spectrum":
+    case "balance":
+    case "tree":
+    case "decision-tree":
+    case "iceberg":
+    case "bridge":
+    case "stat-tiles":
+    case "gears":
+    case "definition":
       return <DiagramScene scene={displayScene} label={lessonLabel} dark={dark} />;
     case "question":
       return <BrandBeat scene={displayScene} label={lessonLabel} dark={dark} />;

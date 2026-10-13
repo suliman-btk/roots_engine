@@ -33,6 +33,8 @@ VISUAL_KINDS = {
     "cycle", "comparison", "card-grid", "staircase", "outro",
     "bar-chart", "donut", "pyramid", "venn", "mind-map",
     "target", "quadrant", "roadmap-path", "layer-stack", "before-after",
+    "funnel", "spectrum", "balance", "tree", "decision-tree",
+    "iceberg", "bridge", "stat-tiles", "gears", "definition",
 }
 
 
@@ -214,6 +216,18 @@ def validate_visual(visual: Any, context: str) -> dict[str, Any]:
         raise ValueError(f"A quadrant visual needs exactly 4 items: {context}")
     if kind == "venn" and (not isinstance(items, list) or not 2 <= len(items) <= 3):
         raise ValueError(f"A venn visual needs 2 or 3 items: {context}")
+    if kind in {"balance", "iceberg"} and left_count is None:
+        raise ValueError(f"A {kind} visual needs leftCount (items on the left / above the water): {context}")
+    if kind == "iceberg" and left_count is not None and left_count > 2:
+        raise ValueError(f"An iceberg shows at most 2 items above the water: {context}")
+    if kind == "balance" and isinstance(items, list) and left_count is not None and (left_count > 3 or len(items) - left_count > 3):
+        raise ValueError(f"A balance holds at most 3 items per side: {context}")
+    if kind in {"definition", "decision-tree"} and not visual.get("center"):
+        raise ValueError(f"A {kind} visual needs center (the term / the question): {context}")
+    if kind == "stat-tiles" and isinstance(items, list) and not all(re.match(r"^\s*[\w.-]+\s*\|\s*\S", item) for item in items):
+        raise ValueError(f"stat-tiles items must look like '5|Domains': {context}")
+    if kind == "spectrum" and values is not None and not all(0 <= v <= 100 for v in values):
+        raise ValueError(f"spectrum values are positions from 0 to 100: {context}")
     item_phrases = visual.get("itemPhrases")
     if item_phrases is not None:
         if not isinstance(item_phrases, list) or not all(isinstance(phrase, str) and phrase.strip() for phrase in item_phrases):
@@ -299,7 +313,7 @@ def resolve_item_start(words: list[dict[str, Any]], phrase: str, item: str, cont
     if len(matches) != 1:
         return resolve_phrase(words, phrase, context)  # raises with a helpful message
     first = matches[0]
-    label = {_stem(tok) for tok in (normalize_token(part) for part in re.split(r"[\s·,/-]+", item)) if tok and tok not in STOP_WORDS}
+    label = {_stem(tok) for tok in (normalize_token(part) for part in re.split(r"[\s·,/|-]+", item)) if tok and tok not in STOP_WORDS}
     for offset, token in enumerate(needle):
         if token not in STOP_WORDS and _stem(token) in label:
             return float(words[first + offset]["start"])
@@ -550,7 +564,7 @@ async def build_manifest(script_path: Path, voice: str, plan_only: bool) -> dict
                 ]
                 # Items that share a phrase can resolve to words in a different order than
                 # the cards; keep the reveal sequence monotonic.
-                if visual.get("kind") not in {"before-after", "comparison"}:
+                if visual.get("kind") not in {"before-after", "comparison", "balance", "iceberg"}:
                     for k in range(1, len(item_starts)):
                         item_starts[k] = max(item_starts[k], item_starts[k - 1])
                 if any(start >= beat_end - beat_start for start in item_starts):

@@ -26,6 +26,16 @@ export type ScriptVisual = {
     | "roadmap-path"
     | "layer-stack"
     | "before-after"
+    | "funnel"
+    | "spectrum"
+    | "balance"
+    | "tree"
+    | "decision-tree"
+    | "iceberg"
+    | "bridge"
+    | "stat-tiles"
+    | "gears"
+    | "definition"
     | "outro";
   title: string;
   kicker?: string;
@@ -40,9 +50,9 @@ export type ScriptVisual = {
   /** Column headings for before-after (defaults: "Avoid" / "Aim for"). */
   leftLabel?: string;
   rightLabel?: string;
-  /** comparison / before-after: how many items go in the left column. */
+  /** comparison / before-after / balance: items in the left column. iceberg: items above the water (1–2). */
   leftCount?: number;
-  /** comparison: badge between the columns (default "VS"; e.g. "+" or "?"). */
+  /** comparison: badge between the columns (default "VS"; e.g. "+" or "?"). definition: connector word (default "means"). */
   joiner?: string;
 };
 

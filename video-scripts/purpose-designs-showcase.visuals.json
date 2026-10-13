@@ -1,0 +1,233 @@
+{
+  "Scene 001": [
+    {
+      "visual": {
+        "kind": "title",
+        "title": "Purpose-Built Designs",
+        "kicker": "Showcase"
+      }
+    },
+    {
+      "atPhrase": "Planning narrows",
+      "visual": {
+        "kind": "funnel",
+        "title": "From many options to one focus",
+        "kicker": "Funnel · narrowing",
+        "items": [
+          "All possible content",
+          "What learners need",
+          "Evidence to look for"
+        ],
+        "itemPhrases": [
+          "all the content",
+          "select what learners need",
+          "the evidence we will look for"
+        ],
+        "center": "One clear learning outcome"
+      }
+    }
+  ],
+  "Scene 002": [
+    {
+      "visual": {
+        "kind": "spectrum",
+        "title": "A continuum, not a choice",
+        "kicker": "Spectrum · degrees",
+        "items": [
+          "Direct explanation",
+          "Guided practice",
+          "Self-direction"
+        ],
+        "itemPhrases": [
+          "direct explanation",
+          "guided practice",
+          "full self-direction"
+        ],
+        "leftLabel": "Teacher-led",
+        "rightLabel": "Learner-led",
+        "values": [
+          14,
+          50,
+          86
+        ]
+      }
+    }
+  ],
+  "Scene 003": [
+    {
+      "visual": {
+        "kind": "balance",
+        "title": "Keep structure and freedom in balance",
+        "kicker": "Balance · weighing",
+        "items": [
+          "Clear outcome",
+          "Firm structure",
+          "Own questions",
+          "Own choices"
+        ],
+        "itemPhrases": [
+          "clear outcome",
+          "firm structure",
+          "their own questions",
+          "and choices"
+        ],
+        "leftCount": 2,
+        "leftLabel": "Structure",
+        "rightLabel": "Freedom",
+        "center": "In balance"
+      }
+    }
+  ],
+  "Scene 004": [
+    {
+      "visual": {
+        "kind": "tree",
+        "title": "Every practice grows from one root",
+        "kicker": "Tree · growth",
+        "items": [
+          "Careful planning",
+          "Purposeful questions",
+          "Meaningful practice",
+          "Honest reflection"
+        ],
+        "itemPhrases": [
+          "careful planning",
+          "purposeful questions",
+          "meaningful practice",
+          "honest reflection"
+        ],
+        "center": "Focus on the learner"
+      }
+    }
+  ],
+  "Scene 005": [
+    {
+      "visual": {
+        "kind": "decision-tree",
+        "title": "Evidence decides the next step",
+        "kicker": "Decision tree · if / then",
+        "items": [
+          "Yes | Continue",
+          "Partly | Clarify",
+          "Not yet | Practise again"
+        ],
+        "itemPhrases": [
+          "understand, continue",
+          "partly there",
+          "they are confused"
+        ],
+        "center": "Did they understand?"
+      }
+    }
+  ],
+  "Scene 006": [
+    {
+      "visual": {
+        "kind": "iceberg",
+        "title": "Most of learning is beneath the surface",
+        "kicker": "Iceberg · visible vs hidden",
+        "items": [
+          "Participation",
+          "Answers",
+          "Thinking",
+          "Prior knowledge",
+          "Feelings",
+          "Confidence"
+        ],
+        "itemPhrases": [
+          "participation",
+          "answers",
+          "thinking",
+          "prior knowledge",
+          "feelings",
+          "confidence"
+        ],
+        "leftCount": 2,
+        "leftLabel": "What we see",
+        "rightLabel": "Beneath the surface"
+      }
+    }
+  ],
+  "Scene 007": [
+    {
+      "visual": {
+        "kind": "bridge",
+        "title": "Teaching bridges the gap",
+        "kicker": "Bridge · closing a gap",
+        "items": [
+          "Clear explanation",
+          "Guided practice",
+          "Timely feedback"
+        ],
+        "itemPhrases": [
+          "clear explanation",
+          "guided practice",
+          "timely feedback"
+        ],
+        "leftLabel": "Where learners are",
+        "rightLabel": "Intended outcome"
+      }
+    }
+  ],
+  "Scene 008": [
+    {
+      "visual": {
+        "kind": "stat-tiles",
+        "title": "ROOTS in numbers",
+        "kicker": "Stat tiles · spoken numbers",
+        "items": [
+          "5|Domains",
+          "15|Principles",
+          "25|Lessons"
+        ],
+        "itemPhrases": [
+          "five domains",
+          "fifteen principles",
+          "25 lessons"
+        ]
+      }
+    }
+  ],
+  "Scene 009": [
+    {
+      "visual": {
+        "kind": "gears",
+        "title": "Each part drives the others",
+        "kicker": "Gears · interdependence",
+        "items": [
+          "Planning",
+          "Teaching",
+          "Assessment"
+        ],
+        "itemPhrases": [
+          "When planning turns",
+          "teaching moves",
+          "assessment drives"
+        ]
+      }
+    }
+  ],
+  "Scene 010": [
+    {
+      "visual": {
+        "kind": "definition",
+        "title": "What learner-centred teaching means",
+        "kicker": "Definition · key term",
+        "items": [
+          "Learners' needs",
+          "Their participation",
+          "The evidence they show",
+          "The outcomes they reach"
+        ],
+        "itemPhrases": [
+          "needs",
+          "their participation",
+          "the evidence they show",
+          "the outcomes they reach"
+        ],
+        "center": "Learner-centred teaching",
+        "joiner": "means focusing on"
+      }
+    }
+  ]
+}

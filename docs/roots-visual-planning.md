@@ -49,6 +49,16 @@ Lesson 01 is the reference implementation.
 | a set of separate examples | `card-grid` |
 | a checklist the learner should do | `checklist` |
 | a single key sentence | `statement`; a question → `question`; closing → `outro` |
+| narrowing many things down to one focus / result | `funnel` (first = broadest; `center` = the result) |
+| degrees between two poles, "not simply X or Y" | `spectrum` (`leftLabel`/`rightLabel` = poles; optional `values` 0–100 = positions) |
+| keeping two sides in balance / weighing | `balance` (`leftCount`, `leftLabel`, `rightLabel`, `center` e.g. "In balance"; ≤3 per side) |
+| one root principle grows into several practices | `tree` (`center` = the root) |
+| "if this, then that" — evidence decides the next step | `decision-tree` (`center` = the question; items `"Condition \| Action"`) |
+| what is visible vs. what lies beneath | `iceberg` (`leftCount` = 1–2 visible items; rest below) |
+| closing a gap from where learners are to a goal | `bridge` (`leftLabel` = start, `rightLabel` = goal; items = supports) |
+| numbers actually spoken in the narration | `stat-tiles` (items `"5\|Domains"`; never invent numbers — the checker blocks it) |
+| parts that drive each other / interdependence | `gears` (2–4) |
+| "X means…" — a key term and its meaning | `definition` (`center` = term; `joiner` = "means" / "means focusing on") |
 
 - `title` is for the opening slide only (it shows the ROOTS logo). A later `title`
   becomes a navy section divider without the logo.
