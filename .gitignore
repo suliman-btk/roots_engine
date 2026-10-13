@@ -49,3 +49,4 @@ lessons/*/presenter/
 
 # Script-video QA frame dumps are regenerable; retain selected contact sheets.
 lessons/*/qa/scene-stills*/
+__pycache__/

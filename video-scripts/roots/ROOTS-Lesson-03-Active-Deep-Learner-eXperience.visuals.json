@@ -1,0 +1,847 @@
+{
+  "Scene 001": [
+    {
+      "visual": {
+        "kind": "title",
+        "title": "Active Deep Learner eXperience",
+        "kicker": "Lesson 03"
+      },
+      "why": "opening title"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "ADLX: a central idea in ROOTS",
+        "kicker": "Active Deep Learner eXperience"
+      },
+      "atPhrase": "we now turn to a central idea",
+      "why": "one key term to remember"
+    },
+    {
+      "visual": {
+        "kind": "checklist",
+        "title": "By the end of this lesson",
+        "kicker": "Lesson outcome",
+        "items": [
+          "Explain the three parts of ADLX",
+          "Tell purposeful active learning from activity alone"
+        ],
+        "itemPhrases": [
+          "explain the three connected parts",
+          "distinguish purposeful active learning"
+        ]
+      },
+      "atPhrase": "By the end of this lesson",
+      "why": "two outcomes the narrator lists to do"
+    },
+    {
+      "visual": {
+        "kind": "question",
+        "title": "When learners looked busy, what showed they were also thinking?",
+        "kicker": "Think of a time"
+      },
+      "atPhrase": "As we begin, think of a time",
+      "why": "narrator poses a reflection question"
+    }
+  ],
+  "Scene 002": [
+    {
+      "visual": {
+        "kind": "definition",
+        "title": "The learner experience",
+        "kicker": "Key term",
+        "items": [
+          "Interaction",
+          "Course",
+          "Programme",
+          "Other experience"
+        ],
+        "itemPhrases": [
+          "any interaction",
+          "course",
+          "programme",
+          "other experience"
+        ],
+        "center": "Learner experience",
+        "joiner": "is any"
+      },
+      "why": "narrator defines a term: any interaction, course, programme, or other experience"
+    },
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Where it can happen",
+        "kicker": "Settings",
+        "items": [
+          "School or classroom",
+          "Outside school",
+          "Outdoors",
+          "Digital environment"
+        ],
+        "itemPhrases": [
+          "school or classroom",
+          "outside school",
+          "outdoors",
+          "digital environment"
+        ]
+      },
+      "atPhrase": "It may happen in a school or classroom",
+      "why": "four separate, equal places with no order"
+    },
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "A learner experience includes",
+        "kicker": "The whole experience",
+        "items": [
+          "Conditions",
+          "Interactions",
+          "Questions",
+          "Activities",
+          "Practice",
+          "Reflection and follow-up"
+        ],
+        "itemPhrases": [
+          "the conditions",
+          "interactions, questions",
+          "questions",
+          "activities",
+          "practice",
+          "reflection"
+        ],
+        "center": "Learner experience"
+      },
+      "atPhrase": "It includes the conditions",
+      "why": "one hub (the experience) with parts around it"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "ADLX looks at the parts working together as a complete experience",
+        "kicker": "The whole picture"
+      },
+      "atPhrase": "ADLX asks us to consider",
+      "why": "closing sentence to remember"
+    }
+  ],
+  "Scene 003": [
+    {
+      "visual": {
+        "kind": "comparison",
+        "title": "Active learning",
+        "kicker": "The first quality",
+        "items": [
+          "Doing things",
+          "Thinking about what they are doing"
+        ],
+        "itemPhrases": [
+          "doing things",
+          "thinking about what they are doing"
+        ],
+        "leftLabel": "Doing",
+        "rightLabel": "Thinking",
+        "joiner": "+",
+        "leftCount": 1
+      },
+      "why": "two ideas that work together: doing + thinking"
+    },
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Learners do more than listen",
+        "kicker": "Ways to participate",
+        "items": [
+          "Read and write",
+          "Discuss",
+          "Solve problems",
+          "Explain ideas"
+        ],
+        "itemPhrases": [
+          "read, write",
+          "discuss",
+          "solve problems",
+          "explain ideas"
+        ]
+      },
+      "atPhrase": "Learners do more than listen",
+      "why": "separate equal examples of participation"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Learners participate in the work of learning",
+        "kicker": "The principle"
+      },
+      "atPhrase": "The specific action can vary",
+      "why": "one principle that stays the same"
+    },
+    {
+      "visual": {
+        "kind": "checklist",
+        "title": "Participation gives learners chances to",
+        "kicker": "Why participation matters",
+        "items": [
+          "Process ideas",
+          "Practise",
+          "Respond",
+          "Make understanding visible"
+        ],
+        "itemPhrases": [
+          "process ideas",
+          "practise",
+          "respond",
+          "make their developing understanding visible"
+        ]
+      },
+      "atPhrase": "Their participation gives them opportunities",
+      "why": "narrator lists what participation allows"
+    }
+  ],
+  "Scene 004": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "The words “and thinking” are essential",
+        "kicker": "Look closer"
+      },
+      "why": "narrator stresses one phrase"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "Activity is not automatically active learning",
+        "kicker": "Visible activity",
+        "items": [
+          "Visible activity",
+          "Active learning"
+        ],
+        "itemPhrases": [
+          "visible activity",
+          "create active learning"
+        ],
+        "leftLabel": "Not automatically",
+        "rightLabel": "Needs thinking",
+        "leftCount": 1
+      },
+      "atPhrase": "Visible activity does not automatically",
+      "why": "narrator says activity does not automatically create active learning"
+    },
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "What thinking does the activity invite?",
+        "kicker": "The teacher’s question",
+        "items": [
+          "Making a decision",
+          "Explaining a relationship",
+          "Solving a problem",
+          "Examining an idea",
+          "Reflecting on an experience"
+        ],
+        "itemPhrases": [
+          "making a decision",
+          "explaining a relationship",
+          "solving a problem",
+          "examining an idea",
+          "reflecting on an experience"
+        ],
+        "center": "What thinking?"
+      },
+      "atPhrase": "In ROOTS, we ask what thinking",
+      "why": "one question hub with five thinking moves around it"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Purposeful activity connects action with mental engagement",
+        "kicker": "The link"
+      },
+      "atPhrase": "Purposeful activity connects",
+      "why": "key sentence"
+    },
+    {
+      "visual": {
+        "kind": "comparison",
+        "title": "Lively is not always active learning",
+        "kicker": "Not always the same",
+        "items": [
+          "A lively classroom",
+          "An active learning experience"
+        ],
+        "itemPhrases": [
+          "a lively classroom",
+          "an active learning experience"
+        ],
+        "leftLabel": "Looks busy",
+        "rightLabel": "Thinks and learns",
+        "joiner": "VS",
+        "leftCount": 1
+      },
+      "atPhrase": "This is why a lively classroom",
+      "why": "two things often confused, set side by side"
+    }
+  ],
+  "Scene 005": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Choose participation that serves the outcome",
+        "kicker": "The teacher’s role"
+      },
+      "why": "narrator’s opening claim"
+    },
+    {
+      "visual": {
+        "kind": "decision-tree",
+        "title": "What must learners do?",
+        "kicker": "Match participation to the outcome",
+        "items": [
+          "Explain an idea | A real chance to explain",
+          "Demonstrate a skill | Practice that shows the skill",
+          "Solve a problem | A problem needing the thinking"
+        ],
+        "itemPhrases": [
+          "explain an idea",
+          "demonstrate a skill",
+          "solve a problem"
+        ],
+        "center": "What must learners do?"
+      },
+      "atPhrase": "If learners need to explain an idea",
+      "why": "narrator says: if they need X, they need Y"
+    },
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "Learner responses give evidence to guide",
+        "kicker": "Observe during participation",
+        "items": [
+          "Feedback",
+          "Clarification",
+          "Further questioning",
+          "Another opportunity"
+        ],
+        "itemPhrases": [
+          "feedback",
+          "clarification",
+          "further questioning",
+          "another opportunity"
+        ],
+        "center": "Evidence"
+      },
+      "atPhrase": "The teacher also observes",
+      "why": "one hub (evidence) with four possible next moves"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Activity and assessment support one another",
+        "kicker": "The link"
+      },
+      "atPhrase": "Activity and assessment can therefore",
+      "why": "closing sentence"
+    }
+  ],
+  "Scene 006": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Deep learning arises from the need to understand and seek meaning",
+        "kicker": "The second quality"
+      },
+      "why": "key definition sentence"
+    },
+    {
+      "visual": {
+        "kind": "checklist",
+        "title": "Deep learners",
+        "kicker": "What they do",
+        "items": [
+          "Relate ideas to experience",
+          "Examine knowledge for patterns"
+        ],
+        "itemPhrases": [
+          "relate concepts and ideas to existing experience",
+          "examine emerging knowledge"
+        ]
+      },
+      "atPhrase": "Learners relate concepts",
+      "why": "two actions the narrator names"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "Not only surface information",
+        "kicker": "Deep versus surface",
+        "items": [
+          "Information only at the surface",
+          "Works with the idea",
+          "Connects it",
+          "Questions it"
+        ],
+        "itemPhrases": [
+          "at the surface",
+          "works with an idea",
+          "connects it",
+          "questions it"
+        ],
+        "leftLabel": "Surface",
+        "rightLabel": "Deep",
+        "leftCount": 1
+      },
+      "atPhrase": "Deep learning is therefore different",
+      "why": "narrator contrasts surface with working on an idea"
+    },
+    {
+      "visual": {
+        "kind": "comparison",
+        "title": "The teacher’s question",
+        "kicker": "Not only … but also",
+        "items": [
+          "Did learners receive this information?",
+          "How did they make sense of it?"
+        ],
+        "itemPhrases": [
+          "Did learners receive this information",
+          "How did they make sense of it"
+        ],
+        "leftLabel": "Not only",
+        "rightLabel": "But also",
+        "joiner": "+",
+        "leftCount": 1
+      },
+      "atPhrase": "For a teacher, the important question",
+      "why": "narrator says not only A, but also B"
+    }
+  ],
+  "Scene 007": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Previous experience matters in deep learning",
+        "kicker": "Build on what they know"
+      },
+      "why": "opening claim"
+    },
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "Relating a new idea to what they know",
+        "kicker": "Learners can",
+        "items": [
+          "Compare",
+          "Distinguish",
+          "Extend",
+          "Reconsider"
+        ],
+        "itemPhrases": [
+          "compare",
+          "distinguish",
+          "extend",
+          "reconsider their understanding"
+        ],
+        "center": "New idea + experience"
+      },
+      "atPhrase": "When they relate a new idea",
+      "why": "one hub (relating) with four thinking moves"
+    },
+    {
+      "visual": {
+        "kind": "process",
+        "title": "The teacher invites learners to",
+        "kicker": "Support the connection",
+        "items": [
+          "Recall experience",
+          "Identify connections",
+          "Explain the link"
+        ],
+        "itemPhrases": [
+          "recall relevant experience",
+          "identify connections",
+          "explain how the new learning relates"
+        ]
+      },
+      "atPhrase": "The teacher can support this process",
+      "why": "narrator gives three steps in order"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "Use the connection to build meaning",
+        "kicker": "Not simply mention it",
+        "items": [
+          "Mentioning an experience",
+          "Developing meaning"
+        ],
+        "itemPhrases": [
+          "mention an experience",
+          "develop meaning"
+        ],
+        "leftLabel": "Not simply",
+        "rightLabel": "But",
+        "leftCount": 1
+      },
+      "atPhrase": "The purpose is not simply",
+      "why": "narrator says not simply X, but to Y"
+    }
+  ],
+  "Scene 008": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Deep learning also involves analysis and evaluation",
+        "kicker": "Think about knowledge"
+      },
+      "why": "opening claim"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "Examine, do not just repeat",
+        "kicker": "Analysis",
+        "items": [
+          "Accepting or repeating it",
+          "Examining new knowledge"
+        ],
+        "itemPhrases": [
+          "accepting or repeating it",
+          "examine new knowledge"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      },
+      "atPhrase": "Learners examine new knowledge rather than",
+      "why": "narrator contrasts examining with accepting or repeating"
+    },
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "What learners look for",
+        "kicker": "Analysis",
+        "items": [
+          "Relationships",
+          "Patterns",
+          "Reasons",
+          "Meaning"
+        ],
+        "itemPhrases": [
+          "relationships",
+          "patterns",
+          "reasons",
+          "meaning"
+        ]
+      },
+      "atPhrase": "They look for relationships",
+      "why": "four separate things looked for"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Match the level of thinking to the intended learning",
+        "kicker": "Not every lesson an abstract debate"
+      },
+      "atPhrase": "This does not require every lesson",
+      "why": "narrator’s one rule"
+    },
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Ways to move beyond recall",
+        "kicker": "Questions and tasks",
+        "items": [
+          "Question",
+          "Comparison",
+          "Explanation",
+          "Reflection",
+          "Application"
+        ],
+        "itemPhrases": [
+          "chosen question",
+          "comparison",
+          "explanation",
+          "reflection",
+          "application"
+        ]
+      },
+      "atPhrase": "A carefully chosen question",
+      "why": "five separate examples"
+    }
+  ],
+  "Scene 009": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "ADLX brings the active and deep qualities together",
+        "kicker": "Within the complete learner experience"
+      },
+      "why": "opening claim"
+    },
+    {
+      "visual": {
+        "kind": "venn",
+        "title": "Three parts of ADLX",
+        "kicker": "How they combine",
+        "items": [
+          "Active learning",
+          "Deep learning",
+          "Learner experience"
+        ],
+        "itemPhrases": [
+          "Active learning creates meaningful participation",
+          "Deep learning develops connection",
+          "learner experience brings attention"
+        ],
+        "center": "ADLX"
+      },
+      "atPhrase": "Active learning creates meaningful participation",
+      "why": "three ideas overlapping into one"
+    },
+    {
+      "visual": {
+        "kind": "gears",
+        "title": "These parts strengthen one another",
+        "kicker": "Each drives the others",
+        "items": [
+          "Activity",
+          "Reflection",
+          "Previous knowledge",
+          "Practice"
+        ],
+        "itemPhrases": [
+          "Activity can provide",
+          "Reflection can reveal",
+          "Previous knowledge can guide",
+          "practice can test"
+        ]
+      },
+      "atPhrase": "These parts strengthen one another",
+      "why": "narrator says the parts drive and test each other"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "ADLX forms when the qualities work together, not as isolated moments",
+        "kicker": "The key point"
+      },
+      "atPhrase": "In ROOTS, ADLX is formed",
+      "why": "closing sentence"
+    }
+  ],
+  "Scene 010": [
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "Enjoyment and emotion are not enough",
+        "kicker": "Keep the outcome in view",
+        "items": [
+          "Entertainment without learning",
+          "A strong emotional moment",
+          "Learning outcome in view",
+          "Chances to think and practise"
+        ],
+        "itemPhrases": [
+          "entertainment without learning",
+          "strong emotional moment",
+          "learning outcome in view",
+          "opportunities to think"
+        ],
+        "leftLabel": "Not enough",
+        "rightLabel": "Also needed",
+        "leftCount": 2
+      },
+      "why": "narrator contrasts entertainment and strong emotion with outcome and thinking"
+    },
+    {
+      "visual": {
+        "kind": "comparison",
+        "title": "The teacher considers",
+        "kicker": "Engagement and meaning",
+        "items": [
+          "Were learners interested?",
+          "What did they understand?",
+          "What could they demonstrate?",
+          "Did it move them toward the outcome?"
+        ],
+        "itemPhrases": [
+          "whether learners were interested",
+          "what they understood",
+          "what they could demonstrate",
+          "toward the intended outcome"
+        ],
+        "leftLabel": "Engagement",
+        "rightLabel": "Meaning",
+        "joiner": "+",
+        "leftCount": 1
+      },
+      "atPhrase": "The teacher therefore considers both",
+      "why": "two sides that work together: engagement + meaning"
+    }
+  ],
+  "Scene 011": [
+    {
+      "visual": {
+        "kind": "process",
+        "title": "Designing for ADLX",
+        "kicker": "Before, during and after",
+        "items": [
+          "Before: readiness",
+          "During: participation",
+          "After: active review"
+        ],
+        "itemPhrases": [
+          "Before it begins",
+          "During the activity",
+          "Afterward"
+        ]
+      },
+      "why": "narrator names three phases in order"
+    },
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "Also shaping the depth of the experience",
+        "kicker": "Other considerations",
+        "items": [
+          "Practice",
+          "Feedback",
+          "Sequence",
+          "Connection with reality"
+        ],
+        "itemPhrases": [
+          "Practice, feedback",
+          "feedback",
+          "sequence",
+          "connection with reality"
+        ],
+        "center": "Depth of experience"
+      },
+      "atPhrase": "Practice, feedback, sequence",
+      "why": "one hub with four influences around it"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Next: the FIRST Framework",
+        "kicker": "Principles for designing and facilitating ADLX"
+      },
+      "atPhrase": "These considerations prepare us",
+      "why": "pointer to the next topic"
+    }
+  ],
+  "Scene 012": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Return to the lesson you considered at the beginning",
+        "kicker": "Reflect"
+      },
+      "why": "opening instruction"
+    },
+    {
+      "visual": {
+        "kind": "process",
+        "title": "Ask four questions",
+        "kicker": "Reflection",
+        "items": [
+          "What were learners doing?",
+          "What were they thinking about?",
+          "How did they connect it?",
+          "What evidence showed meaning?"
+        ],
+        "itemPhrases": [
+          "What were learners doing",
+          "What were they thinking about",
+          "How did they connect the learning",
+          "What evidence showed meaning"
+        ]
+      },
+      "atPhrase": "Ask four questions",
+      "why": "narrator asks four questions in order"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "If a question is hard to answer",
+        "kicker": "Examine, do not add",
+        "items": [
+          "Adding activity automatically",
+          "Adjust purpose, question, practice or review"
+        ],
+        "itemPhrases": [
+          "add activity automatically",
+          "adjust the purpose"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      },
+      "atPhrase": "If one of these questions is difficult",
+      "why": "narrator says not X, but Y"
+    }
+  ],
+  "Scene 013": [
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "ADLX combines",
+        "kicker": "Summary",
+        "items": [
+          "Meaningful participation",
+          "Thoughtful connection",
+          "Complete conditions"
+        ],
+        "itemPhrases": [
+          "meaningful participation",
+          "thoughtful connection",
+          "complete conditions"
+        ],
+        "center": "ADLX"
+      },
+      "why": "one hub (ADLX) with three parts"
+    },
+    {
+      "visual": {
+        "kind": "comparison",
+        "title": "Active and deep learning",
+        "kicker": "Two qualities",
+        "items": [
+          "Doing and thinking",
+          "Seek meaning",
+          "Relate to experience",
+          "Examine knowledge"
+        ],
+        "itemPhrases": [
+          "doing and thinking",
+          "seek meaning",
+          "relate new ideas to experience",
+          "examine knowledge carefully"
+        ],
+        "leftLabel": "Active",
+        "rightLabel": "Deep",
+        "joiner": "+",
+        "leftCount": 1
+      },
+      "atPhrase": "Active learning involves learners",
+      "why": "two qualities that work together"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "One coherent learner experience directed toward learning and performance",
+        "kicker": "ADLX"
+      },
+      "atPhrase": "ADLX brings these qualities",
+      "why": "closing sentence"
+    },
+    {
+      "visual": {
+        "kind": "outro",
+        "title": "Next: learning outcomes and assessment",
+        "kicker": "Continue the ROOTS journey"
+      },
+      "atPhrase": "In the next lesson, we will focus",
+      "why": "closing pointer to next lesson"
+    }
+  ]
+}

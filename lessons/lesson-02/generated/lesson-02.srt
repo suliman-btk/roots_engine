@@ -1,0 +1,731 @@
+1
+00:00:00,101 --> 00:00:03,479
+السلام عليكم Welcome back to ROOTS In
+
+2
+00:00:03,359 --> 00:00:05,448
+the first lesson we asked how a
+
+3
+00:00:05,328 --> 00:00:08,049
+teacher knows that learning has truly happened
+
+4
+00:00:08,333 --> 00:00:10,978
+At NAMA Foundation we now look more
+
+5
+00:00:10,858 --> 00:00:13,226
+closely at the shift that makes this
+
+6
+00:00:13,106 --> 00:00:16,849
+question central the move from concentrating mainly
+
+7
+00:00:16,742 --> 00:00:20,012
+on content delivery toward learner-centred teaching
+
+8
+00:00:20,013 --> 00:00:21,762
+By the end of this lesson you
+
+9
+00:00:21,654 --> 00:00:23,504
+should be able to explain that shift
+
+10
+00:00:23,700 --> 00:00:26,130
+and identify the decisions a teacher makes
+
+11
+00:00:26,023 --> 00:00:29,678
+when learners their experience their participation and
+
+12
+00:00:29,558 --> 00:00:31,856
+their learning outcomes become the focus
+
+13
+00:00:31,856 --> 00:00:34,160
+Begin by thinking about where your attention
+
+14
+00:00:34,305 --> 00:00:36,288
+usually goes while you teach
+
+15
+00:00:36,376 --> 00:00:38,542
+When teaching is centred mainly on the
+
+16
+00:00:38,422 --> 00:00:41,825
+teacher or the content success can appear
+
+17
+00:00:41,705 --> 00:00:44,716
+to mean completing the explanation covering the
+
+18
+00:00:44,596 --> 00:00:46,951
+planned pages or reaching the end of
+
+19
+00:00:46,831 --> 00:00:49,994
+the presentation Those actions may be necessary
+
+20
+00:00:50,265 --> 00:00:51,964
+but they do not give the complete
+
+21
+00:00:51,844 --> 00:00:52,816
+picture
+
+22
+00:00:52,816 --> 00:00:55,158
+In ROOTS we also ask what happened
+
+23
+00:00:55,038 --> 00:00:57,065
+for the learner Did the learner connect
+
+24
+00:00:56,957 --> 00:01:00,019
+the idea with previous knowledge Did the
+
+25
+00:00:59,912 --> 00:01:05,108
+learner participate question practise explain or demonstrate
+
+26
+00:01:04,988 --> 00:01:06,023
+understanding
+
+27
+00:01:06,023 --> 00:01:08,390
+This change in attention helps us examine
+
+28
+00:01:08,271 --> 00:01:11,509
+teaching through learning rather than through delivery
+
+29
+00:01:11,389 --> 00:01:12,168
+alone
+
+30
+00:01:12,269 --> 00:01:15,634
+Learner-centred teaching means focusing on learners’ needs
+
+31
+00:01:15,741 --> 00:01:20,457
+ideas learning preferences participation and outcomes It
+
+32
+00:01:20,350 --> 00:01:23,046
+recognizes that learners do not enter an
+
+33
+00:01:22,938 --> 00:01:25,943
+experience as empty containers
+
+34
+00:01:25,943 --> 00:01:30,709
+They bring previous knowledge feelings abilities questions
+
+35
+00:01:30,867 --> 00:01:34,649
+and life experience At NAMA Foundation we
+
+36
+00:01:34,529 --> 00:01:37,098
+use ROOTS to help teachers notice these
+
+37
+00:01:36,991 --> 00:01:39,990
+differences and consider them when making teaching
+
+38
+00:01:39,870 --> 00:01:40,981
+decisions
+
+39
+00:01:40,981 --> 00:01:42,869
+The purpose is not to prepare a
+
+40
+00:01:42,749 --> 00:01:46,025
+completely different lesson for every person It
+
+41
+00:01:45,918 --> 00:01:48,651
+is to remain aware of individual learners
+
+42
+00:01:48,670 --> 00:01:52,136
+and respond deliberately whenever the learning situation
+
+43
+00:01:52,016 --> 00:01:53,040
+allows
+
+44
+00:01:53,141 --> 00:01:56,418
+The learner-centred shift changes the questions used
+
+45
+00:01:56,310 --> 00:01:57,447
+during planning
+
+46
+00:01:57,447 --> 00:01:59,549
+Instead of asking only What will I
+
+47
+00:01:59,442 --> 00:02:02,213
+teach we also ask What should learners
+
+48
+00:02:02,093 --> 00:02:05,320
+know do or be willing to demonstrate
+
+49
+00:02:05,603 --> 00:02:07,895
+We consider what they already know how
+
+50
+00:02:07,775 --> 00:02:10,268
+they may participate and what evidence will
+
+51
+00:02:10,148 --> 00:02:11,777
+reveal their progress
+
+52
+00:02:11,777 --> 00:02:14,447
+The content remains important but it now
+
+53
+00:02:14,428 --> 00:02:19,410
+serves the intended learning Activities questions explanations
+
+54
+00:02:19,466 --> 00:02:22,288
+practice and review are selected because they
+
+55
+00:02:22,181 --> 00:02:23,557
+support an outcome
+
+56
+00:02:23,558 --> 00:02:26,153
+This keeps the lesson directed toward what
+
+57
+00:02:26,045 --> 00:02:29,032
+learners will carry away not simply what
+
+58
+00:02:28,912 --> 00:02:30,408
+the teacher will cover
+
+59
+00:02:30,509 --> 00:02:34,126
+Participation is another important part of learner-centred
+
+60
+00:02:34,007 --> 00:02:37,485
+teaching The ROOTS knowledge material describes learners
+
+61
+00:02:37,504 --> 00:02:41,488
+solving problems answering questions developing questions of
+
+62
+00:02:41,368 --> 00:02:44,834
+their own discussing ideas and explaining their
+
+63
+00:02:44,714 --> 00:02:48,028
+thinking These actions make learning visible and
+
+64
+00:02:47,908 --> 00:02:49,770
+give learners an active place in the
+
+65
+00:02:49,650 --> 00:02:50,951
+experience
+
+66
+00:02:50,951 --> 00:02:54,265
+However participation is not measured only by
+
+67
+00:02:54,158 --> 00:02:56,696
+how much learners speak or move
+
+68
+00:02:56,696 --> 00:02:59,442
+A teacher considers whether the participation supports
+
+69
+00:02:59,322 --> 00:03:02,813
+the intended outcome involves meaningful thinking and
+
+70
+00:03:02,693 --> 00:03:06,008
+provides useful evidence about what learners understand
+
+71
+00:03:06,115 --> 00:03:08,116
+and what support they may still need
+
+72
+00:03:08,464 --> 00:03:11,488
+Learner-centred teaching does not remove the teacher
+
+73
+00:03:11,381 --> 00:03:13,534
+from the learning process It makes the
+
+74
+00:03:13,414 --> 00:03:16,583
+teacher’s role broader and more intentional
+
+75
+00:03:16,583 --> 00:03:19,481
+The teacher still brings subject knowledge prepares
+
+76
+00:03:19,361 --> 00:03:23,610
+content explains ideas and provides direction At
+
+77
+00:03:23,490 --> 00:03:25,769
+the same time the teacher designs the
+
+78
+00:03:25,649 --> 00:03:29,961
+experience listens to learners observes their responses
+
+79
+00:03:30,270 --> 00:03:33,925
+asks purposeful questions supports practice and guides
+
+80
+00:03:33,818 --> 00:03:34,777
+reflection
+
+81
+00:03:34,778 --> 00:03:36,969
+In ROOTS we see the teacher as
+
+82
+00:03:36,849 --> 00:03:39,759
+someone who creates conditions for learning and
+
+83
+00:03:39,652 --> 00:03:42,057
+then remains attentive to the evidence learners
+
+84
+00:03:41,937 --> 00:03:44,353
+provide throughout the experience
+
+85
+00:03:44,440 --> 00:03:48,411
+Observation helps a teacher turn learner-centred intentions
+
+86
+00:03:48,468 --> 00:03:52,969
+into decisions A learner’s answer question demonstration
+
+87
+00:03:53,279 --> 00:03:56,391
+written response or difficulty can show where
+
+88
+00:03:56,271 --> 00:03:58,052
+learning currently stands
+
+89
+00:03:58,052 --> 00:03:59,674
+The teacher can use that evidence to
+
+90
+00:03:59,554 --> 00:04:03,210
+decide whether to continue clarify ask another
+
+91
+00:04:03,102 --> 00:04:07,023
+question provide feedback or create another opportunity
+
+92
+00:04:06,903 --> 00:04:08,102
+for practice
+
+93
+00:04:08,102 --> 00:04:10,331
+This means the lesson is not treated
+
+94
+00:04:10,223 --> 00:04:12,692
+as a fixed performance delivered in exactly
+
+95
+00:04:12,572 --> 00:04:15,406
+the same way regardless of learner response
+
+96
+00:04:15,703 --> 00:04:17,528
+The teacher keeps the outcome in view
+
+97
+00:04:17,685 --> 00:04:20,558
+while using evidence to guide the next
+
+98
+00:04:20,451 --> 00:04:22,176
+appropriate teaching action
+
+99
+00:04:22,277 --> 00:04:24,304
+ROOTS also asks us to focus on
+
+100
+00:04:24,310 --> 00:04:26,690
+each learner rather than seeing only the
+
+101
+00:04:26,583 --> 00:04:28,451
+class as one group
+
+102
+00:04:28,451 --> 00:04:30,919
+The Focusing on Learner domain considers the
+
+103
+00:04:30,812 --> 00:04:34,657
+learner’s curve of learning previous knowledge feelings
+
+104
+00:04:34,688 --> 00:04:36,103
+and experience
+
+105
+00:04:36,103 --> 00:04:39,645
+Its principle of individualization encourages teachers to
+
+106
+00:04:39,525 --> 00:04:42,789
+make the experience distinct and personal whenever
+
+107
+00:04:42,669 --> 00:04:43,691
+possible
+
+108
+00:04:43,691 --> 00:04:47,561
+Individualization begins with awareness Who needs further
+
+109
+00:04:47,441 --> 00:04:49,707
+explanation Who is ready to extend an
+
+110
+00:04:49,587 --> 00:04:52,283
+idea Who has experience that can support
+
+111
+00:04:52,176 --> 00:04:54,720
+new learning These questions help a teacher
+
+112
+00:04:54,613 --> 00:04:58,079
+respond to differences without losing sight of
+
+113
+00:04:57,971 --> 00:04:59,592
+the shared learning outcome
+
+114
+00:04:59,693 --> 00:05:02,496
+Trusting the learner is equally important
+
+115
+00:05:02,496 --> 00:05:05,457
+The ROOTS material explains that adult learners
+
+116
+00:05:05,350 --> 00:05:08,462
+bring knowledge and life experience to new
+
+117
+00:05:08,355 --> 00:05:11,290
+learning They benefit from opportunities to use
+
+118
+00:05:11,170 --> 00:05:13,929
+that foundation and to move toward greater
+
+119
+00:05:13,809 --> 00:05:16,461
+responsibility and self-direction
+
+120
+00:05:16,461 --> 00:05:19,157
+Trust does not mean leaving learners without
+
+121
+00:05:19,049 --> 00:05:22,137
+guidance It means giving up some unnecessary
+
+122
+00:05:22,017 --> 00:05:25,179
+control and making room for learners’ experience
+
+123
+00:05:25,426 --> 00:05:28,633
+abilities questions and choices
+
+124
+00:05:28,632 --> 00:05:30,457
+A teacher can still set a clear
+
+125
+00:05:30,349 --> 00:05:33,676
+outcome and provide structure while recognizing that
+
+126
+00:05:33,556 --> 00:05:36,694
+learners are active participants who contribute to
+
+127
+00:05:36,574 --> 00:05:39,093
+the direction and meaning of their learning
+
+128
+00:05:39,472 --> 00:05:43,090
+Learner-centred teaching also pays attention to interaction
+
+129
+00:05:43,387 --> 00:05:46,209
+Learners influence one another and each group
+
+130
+00:05:46,101 --> 00:05:49,352
+develops its own experience through those interactions
+
+131
+00:05:49,637 --> 00:05:52,434
+ROOTS therefore considers the positive spirit of
+
+132
+00:05:52,314 --> 00:05:56,196
+the learning environment learner motivation attention and
+
+133
+00:05:56,076 --> 00:05:58,393
+the social dimension of learning The teacher’s
+
+134
+00:05:58,273 --> 00:06:01,689
+responsibility is not simply to place learners
+
+135
+00:06:01,569 --> 00:06:02,516
+together
+
+136
+00:06:02,515 --> 00:06:04,718
+It is to consider whether interaction helps
+
+137
+00:06:04,611 --> 00:06:09,100
+them participate exchange understanding remain focused and
+
+138
+00:06:08,992 --> 00:06:11,574
+move toward the outcome The quality and
+
+139
+00:06:11,454 --> 00:06:15,072
+purpose of interaction matter more than interaction
+
+140
+00:06:15,091 --> 00:06:17,184
+being present for its own sake
+
+141
+00:06:17,272 --> 00:06:19,413
+Let us bring these ideas together as
+
+142
+00:06:19,293 --> 00:06:23,036
+a sequence of teacher decisions First clarify
+
+143
+00:06:22,929 --> 00:06:25,599
+what learners should achieve Next consider what
+
+144
+00:06:25,479 --> 00:06:27,430
+they already bring and how they can
+
+145
+00:06:27,323 --> 00:06:31,546
+participate meaningfully During the experience observe their
+
+146
+00:06:31,426 --> 00:06:35,700
+behaviour and gather evidence through questions responses
+
+147
+00:06:35,833 --> 00:06:39,337
+practice and reflection Then use that evidence
+
+148
+00:06:39,406 --> 00:06:41,149
+to choose the next action
+
+149
+00:06:41,149 --> 00:06:43,580
+This sequence is not a separate method
+
+150
+00:06:43,573 --> 00:06:45,865
+added to teaching It is a learner-centred
+
+151
+00:06:45,745 --> 00:06:49,337
+way of planning facilitating and reviewing teaching
+
+152
+00:06:49,634 --> 00:06:51,787
+It keeps the teacher responsive while the
+
+153
+00:06:51,667 --> 00:06:54,408
+intended learning remains clear
+
+154
+00:06:54,509 --> 00:06:56,763
+Now apply the shift to one lesson
+
+155
+00:06:56,655 --> 00:06:59,414
+you know well Identify the learning outcome
+
+156
+00:06:59,408 --> 00:07:00,469
+first
+
+157
+00:07:00,469 --> 00:07:02,836
+Then ask three questions what did the
+
+158
+00:07:02,729 --> 00:07:05,829
+learners do what evidence did I notice
+
+159
+00:07:05,936 --> 00:07:07,912
+and what decision did I make because
+
+160
+00:07:07,792 --> 00:07:08,992
+of that evidence
+
+161
+00:07:08,991 --> 00:07:11,232
+If your reflection focuses mainly on what
+
+162
+00:07:11,112 --> 00:07:13,480
+you explained look again from the learners’
+
+163
+00:07:13,360 --> 00:07:18,682
+side Notice their questions practice connections demonstrations
+
+164
+00:07:18,764 --> 00:07:20,355
+and points of difficulty
+
+165
+00:07:20,355 --> 00:07:22,495
+This reflection is not about judging the
+
+166
+00:07:22,375 --> 00:07:25,462
+lesson as simply good or bad It
+
+167
+00:07:25,355 --> 00:07:28,493
+is about seeing where learner-centred decisions were
+
+168
+00:07:28,385 --> 00:07:30,728
+already present and where they could become
+
+169
+00:07:30,759 --> 00:07:32,016
+more deliberate
+
+170
+00:07:32,104 --> 00:07:36,151
+Learner-centred teaching shifts attention from delivery alone
+
+171
+00:07:36,208 --> 00:07:39,156
+to the complete learning experience It begins
+
+172
+00:07:39,036 --> 00:07:43,689
+with learners’ needs ideas prior experience participation
+
+173
+00:07:43,847 --> 00:07:47,300
+and intended outcomes The teacher remains essential
+
+174
+00:07:47,180 --> 00:07:51,240
+as a designer guide observer questioner and
+
+175
+00:07:51,132 --> 00:07:53,929
+facilitator who uses evidence to support the
+
+176
+00:07:53,809 --> 00:07:55,046
+next decision
+
+177
+00:07:55,046 --> 00:07:57,679
+In ROOTS this shift prepares the ground
+
+178
+00:07:57,559 --> 00:08:00,355
+for Active Deep Learner eXperience In the
+
+179
+00:08:00,235 --> 00:08:02,780
+next lesson we will examine what makes
+
+180
+00:08:02,672 --> 00:08:05,507
+learning active what makes it deep and
+
+181
+00:08:05,387 --> 00:08:08,045
+how these qualities come together in ADLX
+
+182
+00:08:07,925 --> 00:08:10,696
+without reducing learning to activity for its
+
+183
+00:08:10,589 --> 00:08:11,616
+own sake

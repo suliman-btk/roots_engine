@@ -258,6 +258,7 @@ def load_visual_plan(script_path: Path) -> dict[str, list[dict[str, Any]]]:
             checked.append({
                 "atPhrase": at_phrase,
                 "visual": validate_visual(beat.get("visual"), f"{section} beat {beat_index + 1}"),
+                "why": beat.get("why", ""),
             })
         if checked[0]["atPhrase"]:
             raise ValueError(f"The first visual beat for {section} must start at scene opening.")
@@ -418,13 +419,13 @@ async def synthesize_once(text: str, output_path: Path, voice: str) -> list[dict
 
 async def synthesize(text: str, output_path: Path, voice: str) -> list[dict[str, Any]]:
     last_error: Exception | None = None
-    for attempt in range(4):
+    for attempt in range(8):
         try:
             output_path.unlink(missing_ok=True)
             return await asyncio.wait_for(synthesize_once(text, output_path, voice), timeout=90)
         except Exception as exc:  # hosted TTS can throttle or time out transiently
             last_error = exc
-            await asyncio.sleep(2 * (attempt + 1))
+            await asyncio.sleep(3 * (attempt + 1))
     raise RuntimeError(f"TTS failed for {output_path.name}: {last_error}")
 
 

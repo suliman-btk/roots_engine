@@ -1,0 +1,457 @@
+[
+  {
+    "text": "The",
+    "start": 0.113625,
+    "end": 0.17675000000000002
+  },
+  {
+    "text": "teacher",
+    "start": 0.17675,
+    "end": 0.505041
+  },
+  {
+    "text": "supports",
+    "start": 0.505041,
+    "end": 0.9343319999999999
+  },
+  {
+    "text": "active",
+    "start": 1.048,
+    "end": 1.4015
+  },
+  {
+    "text": "learning",
+    "start": 1.4015,
+    "end": 1.780291
+  },
+  {
+    "text": "by",
+    "start": 2.007583,
+    "end": 2.234874
+  },
+  {
+    "text": "choosing",
+    "start": 2.487375,
+    "end": 2.9040410000000003
+  },
+  {
+    "text": "participation",
+    "start": 2.916666,
+    "end": 3.762624
+  },
+  {
+    "text": "that",
+    "start": 3.92675,
+    "end": 4.040375
+  },
+  {
+    "text": "serves",
+    "start": 4.040416,
+    "end": 4.3939569999999994
+  },
+  {
+    "text": "the",
+    "start": 4.393958,
+    "end": 4.494958
+  },
+  {
+    "text": "outcome",
+    "start": 4.494958,
+    "end": 4.974748999999999
+  },
+  {
+    "text": "If",
+    "start": 5.378791,
+    "end": 5.505040999999999
+  },
+  {
+    "text": "learners",
+    "start": 5.517666,
+    "end": 5.959582
+  },
+  {
+    "text": "need",
+    "start": 5.959583,
+    "end": 6.224749
+  },
+  {
+    "text": "to",
+    "start": 6.22475,
+    "end": 6.363625
+  },
+  {
+    "text": "explain",
+    "start": 6.37625,
+    "end": 6.969666
+  },
+  {
+    "text": "an",
+    "start": 6.969708,
+    "end": 7.058083
+  },
+  {
+    "text": "idea",
+    "start": 7.058083,
+    "end": 7.7020409999999995
+  },
+  {
+    "text": "the",
+    "start": 8.093416,
+    "end": 8.156540999999999
+  },
+  {
+    "text": "experience",
+    "start": 8.156583,
+    "end": 8.926791
+  },
+  {
+    "text": "should",
+    "start": 9.090916,
+    "end": 9.292916
+  },
+  {
+    "text": "provide",
+    "start": 9.292916,
+    "end": 9.684332
+  },
+  {
+    "text": "a",
+    "start": 9.684333,
+    "end": 9.722208
+  },
+  {
+    "text": "meaningful",
+    "start": 9.734833,
+    "end": 10.429291
+  },
+  {
+    "text": "opportunity",
+    "start": 10.429291,
+    "end": 11.224749
+  },
+  {
+    "text": "to",
+    "start": 11.3005,
+    "end": 11.452
+  },
+  {
+    "text": "explain",
+    "start": 11.464666,
+    "end": 12.007582
+  },
+  {
+    "text": "If",
+    "start": 12.411625,
+    "end": 12.512625000000002
+  },
+  {
+    "text": "they",
+    "start": 12.512625,
+    "end": 12.57575
+  },
+  {
+    "text": "need",
+    "start": 12.588375,
+    "end": 12.77775
+  },
+  {
+    "text": "to",
+    "start": 12.777791,
+    "end": 12.866166
+  },
+  {
+    "text": "demonstrate",
+    "start": 12.878791,
+    "end": 13.459582
+  },
+  {
+    "text": "a",
+    "start": 13.459583,
+    "end": 13.497458
+  },
+  {
+    "text": "skill",
+    "start": 13.497458,
+    "end": 14.015124
+  },
+  {
+    "text": "they",
+    "start": 14.482333,
+    "end": 14.608583000000001
+  },
+  {
+    "text": "need",
+    "start": 14.608583,
+    "end": 14.936874
+  },
+  {
+    "text": "practice",
+    "start": 14.9495,
+    "end": 15.542916
+  },
+  {
+    "text": "that",
+    "start": 15.542916,
+    "end": 15.681791
+  },
+  {
+    "text": "makes",
+    "start": 15.681833,
+    "end": 16.060624
+  },
+  {
+    "text": "the",
+    "start": 16.060625,
+    "end": 16.17425
+  },
+  {
+    "text": "skill",
+    "start": 16.186875,
+    "end": 16.590916
+  },
+  {
+    "text": "visible",
+    "start": 16.590916,
+    "end": 17.196957
+  },
+  {
+    "text": "If",
+    "start": 17.613625,
+    "end": 17.701999999999998
+  },
+  {
+    "text": "they",
+    "start": 17.702,
+    "end": 17.77775
+  },
+  {
+    "text": "need",
+    "start": 17.777791,
+    "end": 17.954541
+  },
+  {
+    "text": "to",
+    "start": 17.967166,
+    "end": 18.042915999999998
+  },
+  {
+    "text": "solve",
+    "start": 18.042916,
+    "end": 18.446957
+  },
+  {
+    "text": "a",
+    "start": 18.446958,
+    "end": 18.522707999999998
+  },
+  {
+    "text": "problem",
+    "start": 18.522708,
+    "end": 19.154041000000003
+  },
+  {
+    "text": "they",
+    "start": 19.532833,
+    "end": 19.646458
+  },
+  {
+    "text": "need",
+    "start": 19.646458,
+    "end": 19.861124
+  },
+  {
+    "text": "a",
+    "start": 19.861125,
+    "end": 19.92425
+  },
+  {
+    "text": "problem",
+    "start": 19.936875,
+    "end": 20.568208000000002
+  },
+  {
+    "text": "that",
+    "start": 20.707083,
+    "end": 20.845958
+  },
+  {
+    "text": "requires",
+    "start": 20.845958,
+    "end": 21.363623999999998
+  },
+  {
+    "text": "the",
+    "start": 21.37625,
+    "end": 21.439375
+  },
+  {
+    "text": "intended",
+    "start": 21.439375,
+    "end": 22.007541
+  },
+  {
+    "text": "thinking",
+    "start": 22.007583,
+    "end": 22.537874
+  },
+  {
+    "text": "The",
+    "start": 22.967166,
+    "end": 23.030291
+  },
+  {
+    "text": "teacher",
+    "start": 23.042916,
+    "end": 23.535332
+  },
+  {
+    "text": "also",
+    "start": 23.548,
+    "end": 23.964665999999998
+  },
+  {
+    "text": "observes",
+    "start": 23.977291,
+    "end": 24.545457000000003
+  },
+  {
+    "text": "what",
+    "start": 24.646458,
+    "end": 24.835832999999997
+  },
+  {
+    "text": "happens",
+    "start": 24.8485,
+    "end": 25.429291000000003
+  },
+  {
+    "text": "during",
+    "start": 25.429291,
+    "end": 25.669207
+  },
+  {
+    "text": "participation",
+    "start": 25.669208,
+    "end": 26.464666
+  },
+  {
+    "text": "Learner",
+    "start": 26.868666,
+    "end": 27.133832
+  },
+  {
+    "text": "responses",
+    "start": 27.133833,
+    "end": 27.714624
+  },
+  {
+    "text": "provide",
+    "start": 27.714666,
+    "end": 28.282832000000003
+  },
+  {
+    "text": "evidence",
+    "start": 28.333333,
+    "end": 28.762624
+  },
+  {
+    "text": "that",
+    "start": 28.762625,
+    "end": 28.87625
+  },
+  {
+    "text": "can",
+    "start": 28.87625,
+    "end": 29.002499999999998
+  },
+  {
+    "text": "guide",
+    "start": 29.015166,
+    "end": 29.381332
+  },
+  {
+    "text": "feedback",
+    "start": 29.381333,
+    "end": 30.101041000000002
+  },
+  {
+    "text": "clarification",
+    "start": 30.315666,
+    "end": 31.212124
+  },
+  {
+    "text": "further",
+    "start": 31.578291,
+    "end": 31.893957
+  },
+  {
+    "text": "questioning",
+    "start": 31.906583,
+    "end": 32.512624
+  },
+  {
+    "text": "or",
+    "start": 32.752541,
+    "end": 32.866166
+  },
+  {
+    "text": "another",
+    "start": 32.866166,
+    "end": 33.219707
+  },
+  {
+    "text": "opportunity",
+    "start": 33.232333,
+    "end": 33.838373999999995
+  },
+  {
+    "text": "to",
+    "start": 33.838375,
+    "end": 33.914125
+  },
+  {
+    "text": "practise",
+    "start": 33.92675,
+    "end": 34.621207999999996
+  },
+  {
+    "text": "Activity",
+    "start": 35.02525,
+    "end": 35.795457999999996
+  },
+  {
+    "text": "and",
+    "start": 35.858583,
+    "end": 36.035333
+  },
+  {
+    "text": "assessment",
+    "start": 36.035333,
+    "end": 36.792916
+  },
+  {
+    "text": "can",
+    "start": 37.020208,
+    "end": 37.171707999999995
+  },
+  {
+    "text": "therefore",
+    "start": 37.171708,
+    "end": 37.575749
+  },
+  {
+    "text": "support",
+    "start": 37.57575,
+    "end": 38.055541
+  },
+  {
+    "text": "one",
+    "start": 38.055541,
+    "end": 38.194416
+  },
+  {
+    "text": "another",
+    "start": 38.207083,
+    "end": 38.674248999999996
+  }
+]

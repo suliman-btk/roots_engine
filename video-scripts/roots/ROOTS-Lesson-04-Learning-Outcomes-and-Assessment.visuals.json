@@ -1,0 +1,753 @@
+{
+  "Scene 001": [
+    {
+      "visual": {
+        "kind": "title",
+        "title": "Learning Outcomes and Assessment",
+        "kicker": "Lesson 04"
+      },
+      "why": "opening title"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Outcomes give direction. Assessment gives evidence.",
+        "kicker": "The relationship"
+      },
+      "atPhrase": "At NAMA Foundation, we now connect",
+      "why": "narrator names one relationship to remember"
+    },
+    {
+      "visual": {
+        "kind": "checklist",
+        "title": "By the end of this lesson",
+        "kicker": "Lesson outcome",
+        "items": [
+          "Explain how an outcome guides content, activity and decisions",
+          "Identify assessment evidence that supports learning"
+        ],
+        "itemPhrases": [
+          "explain how an outcome guides",
+          "identify assessment evidence"
+        ]
+      },
+      "atPhrase": "By the end of this lesson",
+      "why": "two things the narrator says learners will do"
+    },
+    {
+      "visual": {
+        "kind": "question",
+        "title": "What should learners demonstrate that they could not before?",
+        "kicker": "Begin with one question"
+      },
+      "atPhrase": "Begin with one question",
+      "why": "narrator poses a reflection question"
+    }
+  ],
+  "Scene 002": [
+    {
+      "visual": {
+        "kind": "definition",
+        "title": "Learning outcomes",
+        "kicker": "Key term",
+        "items": [
+          "Significant and essential learning",
+          "Achieved by learners",
+          "Reliably demonstrated"
+        ],
+        "itemPhrases": [
+          "significant and essential learning",
+          "have achieved",
+          "can reliably demonstrate"
+        ],
+        "center": "Learning outcomes",
+        "joiner": "are statements of"
+      },
+      "why": "narrator defines a term"
+    },
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "An outcome identifies what the learner will",
+        "kicker": "Know, do, demonstrate",
+        "items": [
+          "Know",
+          "Be able to do",
+          "Be willing to demonstrate"
+        ],
+        "itemPhrases": [
+          "will know",
+          "be able to do",
+          "be willing to demonstrate"
+        ]
+      },
+      "atPhrase": "An outcome identifies what the learner will",
+      "why": "three separate kinds of result with no order"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "The result belongs with the learner",
+        "kicker": "Not simply a topic",
+        "items": [
+          "A topic heading",
+          "A list of what the teacher will explain",
+          "The change in knowledge, skill, attitude or performance"
+        ],
+        "itemPhrases": [
+          "topic heading",
+          "what the teacher intends to explain",
+          "the change in knowledge"
+        ],
+        "leftLabel": "Not simply",
+        "rightLabel": "But",
+        "leftCount": 2
+      },
+      "atPhrase": "This wording matters because",
+      "why": "narrator says not simply X, but the change in Y"
+    }
+  ],
+  "Scene 003": [
+    {
+      "visual": {
+        "kind": "comparison",
+        "title": "Two planning questions",
+        "kicker": "Delivery or learning",
+        "items": [
+          "What content will I cover?",
+          "What should learners demonstrate?"
+        ],
+        "itemPhrases": [
+          "What content will I cover",
+          "What should learners demonstrate"
+        ],
+        "leftLabel": "Directs toward delivery",
+        "rightLabel": "Directs toward learning",
+        "joiner": "VS",
+        "leftCount": 1
+      },
+      "why": "narrator sets two questions side by side"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Outcomes connect the learner-centred shift with practical planning",
+        "kicker": "In ROOTS"
+      },
+      "atPhrase": "In ROOTS, we use outcomes",
+      "why": "one sentence to remember"
+    },
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "Once the expected learning is clear",
+        "kicker": "Deliberate decisions about",
+        "items": [
+          "Content",
+          "Questions",
+          "Activity",
+          "Practice",
+          "Review",
+          "Evidence to observe"
+        ],
+        "itemPhrases": [
+          "about content",
+          "questions, activity",
+          "activity, practice",
+          "practice, review",
+          "review, and the evidence",
+          "evidence to observe"
+        ],
+        "center": "Clear outcome"
+      },
+      "atPhrase": "Once the expected learning is clear",
+      "why": "one hub (the outcome) with six decisions around it"
+    }
+  ],
+  "Scene 004": [
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Three domains of learning outcomes",
+        "kicker": "Knowledge, skill, attitude",
+        "items": [
+          "Knowledge: ideas, facts, models",
+          "Skill: an ability to perform",
+          "Attitude: inclination or willingness"
+        ],
+        "itemPhrases": [
+          "Knowledge includes",
+          "Skill concerns",
+          "Attitude concerns"
+        ]
+      },
+      "why": "three parallel domains, each defined"
+    },
+    {
+      "visual": {
+        "kind": "comparison",
+        "title": "Being capable is not choosing",
+        "kicker": "Skill and attitude",
+        "items": [
+          "Capable of an action",
+          "Chooses to carry it out"
+        ],
+        "itemPhrases": [
+          "being capable of an action",
+          "chooses to carry it out"
+        ],
+        "leftLabel": "Skill",
+        "rightLabel": "Attitude",
+        "joiner": "VS",
+        "leftCount": 1
+      },
+      "atPhrase": "being capable of an action",
+      "why": "narrator separates ability from willingness"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Evidence should match the kind of learning",
+        "kicker": "Knowledge, skill or attitude"
+      },
+      "atPhrase": "They also remind us that one form of evidence",
+      "why": "key rule"
+    }
+  ],
+  "Scene 005": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "A useful outcome makes expected learning visible",
+        "kicker": "Guide decisions"
+      },
+      "why": "opening claim"
+    },
+    {
+      "visual": {
+        "kind": "decision-tree",
+        "title": "What does the outcome concern?",
+        "kicker": "Match the evidence to the outcome",
+        "items": [
+          "Knowledge | Explain, distinguish, connect, apply",
+          "Skill | Perform or demonstrate",
+          "Attitude | Show the willingness, not knowledge alone"
+        ],
+        "itemPhrases": [
+          "concerns knowledge",
+          "concerns skill",
+          "concerns attitude"
+        ],
+        "center": "Outcome concerns…?"
+      },
+      "atPhrase": "If an outcome concerns knowledge",
+      "why": "narrator says if it concerns X, then Y"
+    },
+    {
+      "visual": {
+        "kind": "comparison",
+        "title": "The wording of an outcome helps",
+        "kicker": "Teachers and learners",
+        "items": [
+          "What evidence to seek",
+          "The direction of their effort"
+        ],
+        "itemPhrases": [
+          "what evidence to seek",
+          "the direction of their effort"
+        ],
+        "leftLabel": "Teachers",
+        "rightLabel": "Learners",
+        "joiner": "+",
+        "leftCount": 1
+      },
+      "atPhrase": "The wording of an outcome should help",
+      "why": "two audiences both helped by clear wording"
+    }
+  ],
+  "Scene 006": [
+    {
+      "visual": {
+        "kind": "process",
+        "title": "Align every part with the outcome",
+        "kicker": "Alignment",
+        "items": [
+          "Content",
+          "Activity",
+          "Practice",
+          "Assessment"
+        ],
+        "itemPhrases": [
+          "The content should",
+          "The activity should",
+          "Practice should prepare",
+          "Assessment should then"
+        ]
+      },
+      "why": "narrator names four parts in order"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "Alignment keeps every part moving the same way",
+        "kicker": "Gaps in alignment",
+        "items": [
+          "Skill expected, only recall",
+          "Engaging but unrelated activity",
+          "Every part moves in the same direction"
+        ],
+        "itemPhrases": [
+          "only recall information",
+          "unrelated to the outcome",
+          "Alignment keeps every part"
+        ],
+        "leftLabel": "Gaps",
+        "rightLabel": "Aim",
+        "leftCount": 2
+      },
+      "atPhrase": "If learners are expected to demonstrate a skill",
+      "why": "narrator names two gaps, then the aim"
+    }
+  ],
+  "Scene 007": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Assessment is not only for the end",
+        "kicker": "Part of the learning process"
+      },
+      "why": "opening claim"
+    },
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "Assessment is a dynamic, integral part of learning",
+        "kicker": "It supports",
+        "items": [
+          "Understanding",
+          "Improvement",
+          "Motivation",
+          "Accountability",
+          "Continuous development"
+        ],
+        "itemPhrases": [
+          "understanding",
+          "improvement",
+          "motivation",
+          "accountability",
+          "continuous development"
+        ],
+        "center": "Assessment"
+      },
+      "atPhrase": "The ROOTS Programme Manual describes it",
+      "why": "one hub (assessment) with five purposes"
+    },
+    {
+      "visual": {
+        "kind": "checklist",
+        "title": "During teaching, assessment shows",
+        "kicker": "What it helps us see",
+        "items": [
+          "What learners understand",
+          "What they can do",
+          "Where they need support"
+        ],
+        "itemPhrases": [
+          "what learners understand",
+          "what they can do",
+          "further support"
+        ]
+      },
+      "atPhrase": "During teaching, assessment helps us see",
+      "why": "three things the narrator lists"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "Part of learning, not an interruption",
+        "kicker": "Assessment in practice",
+        "items": [
+          "An interruption after learning",
+          "Part of learning"
+        ],
+        "itemPhrases": [
+          "an interruption",
+          "part of learning"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      },
+      "atPhrase": "In this sense, assessment becomes part",
+      "why": "narrator says part of X rather than Y"
+    }
+  ],
+  "Scene 008": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Assessment “for” learning",
+        "kicker": "Focusing on Learner"
+      },
+      "why": "the key distinction to remember"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "The purpose of assessment",
+        "kicker": "Not to classify learners",
+        "items": [
+          "Classify learners",
+          "Gather information that helps learning move forward"
+        ],
+        "itemPhrases": [
+          "classify learners",
+          "helps learning move forward"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      },
+      "atPhrase": "The purpose is not to classify learners",
+      "why": "narrator says not to classify, but to help learning move forward"
+    },
+    {
+      "visual": {
+        "kind": "decision-tree",
+        "title": "What does the response show?",
+        "kicker": "Use evidence to decide",
+        "items": [
+          "Misunderstanding | Clarify or practise more",
+          "A strong response | Continue or deepen the work"
+        ],
+        "itemPhrases": [
+          "shows misunderstanding",
+          "A strong response"
+        ],
+        "center": "What does it show?"
+      },
+      "atPhrase": "A response that shows misunderstanding",
+      "why": "narrator says if misunderstanding then X, if strong then Y"
+    },
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "Evidence stays connected to",
+        "kicker": "Assessment for learning",
+        "items": [
+          "Support",
+          "Feedback",
+          "Next teaching decision"
+        ],
+        "itemPhrases": [
+          "connected to support",
+          "feedback",
+          "next teaching decision"
+        ],
+        "center": "Evidence"
+      },
+      "atPhrase": "Assessment for learning keeps evidence connected",
+      "why": "one hub (evidence) with three connections"
+    }
+  ],
+  "Scene 009": [
+    {
+      "visual": {
+        "kind": "comparison",
+        "title": "Probing and assessing",
+        "kicker": "Together, they keep us attentive",
+        "items": [
+          "Creates opportunities to track learning",
+          "Uses responses to understand outcomes"
+        ],
+        "itemPhrases": [
+          "Probing is proactive",
+          "Assessing is reactive"
+        ],
+        "leftLabel": "Probing: proactive",
+        "rightLabel": "Assessing: reactive",
+        "joiner": "+",
+        "leftCount": 1
+      },
+      "why": "two ideas that work together"
+    },
+    {
+      "visual": {
+        "kind": "checklist",
+        "title": "Evidence in practice",
+        "kicker": "Two examples",
+        "items": [
+          "A purposeful question reveals understanding",
+          "Observation during practice reveals skill"
+        ],
+        "itemPhrases": [
+          "A purposeful question",
+          "Observation during practice"
+        ]
+      },
+      "atPhrase": "A purposeful question can reveal",
+      "why": "narrator gives two examples"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Use evidence deliberately, not only at the end",
+        "kicker": "The important point"
+      },
+      "atPhrase": "The important point is to use evidence",
+      "why": "closing rule"
+    }
+  ],
+  "Scene 010": [
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Evidence comes from different strategies",
+        "kicker": "Ways to gather evidence",
+        "items": [
+          "Types of questioning",
+          "One-to-one conversation",
+          "Assignments",
+          "Observation",
+          "Written reflection",
+          "Answers and demonstrations"
+        ],
+        "itemPhrases": [
+          "types of questioning",
+          "one-to-one conversation",
+          "assignments",
+          "observation during activities",
+          "written insight",
+          "demonstrations of skill"
+        ]
+      },
+      "why": "separate equal examples with no order"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Choose evidence that can reveal the intended learning",
+        "kicker": "No single strategy fits every outcome"
+      },
+      "atPhrase": "No single strategy is automatically suitable",
+      "why": "one rule"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "Evidence serves a decision",
+        "kicker": "Avoid routine assessment",
+        "items": [
+          "A routine task disconnected from decisions",
+          "Evidence for the decision the teacher needs to make"
+        ],
+        "itemPhrases": [
+          "routine task disconnected",
+          "decision the teacher needs to make"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      },
+      "atPhrase": "This prevents assessment from becoming",
+      "why": "narrator says not a routine task, but tied to a decision"
+    }
+  ],
+  "Scene 011": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Feedback follows naturally from evidence",
+        "kicker": "Show what works and what to improve"
+      },
+      "why": "opening claim"
+    },
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "The teacher may",
+        "kicker": "Four kinds of feedback",
+        "items": [
+          "Clarify an idea",
+          "Ask a further question",
+          "Name a specific strength",
+          "Point to the next step"
+        ],
+        "itemPhrases": [
+          "clarify an idea",
+          "ask a further question",
+          "identify a specific strength",
+          "direct attention to the next part"
+        ]
+      },
+      "atPhrase": "The teacher may clarify an idea",
+      "why": "four separate options"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "Feedback tied to the outcome",
+        "kicker": "What makes feedback useful",
+        "items": [
+          "General approval",
+          "Correction without guidance",
+          "Feedback connected to the outcome and evidence"
+        ],
+        "itemPhrases": [
+          "General approval",
+          "correction without guidance",
+          "connected to the outcome"
+        ],
+        "leftLabel": "Not enough",
+        "rightLabel": "Useful",
+        "leftCount": 2
+      },
+      "atPhrase": "Feedback is most useful when",
+      "why": "narrator contrasts weak feedback with feedback connected to evidence"
+    },
+    {
+      "visual": {
+        "kind": "cycle",
+        "title": "A continuing process",
+        "kicker": "Learning, practice, improvement",
+        "items": [
+          "Learning",
+          "Practice",
+          "Improvement"
+        ],
+        "itemPhrases": [
+          "continuing process of learning",
+          "practice",
+          "improvement"
+        ]
+      },
+      "atPhrase": "ROOTS keeps feedback within",
+      "why": "narrator describes a continuing loop"
+    }
+  ],
+  "Scene 012": [
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Select one learning outcome from a lesson you teach",
+        "kicker": "Your turn"
+      },
+      "why": "opening instruction"
+    },
+    {
+      "visual": {
+        "kind": "card-grid",
+        "title": "Is it mainly about…",
+        "kicker": "Knowledge, skill or attitude",
+        "items": [
+          "Knowledge",
+          "Skill",
+          "Attitude"
+        ],
+        "itemPhrases": [
+          "knowledge",
+          "skill",
+          "attitude"
+        ]
+      },
+      "atPhrase": "Identify whether it mainly concerns",
+      "why": "three parallel domains"
+    },
+    {
+      "visual": {
+        "kind": "question",
+        "title": "What would learners say, produce, choose, explain or demonstrate?",
+        "kicker": "Evidence of progress"
+      },
+      "atPhrase": "Then ask",
+      "why": "narrator poses a question"
+    },
+    {
+      "visual": {
+        "kind": "question",
+        "title": "Do content and activity prepare learners for the same result?",
+        "kicker": "Compare"
+      },
+      "atPhrase": "Compare that evidence with the content",
+      "why": "narrator poses a second question"
+    },
+    {
+      "visual": {
+        "kind": "before-after",
+        "title": "Collect the right evidence",
+        "kicker": "The purpose of the review",
+        "items": [
+          "More assessment",
+          "The right evidence, used for the next decision"
+        ],
+        "itemPhrases": [
+          "collect more assessment",
+          "collect the right evidence"
+        ],
+        "leftLabel": "Not",
+        "rightLabel": "But",
+        "leftCount": 1
+      },
+      "atPhrase": "The purpose is not to collect more",
+      "why": "narrator says not more assessment, but the right evidence"
+    }
+  ],
+  "Scene 013": [
+    {
+      "visual": {
+        "kind": "mind-map",
+        "title": "Learning outcomes guide",
+        "kicker": "Summary",
+        "items": [
+          "Content",
+          "Activity",
+          "Practice",
+          "Evidence"
+        ],
+        "itemPhrases": [
+          "selection of content",
+          "activity",
+          "practice",
+          "and evidence"
+        ],
+        "center": "Learning outcomes"
+      },
+      "why": "one hub (the outcome) with four things it guides"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Assessment shows what has been achieved and what support is needed next",
+        "kicker": "Assessment then helps"
+      },
+      "atPhrase": "Assessment then helps teachers",
+      "why": "closing sentence"
+    },
+    {
+      "visual": {
+        "kind": "statement",
+        "title": "Teach toward clear learning. Use evidence for learning and improvement.",
+        "kicker": "In ROOTS"
+      },
+      "atPhrase": "In ROOTS, outcomes and assessment remain connected",
+      "why": "closing principle"
+    },
+    {
+      "visual": {
+        "kind": "stat-tiles",
+        "title": "Next: the FIRST Framework",
+        "kicker": "In the next lesson",
+        "items": [
+          "5|Domains",
+          "15|Principles"
+        ],
+        "itemPhrases": [
+          "five domains",
+          "fifteen principles"
+        ]
+      },
+      "atPhrase": "In the next lesson, we will connect",
+      "why": "narrator states two real numbers"
+    }
+  ]
+}
