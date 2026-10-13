@@ -1,0 +1,2145 @@
+{
+  "version": 1,
+  "slug": "roots-lesson-01-welcome-to-roots",
+  "title": "ROOTS — Lesson 01: Welcome to ROOTS",
+  "lessonLabel": "ROOTS · Lesson 01",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "totalDurationSeconds": 460.872,
+  "narrationAudioSrc": "script-videos/roots-lesson-01-welcome-to-roots/roots-lesson-01-welcome-to-roots-narration.mp3",
+  "audioTracks": [
+    {
+      "id": "source-scene-001",
+      "startSeconds": 0.0,
+      "durationSeconds": 37.992,
+      "audioSrc": "script-videos/roots-lesson-01-welcome-to-roots/source-scene-001.mp3",
+      "narration": "السلام عليكم. Welcome to ROOTS, NAMA Foundation’s course for strengthening the learner experience through teacher practice. Let us begin with a question that matters in every classroom: how do you know that learning has truly happened? Finishing an explanation is not the same as seeing learning. Completing planned content does not automatically tell us what learners understood, practised, or can now apply. In ROOTS, we focus on what learners encounter, what they do, how they think, what evidence they show, and how learning can continue beyond one activity or lesson.",
+      "section": "Scene 001"
+    },
+    {
+      "id": "source-scene-002",
+      "startSeconds": 37.992,
+      "durationSeconds": 36.792,
+      "audioSrc": "script-videos/roots-lesson-01-welcome-to-roots/source-scene-002.mp3",
+      "narration": "Think for a moment about a lesson you taught recently. You may remember the content you explained, the questions you asked, and the activities you prepared. Now shift your attention to the learners. What were they doing? What ideas were they connecting? What responses showed understanding, confusion, readiness, or progress? At NAMA Foundation, this change of viewpoint is central to ROOTS. We move from concentrating mainly on what the teacher delivers to examining the complete experience through which learners participate, think, practise, reflect, and demonstrate learning.",
+      "section": "Scene 002"
+    },
+    {
+      "id": "source-scene-003",
+      "startSeconds": 74.784,
+      "durationSeconds": 35.64,
+      "audioSrc": "script-videos/roots-lesson-01-welcome-to-roots/source-scene-003.mp3",
+      "narration": "In ROOTS, we understand that a learner experience is broader than a presentation or an activity. It includes the setting, interactions, explanations, questions, practice, reflection, feedback, and follow-up through which learning takes place. It may happen in a classroom, outdoors, or in a digital environment. The important point is how the parts of the experience work together. We will help you examine those parts deliberately, so that decisions about content, participation, sequence, and review remain connected to what learners are expected to achieve.",
+      "section": "Scene 003"
+    },
+    {
+      "id": "source-scene-004",
+      "startSeconds": 110.424,
+      "durationSeconds": 39.0,
+      "audioSrc": "script-videos/roots-lesson-01-welcome-to-roots/source-scene-004.mp3",
+      "narration": "This brings us to the learner-centred shift that guides ROOTS. Learner-centred teaching considers learners’ needs, differences, ideas, experiences, participation, and expected outcomes. It does not mean that the teacher becomes unimportant or leaves learners without direction. We see the teacher’s role as more purposeful. The teacher prepares and explains, but also observes, asks, listens, guides, provides opportunities for practice, and uses evidence to decide what should happen next. We therefore examine effective teaching through both the teacher’s decisions and the learner’s responses.",
+      "section": "Scene 004"
+    },
+    {
+      "id": "source-scene-005",
+      "startSeconds": 149.424,
+      "durationSeconds": 37.488,
+      "audioSrc": "script-videos/roots-lesson-01-welcome-to-roots/source-scene-005.mp3",
+      "narration": "In ROOTS, we place Active Deep Learner eXperience at the centre. We use the abbreviation ADLX. Active learning means that learners are involved in doing things and thinking about what they are doing. Deep learning means that they seek meaning, connect new ideas with previous knowledge or experience, and examine learning carefully. We bring these qualities together within the whole learner experience. Our purpose is not to keep learners busy. It is to support an enjoyable and impactful experience in which participation, thought, meaning, and practice strengthen learning.",
+      "section": "Scene 005"
+    },
+    {
+      "id": "source-scene-006",
+      "startSeconds": 186.912,
+      "durationSeconds": 35.928,
+      "audioSrc": "script-videos/roots-lesson-01-welcome-to-roots/source-scene-006.mp3",
+      "narration": "Notice the difference between activity and purposeful activity. A learner may be moving, speaking, or completing a task, but we still need to ask: what thinking does this activity require, and how does it support the intended learning? Through ROOTS, we connect active involvement with deeper meaning. Learners need opportunities to engage, connect ideas, review experience, and recognize what they have learned. This is why we do not present ADLX as one technique. We use it to consider the quality and coherence of the complete experience from the learner’s point of view.",
+      "section": "Scene 006"
+    },
+    {
+      "id": "source-scene-007",
+      "startSeconds": 222.84,
+      "durationSeconds": 39.384,
+      "audioSrc": "script-videos/roots-lesson-01-welcome-to-roots/source-scene-007.mp3",
+      "narration": "To support ADLX within ROOTS, we use the FIRST Framework. FIRST contains five connected domains and fifteen principles, with three principles in each domain. F focuses on learner behaviour. I focuses on interaction within positive group dynamics. R focuses on reviewing activities through readiness, activity, and active review. S focuses on sequencing learning. T focuses on transforming learning into performance. We do not treat these domains as separate classroom tricks. We connect them as layers that guide how a learning experience is designed and facilitated.",
+      "section": "Scene 007"
+    },
+    {
+      "id": "source-scene-008",
+      "startSeconds": 262.224,
+      "durationSeconds": 38.976,
+      "audioSrc": "script-videos/roots-lesson-01-welcome-to-roots/source-scene-008.mp3",
+      "narration": "Here is how we use the framework in ROOTS. We begin by understanding learners and the evidence in their behaviour. We consider the conditions that shape interaction, motivation, and attention. We prepare learners, involve them in purposeful activity, and help them review the experience actively. We organize ideas and activities into a coherent sequence. Finally, we connect learning with reality, practice, continuity, and performance. As we study each principle together, keep the whole picture in mind: FIRST supports the complete Active Deep Learner eXperience we seek to develop.",
+      "section": "Scene 008"
+    },
+    {
+      "id": "source-scene-009",
+      "startSeconds": 301.2,
+      "durationSeconds": 38.232,
+      "audioSrc": "script-videos/roots-lesson-01-welcome-to-roots/source-scene-009.mp3",
+      "narration": "Learning outcomes keep our work in ROOTS focused. An outcome describes significant learning that learners can reliably demonstrate. It directs attention to what learners should know, be able to do, or be willing to demonstrate—not simply to what the teacher intends to cover. Assessment then provides evidence of what has been achieved and what may require further support. We connect content, teacher decisions, learner activity, and evaluation with the intended outcomes. This alignment helps us judge learning through evidence instead of relying only on impressions or completed content.",
+      "section": "Scene 009"
+    },
+    {
+      "id": "source-scene-010",
+      "startSeconds": 339.432,
+      "durationSeconds": 43.008,
+      "audioSrc": "script-videos/roots-lesson-01-welcome-to-roots/source-scene-010.mp3",
+      "narration": "We also connect ROOTS directly with four areas of teacher practice. Learner eXperience Design, or LXD, concerns designing or redesigning learning through outcomes, ADLX, and FIRST. Learner eXperience Facilitation, or LXF, concerns guiding that experience in practice. Learner eXperience Coaching, or LXC, and Mentoring and Coaching, or MnC, support listening, questioning, feedback, feedforward, reflection, and improvement. Within ROOTS, we address LXC and MnC at teacher application level. We do not present them as professional coaching certification.",
+      "section": "Scene 010"
+    },
+    {
+      "id": "source-scene-011",
+      "startSeconds": 382.44,
+      "durationSeconds": 38.28,
+      "audioSrc": "script-videos/roots-lesson-01-welcome-to-roots/source-scene-011.mp3",
+      "narration": "In ROOTS, we connect your progress with evidence and the course outcomes. Understanding will be checked through questions, situations, and reflection. Application will be shown by examining learning, designing or redesigning an experience, planning facilitation, considering a teacher-level coaching case, and reviewing evidence from practice. We do not treat evaluation as a collection of disconnected tasks. Each piece of evidence should relate to content we have already taught and to an outcome you are expected to achieve. In this way, evaluation remains a meaningful part of the learning journey.",
+      "section": "Scene 011"
+    },
+    {
+      "id": "source-scene-012",
+      "startSeconds": 420.72,
+      "durationSeconds": 40.152,
+      "audioSrc": "script-videos/roots-lesson-01-welcome-to-roots/source-scene-012.mp3",
+      "narration": "Let us close by returning to our opening question: how do you know that learning has truly happened? In ROOTS, we answer through the learner’s experience and through evidence. ADLX describes an active and deep experience in which learners participate, think, connect, practise, and make meaning. FIRST provides five connected domains and fifteen principles that help us design and facilitate that experience. Before the next lesson, choose one lesson you know well and ask: what were my learners expected to experience, do, and demonstrate? Together, we will next explore learner-centred teaching and the teacher’s role.",
+      "section": "Scene 012"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene-001-beat-01",
+      "sourceSceneId": "source-scene-001",
+      "startSeconds": 0.0,
+      "durationSeconds": 9.129,
+      "audioSrc": null,
+      "narration": "السلام عليكم Welcome to ROOTS NAMA Foundation’s course for strengthening the learner experience through teacher practice",
+      "section": "Scene 001",
+      "background": "light",
+      "visual": {
+        "kind": "title",
+        "title": "Welcome to ROOTS",
+        "kicker": "Lesson 01"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.114,
+          "endSeconds": 4.994,
+          "text": "السلام عليكم Welcome to ROOTS NAMA Foundation’s"
+        },
+        {
+          "startSeconds": 4.886,
+          "endSeconds": 7.809,
+          "text": "course for strengthening the learner experience through"
+        },
+        {
+          "startSeconds": 7.689,
+          "endSeconds": 9.129,
+          "text": "teacher practice"
+        }
+      ]
+    },
+    {
+      "id": "scene-001-beat-02",
+      "sourceSceneId": "source-scene-001",
+      "startSeconds": 9.129,
+      "durationSeconds": 6.768,
+      "audioSrc": null,
+      "narration": "Let us begin with a question that matters in every classroom how do you know that learning has truly happened",
+      "section": "Scene 001",
+      "background": "light",
+      "visual": {
+        "kind": "question",
+        "title": "How do you know that learning has truly happened?",
+        "kicker": "Begin with evidence"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 1.559,
+          "text": "Let us begin with a question that"
+        },
+        {
+          "startSeconds": 1.439,
+          "endSeconds": 4.375,
+          "text": "matters in every classroom how do you"
+        },
+        {
+          "startSeconds": 4.255,
+          "endSeconds": 6.768,
+          "text": "know that learning has truly happened"
+        }
+      ]
+    },
+    {
+      "id": "scene-001-beat-03",
+      "sourceSceneId": "source-scene-001",
+      "startSeconds": 15.896,
+      "durationSeconds": 11.174,
+      "audioSrc": null,
+      "narration": "Finishing an explanation is not the same as seeing learning Completing planned content does not automatically tell us what learners understood practised or can now apply",
+      "section": "Scene 001",
+      "background": "light",
+      "visual": {
+        "kind": "comparison",
+        "title": "Completion is not evidence of learning",
+        "kicker": "A crucial distinction",
+        "items": [
+          "Explanation finished",
+          "Content completed",
+          "Understanding visible",
+          "Application demonstrated"
+        ],
+        "itemStartSeconds": [
+          0.0,
+          4.154,
+          7.172,
+          9.949
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.582,
+          "text": "Finishing an explanation is not the same"
+        },
+        {
+          "startSeconds": 2.765,
+          "endSeconds": 5.878,
+          "text": "as seeing learning Completing planned content does"
+        },
+        {
+          "startSeconds": 5.758,
+          "endSeconds": 8.504,
+          "text": "not automatically tell us what learners understood"
+        },
+        {
+          "startSeconds": 8.674,
+          "endSeconds": 11.174,
+          "text": "practised or can now apply"
+        }
+      ]
+    },
+    {
+      "id": "scene-001-beat-04",
+      "sourceSceneId": "source-scene-001",
+      "startSeconds": 27.071,
+      "durationSeconds": 10.921,
+      "audioSrc": null,
+      "narration": "In ROOTS we focus on what learners encounter what they do how they think what evidence they show and how learning can continue beyond one activity or lesson",
+      "section": "Scene 001",
+      "background": "light",
+      "visual": {
+        "kind": "cycle",
+        "title": "Follow the complete learner experience",
+        "kicker": "ROOTS focus",
+        "items": [
+          "Encounter",
+          "Do",
+          "Think",
+          "Show evidence",
+          "Continue"
+        ],
+        "itemStartSeconds": [
+          1.553,
+          3.043,
+          4.268,
+          5.404,
+          7.121
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.33,
+          "text": "In ROOTS we focus on what learners"
+        },
+        {
+          "startSeconds": 2.21,
+          "endSeconds": 5.271,
+          "text": "encounter what they do how they think"
+        },
+        {
+          "startSeconds": 5.404,
+          "endSeconds": 7.936,
+          "text": "what evidence they show and how learning"
+        },
+        {
+          "startSeconds": 7.828,
+          "endSeconds": 10.65,
+          "text": "can continue beyond one activity or lesson"
+        }
+      ]
+    },
+    {
+      "id": "scene-002-beat-01",
+      "sourceSceneId": "source-scene-002",
+      "startSeconds": 37.992,
+      "durationSeconds": 8.7,
+      "audioSrc": null,
+      "narration": "Think for a moment about a lesson you taught recently You may remember the content you explained the questions you asked and the activities you prepared",
+      "section": "Scene 002",
+      "background": "light",
+      "visual": {
+        "kind": "card-grid",
+        "title": "Recall a recent lesson",
+        "kicker": "Teacher reflection",
+        "items": [
+          "Content explained",
+          "Questions asked",
+          "Activities prepared"
+        ],
+        "itemStartSeconds": [
+          3.611,
+          5.164,
+          6.907
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.126,
+          "endSeconds": 1.736,
+          "text": "Think for a moment about a lesson"
+        },
+        {
+          "startSeconds": 1.616,
+          "endSeconds": 3.807,
+          "text": "you taught recently You may remember the"
+        },
+        {
+          "startSeconds": 3.7,
+          "endSeconds": 6.484,
+          "text": "content you explained the questions you asked"
+        },
+        {
+          "startSeconds": 6.843,
+          "endSeconds": 8.7,
+          "text": "and the activities you prepared"
+        }
+      ]
+    },
+    {
+      "id": "scene-002-beat-02",
+      "sourceSceneId": "source-scene-002",
+      "startSeconds": 46.691,
+      "durationSeconds": 11.427,
+      "audioSrc": null,
+      "narration": "Now shift your attention to the learners What were they doing What ideas were they connecting What responses showed understanding confusion readiness or progress",
+      "section": "Scene 002",
+      "background": "light",
+      "visual": {
+        "kind": "question",
+        "title": "What did the learners do, connect, and reveal?",
+        "kicker": "Shift the viewpoint"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.582,
+          "text": "Now shift your attention to the learners"
+        },
+        {
+          "startSeconds": 2.866,
+          "endSeconds": 4.931,
+          "text": "What were they doing What ideas were"
+        },
+        {
+          "startSeconds": 4.811,
+          "endSeconds": 9.148,
+          "text": "they connecting What responses showed understanding confusion"
+        },
+        {
+          "startSeconds": 9.419,
+          "endSeconds": 11.427,
+          "text": "readiness or progress"
+        }
+      ]
+    },
+    {
+      "id": "scene-002-beat-03",
+      "sourceSceneId": "source-scene-002",
+      "startSeconds": 58.118,
+      "durationSeconds": 16.666,
+      "audioSrc": null,
+      "narration": "At NAMA Foundation this change of viewpoint is central to ROOTS We move from concentrating mainly on what the teacher delivers to examining the complete experience through which learners participate think practise reflect and demonstrate learning",
+      "section": "Scene 002",
+      "background": "light",
+      "visual": {
+        "kind": "comparison",
+        "title": "Move from delivery to the learner experience",
+        "kicker": "The ROOTS viewpoint",
+        "items": [
+          "Teacher delivery",
+          "Content coverage",
+          "Learner participation",
+          "Thinking and evidence"
+        ],
+        "itemStartSeconds": [
+          7.222,
+          7.222,
+          9.407,
+          11.275
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.037,
+          "text": "At NAMA Foundation this change of viewpoint"
+        },
+        {
+          "startSeconds": 3.131,
+          "endSeconds": 5.6,
+          "text": "is central to ROOTS We move from"
+        },
+        {
+          "startSeconds": 5.492,
+          "endSeconds": 8.39,
+          "text": "concentrating mainly on what the teacher delivers"
+        },
+        {
+          "startSeconds": 8.51,
+          "endSeconds": 11.383,
+          "text": "to examining the complete experience through which"
+        },
+        {
+          "startSeconds": 11.275,
+          "endSeconds": 16.092,
+          "text": "learners participate think practise reflect and demonstrate"
+        },
+        {
+          "startSeconds": 15.972,
+          "endSeconds": 16.666,
+          "text": "learning"
+        }
+      ]
+    },
+    {
+      "id": "scene-003-beat-01",
+      "sourceSceneId": "source-scene-003",
+      "startSeconds": 74.784,
+      "durationSeconds": 6.389,
+      "audioSrc": null,
+      "narration": "In ROOTS we understand that a learner experience is broader than a presentation or an activity",
+      "section": "Scene 003",
+      "background": "dark",
+      "visual": {
+        "kind": "statement",
+        "title": "A learner experience is broader than a presentation or activity",
+        "kicker": "The whole experience"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.101,
+          "endSeconds": 2.506,
+          "text": "In ROOTS we understand that a learner"
+        },
+        {
+          "startSeconds": 2.399,
+          "endSeconds": 5.398,
+          "text": "experience is broader than a presentation or"
+        },
+        {
+          "startSeconds": 5.278,
+          "endSeconds": 6.389,
+          "text": "an activity"
+        }
+      ]
+    },
+    {
+      "id": "scene-003-beat-02",
+      "sourceSceneId": "source-scene-003",
+      "startSeconds": 81.173,
+      "durationSeconds": 9.962,
+      "audioSrc": null,
+      "narration": "It includes the setting interactions explanations questions practice reflection feedback and follow-up through which learning takes place",
+      "section": "Scene 003",
+      "background": "dark",
+      "visual": {
+        "kind": "card-grid",
+        "title": "Learning is shaped by connected elements",
+        "kicker": "Experience components",
+        "items": [
+          "Setting",
+          "Interactions",
+          "Explanations",
+          "Questions",
+          "Practice",
+          "Reflection and feedback"
+        ],
+        "itemStartSeconds": [
+          0.0,
+          0.631,
+          1.452,
+          2.715,
+          3.599,
+          5.391
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 4.463,
+          "text": "It includes the setting interactions explanations questions"
+        },
+        {
+          "startSeconds": 4.558,
+          "endSeconds": 8.542,
+          "text": "practice reflection feedback and follow-up through which"
+        },
+        {
+          "startSeconds": 8.422,
+          "endSeconds": 9.962,
+          "text": "learning takes place"
+        }
+      ]
+    },
+    {
+      "id": "scene-003-beat-03",
+      "sourceSceneId": "source-scene-003",
+      "startSeconds": 91.135,
+      "durationSeconds": 4.697,
+      "audioSrc": null,
+      "narration": "It may happen in a classroom outdoors or in a digital environment",
+      "section": "Scene 003",
+      "background": "dark",
+      "visual": {
+        "kind": "timeline",
+        "title": "Learning can happen in many environments",
+        "kicker": "Context changes",
+        "items": [
+          "Classroom",
+          "Outdoors",
+          "Digital environment"
+        ],
+        "itemStartSeconds": [
+          0.631,
+          0.745,
+          3.359
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.936,
+          "text": "It may happen in a classroom outdoors"
+        },
+        {
+          "startSeconds": 3.043,
+          "endSeconds": 4.697,
+          "text": "or in a digital environment"
+        }
+      ]
+    },
+    {
+      "id": "scene-003-beat-04",
+      "sourceSceneId": "source-scene-003",
+      "startSeconds": 95.832,
+      "durationSeconds": 14.592,
+      "audioSrc": null,
+      "narration": "The important point is how the parts of the experience work together We will help you examine those parts deliberately so that decisions about content participation sequence and review remain connected to what learners are expected to achieve",
+      "section": "Scene 003",
+      "background": "dark",
+      "visual": {
+        "kind": "process",
+        "title": "Keep every decision connected to achievement",
+        "kicker": "Deliberate design",
+        "items": [
+          "Content",
+          "Participation",
+          "Sequence",
+          "Review",
+          "Achievement"
+        ],
+        "itemStartSeconds": [
+          7.033,
+          7.841,
+          8.674,
+          9.672,
+          12.525
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.216,
+          "text": "The important point is how the parts"
+        },
+        {
+          "startSeconds": 2.109,
+          "endSeconds": 4.35,
+          "text": "of the experience work together We will"
+        },
+        {
+          "startSeconds": 4.23,
+          "endSeconds": 7.001,
+          "text": "help you examine those parts deliberately so"
+        },
+        {
+          "startSeconds": 6.881,
+          "endSeconds": 10.878,
+          "text": "that decisions about content participation sequence and"
+        },
+        {
+          "startSeconds": 10.758,
+          "endSeconds": 13.125,
+          "text": "review remain connected to what learners are"
+        },
+        {
+          "startSeconds": 13.005,
+          "endSeconds": 14.592,
+          "text": "expected to achieve"
+        }
+      ]
+    },
+    {
+      "id": "scene-004-beat-01",
+      "sourceSceneId": "source-scene-004",
+      "startSeconds": 110.424,
+      "durationSeconds": 4.192,
+      "audioSrc": null,
+      "narration": "This brings us to the learner-centred shift that guides ROOTS",
+      "section": "Scene 004",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "The learner-centred shift guides ROOTS",
+        "kicker": "A purposeful change"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.101,
+          "endSeconds": 2.494,
+          "text": "This brings us to the learner-centred shift"
+        },
+        {
+          "startSeconds": 2.563,
+          "endSeconds": 4.192,
+          "text": "that guides ROOTS"
+        }
+      ]
+    },
+    {
+      "id": "scene-004-beat-02",
+      "sourceSceneId": "source-scene-004",
+      "startSeconds": 114.616,
+      "durationSeconds": 9.242,
+      "audioSrc": null,
+      "narration": "Learner-centred teaching considers learners’ needs differences ideas experiences participation and expected outcomes",
+      "section": "Scene 004",
+      "background": "light",
+      "visual": {
+        "kind": "card-grid",
+        "title": "See the learner as a whole",
+        "kicker": "Learner-centred teaching",
+        "items": [
+          "Needs",
+          "Differences",
+          "Ideas",
+          "Experiences",
+          "Participation",
+          "Expected outcomes"
+        ],
+        "itemStartSeconds": [
+          2.121,
+          3.005,
+          4.04,
+          5.076,
+          6.237,
+          7.614
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 5.006,
+          "text": "Learner-centred teaching considers learners’ needs differences ideas"
+        },
+        {
+          "startSeconds": 5.076,
+          "endSeconds": 9.242,
+          "text": "experiences participation and expected outcomes"
+        }
+      ]
+    },
+    {
+      "id": "scene-004-beat-03",
+      "sourceSceneId": "source-scene-004",
+      "startSeconds": 123.858,
+      "durationSeconds": 8.359,
+      "audioSrc": null,
+      "narration": "It does not mean that the teacher becomes unimportant or leaves learners without direction We see the teacher’s role as more purposeful",
+      "section": "Scene 004",
+      "background": "light",
+      "visual": {
+        "kind": "comparison",
+        "title": "Learner-centred does not remove teacher direction",
+        "kicker": "Clarify the shift",
+        "items": [
+          "Teacher absent",
+          "Learners without direction",
+          "Teacher purposeful",
+          "Learners supported"
+        ],
+        "itemStartSeconds": [
+          0.884,
+          3.333,
+          5.732,
+          5.732
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 1.395,
+          "text": "It does not mean that the teacher"
+        },
+        {
+          "startSeconds": 1.275,
+          "endSeconds": 5.069,
+          "text": "becomes unimportant or leaves learners without direction"
+        },
+        {
+          "startSeconds": 5.354,
+          "endSeconds": 7.393,
+          "text": "We see the teacher’s role as more"
+        },
+        {
+          "startSeconds": 7.273,
+          "endSeconds": 8.359,
+          "text": "purposeful"
+        }
+      ]
+    },
+    {
+      "id": "scene-004-beat-04",
+      "sourceSceneId": "source-scene-004",
+      "startSeconds": 132.217,
+      "durationSeconds": 17.207,
+      "audioSrc": null,
+      "narration": "The teacher prepares and explains but also observes asks listens guides provides opportunities for practice and uses evidence to decide what should happen next We therefore examine effective teaching through both the teacher’s decisions and the learner’s responses",
+      "section": "Scene 004",
+      "background": "light",
+      "visual": {
+        "kind": "process",
+        "title": "Purposeful teaching responds to evidence",
+        "kicker": "Teacher actions",
+        "items": [
+          "Prepare and explain",
+          "Observe",
+          "Ask and listen",
+          "Guide practice",
+          "Use evidence"
+        ],
+        "itemStartSeconds": [
+          0.063,
+          2.134,
+          3.712,
+          6.023,
+          8.232
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.784,
+          "text": "The teacher prepares and explains but also"
+        },
+        {
+          "startSeconds": 2.664,
+          "endSeconds": 7.292,
+          "text": "observes asks listens guides provides opportunities for"
+        },
+        {
+          "startSeconds": 7.184,
+          "endSeconds": 9.943,
+          "text": "practice and uses evidence to decide what"
+        },
+        {
+          "startSeconds": 9.836,
+          "endSeconds": 12.759,
+          "text": "should happen next We therefore examine effective"
+        },
+        {
+          "startSeconds": 12.639,
+          "endSeconds": 15.751,
+          "text": "teaching through both the teacher’s decisions and"
+        },
+        {
+          "startSeconds": 15.631,
+          "endSeconds": 17.207,
+          "text": "the learner’s responses"
+        }
+      ]
+    },
+    {
+      "id": "scene-005-beat-01",
+      "sourceSceneId": "source-scene-005",
+      "startSeconds": 149.424,
+      "durationSeconds": 7.74,
+      "audioSrc": null,
+      "narration": "In ROOTS we place Active Deep Learner eXperience at the centre We use the abbreviation ADLX",
+      "section": "Scene 005",
+      "background": "dark",
+      "visual": {
+        "kind": "title",
+        "title": "Active Deep Learner eXperience",
+        "kicker": "ADLX at the centre"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.088,
+          "endSeconds": 2.999,
+          "text": "In ROOTS we place Active Deep Learner"
+        },
+        {
+          "startSeconds": 2.879,
+          "endSeconds": 5.474,
+          "text": "eXperience at the centre We use the"
+        },
+        {
+          "startSeconds": 5.354,
+          "endSeconds": 7.74,
+          "text": "abbreviation ADLX"
+        }
+      ]
+    },
+    {
+      "id": "scene-005-beat-02",
+      "sourceSceneId": "source-scene-005",
+      "startSeconds": 157.164,
+      "durationSeconds": 13.914,
+      "audioSrc": null,
+      "narration": "Active learning means that learners are involved in doing things and thinking about what they are doing Deep learning means that they seek meaning connect new ideas with previous knowledge or experience and examine learning carefully",
+      "section": "Scene 005",
+      "background": "dark",
+      "visual": {
+        "kind": "comparison",
+        "title": "Active and deep learning work together",
+        "kicker": "Two reinforcing qualities",
+        "items": [
+          "Doing",
+          "Thinking about doing",
+          "Seeking meaning",
+          "Connecting ideas"
+        ],
+        "itemStartSeconds": [
+          2.134,
+          3.977,
+          5.896,
+          8.283
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.746,
+          "text": "Active learning means that learners are involved"
+        },
+        {
+          "startSeconds": 2.626,
+          "endSeconds": 4.981,
+          "text": "in doing things and thinking about what"
+        },
+        {
+          "startSeconds": 4.874,
+          "endSeconds": 7.128,
+          "text": "they are doing Deep learning means that"
+        },
+        {
+          "startSeconds": 7.008,
+          "endSeconds": 9.842,
+          "text": "they seek meaning connect new ideas with"
+        },
+        {
+          "startSeconds": 9.735,
+          "endSeconds": 13.037,
+          "text": "previous knowledge or experience and examine learning"
+        },
+        {
+          "startSeconds": 12.929,
+          "endSeconds": 13.914,
+          "text": "carefully"
+        }
+      ]
+    },
+    {
+      "id": "scene-005-beat-03",
+      "sourceSceneId": "source-scene-005",
+      "startSeconds": 171.078,
+      "durationSeconds": 4.205,
+      "audioSrc": null,
+      "narration": "We bring these qualities together within the whole learner experience",
+      "section": "Scene 005",
+      "background": "dark",
+      "visual": {
+        "kind": "cycle",
+        "title": "Active and deep qualities form one experience",
+        "kicker": "The complete experience",
+        "items": [
+          "Active involvement",
+          "Deep meaning",
+          "Whole experience"
+        ],
+        "itemStartSeconds": [
+          0.391,
+          0.391,
+          2.26
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.367,
+          "text": "We bring these qualities together within the"
+        },
+        {
+          "startSeconds": 2.26,
+          "endSeconds": 4.205,
+          "text": "whole learner experience"
+        }
+      ]
+    },
+    {
+      "id": "scene-005-beat-04",
+      "sourceSceneId": "source-scene-005",
+      "startSeconds": 175.283,
+      "durationSeconds": 11.629,
+      "audioSrc": null,
+      "narration": "Our purpose is not to keep learners busy It is to support an enjoyable and impactful experience in which participation thought meaning and practice strengthen learning",
+      "section": "Scene 005",
+      "background": "dark",
+      "visual": {
+        "kind": "comparison",
+        "title": "Purposeful experience—not busy work",
+        "kicker": "The intention of ADLX",
+        "items": [
+          "Keeping busy",
+          "Activity alone",
+          "Enjoyable experience",
+          "Impactful learning"
+        ],
+        "itemStartSeconds": [
+          1.414,
+          1.414,
+          3.775,
+          4.823
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.165,
+          "text": "Our purpose is not to keep learners"
+        },
+        {
+          "startSeconds": 2.058,
+          "endSeconds": 4.653,
+          "text": "busy It is to support an enjoyable"
+        },
+        {
+          "startSeconds": 4.545,
+          "endSeconds": 8.63,
+          "text": "and impactful experience in which participation thought"
+        },
+        {
+          "startSeconds": 8.952,
+          "endSeconds": 11.629,
+          "text": "meaning and practice strengthen learning"
+        }
+      ]
+    },
+    {
+      "id": "scene-006-beat-01",
+      "sourceSceneId": "source-scene-006",
+      "startSeconds": 186.912,
+      "durationSeconds": 14.646,
+      "audioSrc": null,
+      "narration": "Notice the difference between activity and purposeful activity A learner may be moving speaking or completing a task but we still need to ask what thinking does this activity require and how does it support the intended learning",
+      "section": "Scene 006",
+      "background": "light",
+      "visual": {
+        "kind": "comparison",
+        "title": "Activity is not automatically purposeful",
+        "kicker": "Look beneath visible action",
+        "items": [
+          "Moving",
+          "Speaking",
+          "Completing a task",
+          "Thinking for learning"
+        ],
+        "itemStartSeconds": [
+          3.876,
+          4.47,
+          6.515,
+          9.558
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.088,
+          "endSeconds": 3.037,
+          "text": "Notice the difference between activity and purposeful"
+        },
+        {
+          "startSeconds": 2.917,
+          "endSeconds": 6.256,
+          "text": "activity A learner may be moving speaking"
+        },
+        {
+          "startSeconds": 6.364,
+          "endSeconds": 8.403,
+          "text": "or completing a task but we still"
+        },
+        {
+          "startSeconds": 8.283,
+          "endSeconds": 10.739,
+          "text": "need to ask what thinking does this"
+        },
+        {
+          "startSeconds": 10.619,
+          "endSeconds": 13.34,
+          "text": "activity require and how does it support"
+        },
+        {
+          "startSeconds": 13.232,
+          "endSeconds": 14.646,
+          "text": "the intended learning"
+        }
+      ]
+    },
+    {
+      "id": "scene-006-beat-02",
+      "sourceSceneId": "source-scene-006",
+      "startSeconds": 201.558,
+      "durationSeconds": 11.376,
+      "audioSrc": null,
+      "narration": "Through ROOTS we connect active involvement with deeper meaning Learners need opportunities to engage connect ideas review experience and recognize what they have learned",
+      "section": "Scene 006",
+      "background": "light",
+      "visual": {
+        "kind": "cycle",
+        "title": "Connect involvement with deeper meaning",
+        "kicker": "A coherent experience",
+        "items": [
+          "Engage",
+          "Connect ideas",
+          "Review experience",
+          "Recognize learning"
+        ],
+        "itemStartSeconds": [
+          4.874,
+          5.795,
+          8.194,
+          9.558
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.15,
+          "text": "Through ROOTS we connect active involvement with"
+        },
+        {
+          "startSeconds": 3.043,
+          "endSeconds": 6.698,
+          "text": "deeper meaning Learners need opportunities to engage"
+        },
+        {
+          "startSeconds": 6.78,
+          "endSeconds": 10.36,
+          "text": "connect ideas review experience and recognize what"
+        },
+        {
+          "startSeconds": 10.253,
+          "endSeconds": 11.376,
+          "text": "they have learned"
+        }
+      ]
+    },
+    {
+      "id": "scene-006-beat-03",
+      "sourceSceneId": "source-scene-006",
+      "startSeconds": 212.935,
+      "durationSeconds": 9.905,
+      "audioSrc": null,
+      "narration": "This is why we do not present ADLX as one technique We use it to consider the quality and coherence of the complete experience from the learner’s point of view",
+      "section": "Scene 006",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "ADLX examines the quality and coherence of the complete experience",
+        "kicker": "From the learner’s point of view"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 1.496,
+          "text": "This is why we do not present"
+        },
+        {
+          "startSeconds": 1.389,
+          "endSeconds": 4.691,
+          "text": "ADLX as one technique We use it"
+        },
+        {
+          "startSeconds": 4.571,
+          "endSeconds": 7.266,
+          "text": "to consider the quality and coherence of"
+        },
+        {
+          "startSeconds": 7.159,
+          "endSeconds": 9.287,
+          "text": "the complete experience from the learner’s point"
+        },
+        {
+          "startSeconds": 9.167,
+          "endSeconds": 9.905,
+          "text": "of view"
+        }
+      ]
+    },
+    {
+      "id": "scene-007-beat-01",
+      "sourceSceneId": "source-scene-007",
+      "startSeconds": 222.84,
+      "durationSeconds": 11.755,
+      "audioSrc": null,
+      "narration": "To support ADLX within ROOTS we use the FIRST Framework FIRST contains five connected domains and fifteen principles with three principles in each domain",
+      "section": "Scene 007",
+      "background": "dark",
+      "visual": {
+        "kind": "statement",
+        "title": "FIRST supports ADLX within ROOTS",
+        "kicker": "Five domains · Fifteen principles"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.101,
+          "endSeconds": 3.201,
+          "text": "To support ADLX within ROOTS we use"
+        },
+        {
+          "startSeconds": 3.081,
+          "endSeconds": 6.433,
+          "text": "the FIRST Framework FIRST contains five connected"
+        },
+        {
+          "startSeconds": 6.313,
+          "endSeconds": 10.309,
+          "text": "domains and fifteen principles with three principles"
+        },
+        {
+          "startSeconds": 10.417,
+          "endSeconds": 11.755,
+          "text": "in each domain"
+        }
+      ]
+    },
+    {
+      "id": "scene-007-beat-02",
+      "sourceSceneId": "source-scene-007",
+      "startSeconds": 234.595,
+      "durationSeconds": 17.715,
+      "audioSrc": null,
+      "narration": "F focuses on learner behaviour I focuses on interaction within positive group dynamics R focuses on reviewing activities through readiness activity and active review S focuses on sequencing learning T focuses on transforming learning into performance",
+      "section": "Scene 007",
+      "background": "dark",
+      "visual": {
+        "kind": "staircase",
+        "title": "The five connected FIRST domains",
+        "kicker": "F · I · R · S · T",
+        "items": [
+          "F · Learner behaviour",
+          "I · Positive interaction",
+          "R · Readiness, activity, review",
+          "S · Learning sequence",
+          "T · Performance"
+        ],
+        "itemStartSeconds": [
+          0.0,
+          2.096,
+          5.758,
+          11.414,
+          13.952
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.746,
+          "text": "F focuses on learner behaviour I focuses"
+        },
+        {
+          "startSeconds": 2.626,
+          "endSeconds": 5.979,
+          "text": "on interaction within positive group dynamics R"
+        },
+        {
+          "startSeconds": 5.859,
+          "endSeconds": 9.956,
+          "text": "focuses on reviewing activities through readiness activity"
+        },
+        {
+          "startSeconds": 10.076,
+          "endSeconds": 13.302,
+          "text": "and active review S focuses on sequencing"
+        },
+        {
+          "startSeconds": 13.182,
+          "endSeconds": 16.585,
+          "text": "learning T focuses on transforming learning into"
+        },
+        {
+          "startSeconds": 16.465,
+          "endSeconds": 17.715,
+          "text": "performance"
+        }
+      ]
+    },
+    {
+      "id": "scene-007-beat-03",
+      "sourceSceneId": "source-scene-007",
+      "startSeconds": 252.31,
+      "durationSeconds": 9.914,
+      "audioSrc": null,
+      "narration": "We do not treat these domains as separate classroom tricks We connect them as layers that guide how a learning experience is designed and facilitated",
+      "section": "Scene 007",
+      "background": "dark",
+      "visual": {
+        "kind": "cycle",
+        "title": "FIRST works as connected layers",
+        "kicker": "Not isolated techniques",
+        "items": [
+          "Not separate tricks",
+          "Connect the layers",
+          "Guide experience",
+          "Design and facilitate"
+        ],
+        "itemStartSeconds": [
+          0.997,
+          4.331,
+          5.997,
+          7.929
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.443,
+          "text": "We do not treat these domains as"
+        },
+        {
+          "startSeconds": 2.336,
+          "endSeconds": 5.398,
+          "text": "separate classroom tricks We connect them as"
+        },
+        {
+          "startSeconds": 5.278,
+          "endSeconds": 7.873,
+          "text": "layers that guide how a learning experience"
+        },
+        {
+          "startSeconds": 7.828,
+          "endSeconds": 9.914,
+          "text": "is designed and facilitated"
+        }
+      ]
+    },
+    {
+      "id": "scene-008-beat-01",
+      "sourceSceneId": "source-scene-008",
+      "startSeconds": 262.224,
+      "durationSeconds": 2.917,
+      "audioSrc": null,
+      "narration": "Here is how we use the framework in ROOTS",
+      "section": "Scene 008",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "Use FIRST as a complete framework",
+        "kicker": "From learners to performance"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.126,
+          "endSeconds": 1.913,
+          "text": "Here is how we use the framework"
+        },
+        {
+          "startSeconds": 1.856,
+          "endSeconds": 2.917,
+          "text": "in ROOTS"
+        }
+      ]
+    },
+    {
+      "id": "scene-008-beat-02",
+      "sourceSceneId": "source-scene-008",
+      "startSeconds": 265.141,
+      "durationSeconds": 26.616,
+      "audioSrc": null,
+      "narration": "We begin by understanding learners and the evidence in their behaviour We consider the conditions that shape interaction motivation and attention We prepare learners involve them in purposeful activity and help them review the experience actively We organize ideas and activities into a coherent sequence Finally we connect learning with reality practice continuity and performance",
+      "section": "Scene 008",
+      "background": "light",
+      "visual": {
+        "kind": "process",
+        "title": "Build the experience in a coherent sequence",
+        "kicker": "How ROOTS uses FIRST",
+        "items": [
+          "Understand learners",
+          "Shape conditions",
+          "Prepare, involve, review",
+          "Organize sequence",
+          "Connect to performance"
+        ],
+        "itemStartSeconds": [
+          0.694,
+          4.735,
+          9.419,
+          16.073,
+          20.568
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.393,
+          "text": "We begin by understanding learners and the"
+        },
+        {
+          "startSeconds": 2.374,
+          "endSeconds": 4.855,
+          "text": "evidence in their behaviour We consider the"
+        },
+        {
+          "startSeconds": 4.735,
+          "endSeconds": 9.148,
+          "text": "conditions that shape interaction motivation and attention"
+        },
+        {
+          "startSeconds": 9.419,
+          "endSeconds": 12.443,
+          "text": "We prepare learners involve them in purposeful"
+        },
+        {
+          "startSeconds": 12.323,
+          "endSeconds": 15.082,
+          "text": "activity and help them review the experience"
+        },
+        {
+          "startSeconds": 15.038,
+          "endSeconds": 18.921,
+          "text": "actively We organize ideas and activities into"
+        },
+        {
+          "startSeconds": 18.813,
+          "endSeconds": 22.33,
+          "text": "a coherent sequence Finally we connect learning"
+        },
+        {
+          "startSeconds": 22.21,
+          "endSeconds": 26.616,
+          "text": "with reality practice continuity and performance"
+        }
+      ]
+    },
+    {
+      "id": "scene-008-beat-03",
+      "sourceSceneId": "source-scene-008",
+      "startSeconds": 291.757,
+      "durationSeconds": 9.443,
+      "audioSrc": null,
+      "narration": "As we study each principle together keep the whole picture in mind FIRST supports the complete Active Deep Learner eXperience we seek to develop",
+      "section": "Scene 008",
+      "background": "light",
+      "visual": {
+        "kind": "cycle",
+        "title": "Keep the whole picture in mind",
+        "kicker": "FIRST supports ADLX",
+        "items": [
+          "FIRST principles",
+          "Complete experience",
+          "Active learning",
+          "Deep learning"
+        ],
+        "itemStartSeconds": [
+          0.884,
+          5.253,
+          5.947,
+          6.452
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.633,
+          "text": "As we study each principle together keep"
+        },
+        {
+          "startSeconds": 2.525,
+          "endSeconds": 5.208,
+          "text": "the whole picture in mind FIRST supports"
+        },
+        {
+          "startSeconds": 5.139,
+          "endSeconds": 7.86,
+          "text": "the complete Active Deep Learner eXperience we"
+        },
+        {
+          "startSeconds": 7.753,
+          "endSeconds": 9.443,
+          "text": "seek to develop"
+        }
+      ]
+    },
+    {
+      "id": "scene-009-beat-01",
+      "sourceSceneId": "source-scene-009",
+      "startSeconds": 301.2,
+      "durationSeconds": 9.293,
+      "audioSrc": null,
+      "narration": "Learning outcomes keep our work in ROOTS focused An outcome describes significant learning that learners can reliably demonstrate",
+      "section": "Scene 009",
+      "background": "dark",
+      "visual": {
+        "kind": "statement",
+        "title": "Learning outcomes keep ROOTS focused",
+        "kicker": "Significant learning"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.101,
+          "endSeconds": 2.734,
+          "text": "Learning outcomes keep our work in ROOTS"
+        },
+        {
+          "startSeconds": 2.614,
+          "endSeconds": 6.774,
+          "text": "focused An outcome describes significant learning that"
+        },
+        {
+          "startSeconds": 6.654,
+          "endSeconds": 9.293,
+          "text": "learners can reliably demonstrate"
+        }
+      ]
+    },
+    {
+      "id": "scene-009-beat-02",
+      "sourceSceneId": "source-scene-009",
+      "startSeconds": 310.493,
+      "durationSeconds": 8.838,
+      "audioSrc": null,
+      "narration": "It directs attention to what learners should know be able to do or be willing to demonstrate not simply to what the teacher intends to cover",
+      "section": "Scene 009",
+      "background": "dark",
+      "visual": {
+        "kind": "comparison",
+        "title": "Focus on what learners can demonstrate",
+        "kicker": "Outcome—not coverage",
+        "items": [
+          "Know",
+          "Be able to do",
+          "Be willing to demonstrate",
+          "Teacher coverage"
+        ],
+        "itemStartSeconds": [
+          1.452,
+          2.967,
+          4.318,
+          7.121
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.292,
+          "text": "It directs attention to what learners should"
+        },
+        {
+          "startSeconds": 2.172,
+          "endSeconds": 4.691,
+          "text": "know be able to do or be"
+        },
+        {
+          "startSeconds": 4.583,
+          "endSeconds": 7.153,
+          "text": "willing to demonstrate not simply to what"
+        },
+        {
+          "startSeconds": 7.033,
+          "endSeconds": 8.838,
+          "text": "the teacher intends to cover"
+        }
+      ]
+    },
+    {
+      "id": "scene-009-beat-03",
+      "sourceSceneId": "source-scene-009",
+      "startSeconds": 319.331,
+      "durationSeconds": 13.005,
+      "audioSrc": null,
+      "narration": "Assessment then provides evidence of what has been achieved and what may require further support We connect content teacher decisions learner activity and evaluation with the intended outcomes",
+      "section": "Scene 009",
+      "background": "dark",
+      "visual": {
+        "kind": "process",
+        "title": "Align the learning system",
+        "kicker": "Evidence supports decisions",
+        "items": [
+          "Assessment evidence",
+          "Content",
+          "Teacher decisions",
+          "Learner activity",
+          "Evaluation"
+        ],
+        "itemStartSeconds": [
+          0.0,
+          6.528,
+          6.944,
+          9.217,
+          10.442
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.1,
+          "text": "Assessment then provides evidence of what has"
+        },
+        {
+          "startSeconds": 2.98,
+          "endSeconds": 5.739,
+          "text": "been achieved and what may require further"
+        },
+        {
+          "startSeconds": 5.631,
+          "endSeconds": 9.678,
+          "text": "support We connect content teacher decisions learner"
+        },
+        {
+          "startSeconds": 9.558,
+          "endSeconds": 12.721,
+          "text": "activity and evaluation with the intended outcomes"
+        }
+      ]
+    },
+    {
+      "id": "scene-009-beat-04",
+      "sourceSceneId": "source-scene-009",
+      "startSeconds": 332.336,
+      "durationSeconds": 7.096,
+      "audioSrc": null,
+      "narration": "This alignment helps us judge learning through evidence instead of relying only on impressions or completed content",
+      "section": "Scene 009",
+      "background": "dark",
+      "visual": {
+        "kind": "comparison",
+        "title": "Judge learning through evidence",
+        "kicker": "Reliable decisions",
+        "items": [
+          "Evidence",
+          "Demonstrated learning",
+          "Impressions",
+          "Completed content"
+        ],
+        "itemStartSeconds": [
+          1.162,
+          1.162,
+          3.611,
+          5.745
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.405,
+          "text": "This alignment helps us judge learning through"
+        },
+        {
+          "startSeconds": 2.361,
+          "endSeconds": 5.511,
+          "text": "evidence instead of relying only on impressions"
+        },
+        {
+          "startSeconds": 5.631,
+          "endSeconds": 7.096,
+          "text": "or completed content"
+        }
+      ]
+    },
+    {
+      "id": "scene-010-beat-01",
+      "sourceSceneId": "source-scene-010",
+      "startSeconds": 339.432,
+      "durationSeconds": 4.987,
+      "audioSrc": null,
+      "narration": "We also connect ROOTS directly with four areas of teacher practice",
+      "section": "Scene 010",
+      "background": "light",
+      "visual": {
+        "kind": "statement",
+        "title": "ROOTS connects with four areas of teacher practice",
+        "kicker": "Framework into practice"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.088,
+          "endSeconds": 3.239,
+          "text": "We also connect ROOTS directly with four"
+        },
+        {
+          "startSeconds": 3.131,
+          "endSeconds": 4.987,
+          "text": "areas of teacher practice"
+        }
+      ]
+    },
+    {
+      "id": "scene-010-beat-02",
+      "sourceSceneId": "source-scene-010",
+      "startSeconds": 344.419,
+      "durationSeconds": 22.412,
+      "audioSrc": null,
+      "narration": "Learner eXperience Design or LXD concerns designing or redesigning learning through outcomes ADLX and FIRST Learner eXperience Facilitation or LXF concerns guiding that experience in practice Learner eXperience Coaching or LXC and Mentoring and Coaching or MnC",
+      "section": "Scene 010",
+      "background": "light",
+      "visual": {
+        "kind": "card-grid",
+        "title": "Four connected practice areas",
+        "kicker": "Design · Facilitate · Coach · Improve",
+        "items": [
+          "LXD · Experience design",
+          "LXF · Facilitation",
+          "LXC · Teacher coaching",
+          "MnC · Mentoring and coaching"
+        ],
+        "itemStartSeconds": [
+          0.0,
+          9.318,
+          15.922,
+          19.444
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 4.527,
+          "text": "Learner eXperience Design or LXD concerns designing"
+        },
+        {
+          "startSeconds": 4.482,
+          "endSeconds": 8.428,
+          "text": "or redesigning learning through outcomes ADLX and"
+        },
+        {
+          "startSeconds": 8.321,
+          "endSeconds": 13.592,
+          "text": "FIRST Learner eXperience Facilitation or LXF concerns"
+        },
+        {
+          "startSeconds": 13.485,
+          "endSeconds": 16.9,
+          "text": "guiding that experience in practice Learner eXperience"
+        },
+        {
+          "startSeconds": 16.78,
+          "endSeconds": 20.89,
+          "text": "Coaching or LXC and Mentoring and Coaching"
+        },
+        {
+          "startSeconds": 20.972,
+          "endSeconds": 22.412,
+          "text": "or MnC"
+        }
+      ]
+    },
+    {
+      "id": "scene-010-beat-03",
+      "sourceSceneId": "source-scene-010",
+      "startSeconds": 366.831,
+      "durationSeconds": 6.086,
+      "audioSrc": null,
+      "narration": "support listening questioning feedback feedforward reflection and improvement",
+      "section": "Scene 010",
+      "background": "light",
+      "visual": {
+        "kind": "checklist",
+        "title": "Coaching practices support improvement",
+        "kicker": "LXC and MnC",
+        "items": [
+          "Listening",
+          "Questioning",
+          "Feedback",
+          "Feedforward",
+          "Reflection",
+          "Improvement"
+        ],
+        "itemStartSeconds": [
+          0.0,
+          0.442,
+          1.2,
+          2.02,
+          2.891,
+          5.038
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 5.221,
+          "text": "support listening questioning feedback feedforward reflection and"
+        },
+        {
+          "startSeconds": 5.101,
+          "endSeconds": 6.086,
+          "text": "improvement"
+        }
+      ]
+    },
+    {
+      "id": "scene-010-beat-04",
+      "sourceSceneId": "source-scene-010",
+      "startSeconds": 372.917,
+      "durationSeconds": 9.523,
+      "audioSrc": null,
+      "narration": "Within ROOTS we address LXC and MnC at teacher application level We do not present them as professional coaching certification",
+      "section": "Scene 010",
+      "background": "light",
+      "visual": {
+        "kind": "comparison",
+        "title": "Teacher application—not certification",
+        "kicker": "Scope of ROOTS",
+        "items": [
+          "Teacher application",
+          "Classroom use",
+          "Professional coaching",
+          "Certification"
+        ],
+        "itemStartSeconds": [
+          3.902,
+          3.902,
+          7.323,
+          7.323
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.706,
+          "text": "Within ROOTS we address LXC and MnC"
+        },
+        {
+          "startSeconds": 3.599,
+          "endSeconds": 6.193,
+          "text": "at teacher application level We do not"
+        },
+        {
+          "startSeconds": 6.086,
+          "endSeconds": 9.523,
+          "text": "present them as professional coaching certification"
+        }
+      ]
+    },
+    {
+      "id": "scene-011-beat-01",
+      "sourceSceneId": "source-scene-011",
+      "startSeconds": 382.44,
+      "durationSeconds": 9.76,
+      "audioSrc": null,
+      "narration": "In ROOTS we connect your progress with evidence and the course outcomes Understanding will be checked through questions situations and reflection",
+      "section": "Scene 011",
+      "background": "dark",
+      "visual": {
+        "kind": "card-grid",
+        "title": "Understanding develops through evidence",
+        "kicker": "Course progress",
+        "items": [
+          "Questions",
+          "Situations",
+          "Reflection"
+        ],
+        "itemStartSeconds": [
+          6.124,
+          6.439,
+          8.636
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.088,
+          "endSeconds": 2.532,
+          "text": "In ROOTS we connect your progress with"
+        },
+        {
+          "startSeconds": 2.513,
+          "endSeconds": 5.739,
+          "text": "evidence and the course outcomes Understanding will"
+        },
+        {
+          "startSeconds": 5.619,
+          "endSeconds": 9.476,
+          "text": "be checked through questions situations and reflection"
+        }
+      ]
+    },
+    {
+      "id": "scene-011-beat-02",
+      "sourceSceneId": "source-scene-011",
+      "startSeconds": 392.2,
+      "durationSeconds": 11.982,
+      "audioSrc": null,
+      "narration": "Application will be shown by examining learning designing or redesigning an experience planning facilitation considering a teacher-level coaching case and reviewing evidence from practice",
+      "section": "Scene 011",
+      "background": "dark",
+      "visual": {
+        "kind": "process",
+        "title": "Show application through practice",
+        "kicker": "Evidence in action",
+        "items": [
+          "Examine learning",
+          "Design or redesign",
+          "Plan facilitation",
+          "Consider a coaching case",
+          "Review evidence"
+        ],
+        "itemStartSeconds": [
+          1.427,
+          2.778,
+          5.707,
+          7.273,
+          9.848
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.62,
+          "text": "Application will be shown by examining learning"
+        },
+        {
+          "startSeconds": 2.778,
+          "endSeconds": 7.014,
+          "text": "designing or redesigning an experience planning facilitation"
+        },
+        {
+          "startSeconds": 7.273,
+          "endSeconds": 10.486,
+          "text": "considering a teacher-level coaching case and reviewing"
+        },
+        {
+          "startSeconds": 10.379,
+          "endSeconds": 11.982,
+          "text": "evidence from practice"
+        }
+      ]
+    },
+    {
+      "id": "scene-011-beat-03",
+      "sourceSceneId": "source-scene-011",
+      "startSeconds": 404.182,
+      "durationSeconds": 11.452,
+      "audioSrc": null,
+      "narration": "We do not treat evaluation as a collection of disconnected tasks Each piece of evidence should relate to content we have already taught and to an outcome you are expected to achieve",
+      "section": "Scene 011",
+      "background": "dark",
+      "visual": {
+        "kind": "comparison",
+        "title": "Keep evaluation connected",
+        "kicker": "Meaningful evidence",
+        "items": [
+          "Disconnected tasks",
+          "Activity without purpose",
+          "Taught content",
+          "Expected outcome"
+        ],
+        "itemStartSeconds": [
+          1.982,
+          1.982,
+          6.982,
+          9.217
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.09,
+          "text": "We do not treat evaluation as a"
+        },
+        {
+          "startSeconds": 1.982,
+          "endSeconds": 5.259,
+          "text": "collection of disconnected tasks Each piece of"
+        },
+        {
+          "startSeconds": 5.253,
+          "endSeconds": 7.759,
+          "text": "evidence should relate to content we have"
+        },
+        {
+          "startSeconds": 7.689,
+          "endSeconds": 9.842,
+          "text": "already taught and to an outcome you"
+        },
+        {
+          "startSeconds": 9.722,
+          "endSeconds": 11.452,
+          "text": "are expected to achieve"
+        }
+      ]
+    },
+    {
+      "id": "scene-011-beat-04",
+      "sourceSceneId": "source-scene-011",
+      "startSeconds": 415.634,
+      "durationSeconds": 5.086,
+      "audioSrc": null,
+      "narration": "In this way evaluation remains a meaningful part of the learning journey",
+      "section": "Scene 011",
+      "background": "dark",
+      "visual": {
+        "kind": "outro",
+        "title": "Evaluation remains part of the learning journey",
+        "kicker": "Evidence with purpose"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.34,
+          "text": "In this way evaluation remains a meaningful"
+        },
+        {
+          "startSeconds": 3.232,
+          "endSeconds": 5.086,
+          "text": "part of the learning journey"
+        }
+      ]
+    },
+    {
+      "id": "scene-012-beat-01",
+      "sourceSceneId": "source-scene-012",
+      "startSeconds": 420.72,
+      "durationSeconds": 5.922,
+      "audioSrc": null,
+      "narration": "Let us close by returning to our opening question how do you know that learning has truly happened",
+      "section": "Scene 012",
+      "background": "light",
+      "visual": {
+        "kind": "question",
+        "title": "How do you know that learning has truly happened?",
+        "kicker": "Return to the opening question"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.088,
+          "endSeconds": 1.85,
+          "text": "Let us close by returning to our"
+        },
+        {
+          "startSeconds": 1.742,
+          "endSeconds": 4.021,
+          "text": "opening question how do you know that"
+        },
+        {
+          "startSeconds": 3.901,
+          "endSeconds": 5.922,
+          "text": "learning has truly happened"
+        }
+      ]
+    },
+    {
+      "id": "scene-012-beat-02",
+      "sourceSceneId": "source-scene-012",
+      "startSeconds": 426.642,
+      "durationSeconds": 4.798,
+      "audioSrc": null,
+      "narration": "In ROOTS we answer through the learner’s experience and through evidence",
+      "section": "Scene 012",
+      "background": "light",
+      "visual": {
+        "kind": "comparison",
+        "title": "Two lenses reveal learning",
+        "kicker": "Experience and evidence",
+        "items": [
+          "Learner experience",
+          "What learners encounter",
+          "Evidence",
+          "What learners demonstrate"
+        ],
+        "itemStartSeconds": [
+          1.806,
+          1.806,
+          3.409,
+          3.409
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.304,
+          "text": "In ROOTS we answer through the learner’s"
+        },
+        {
+          "startSeconds": 2.184,
+          "endSeconds": 4.798,
+          "text": "experience and through evidence"
+        }
+      ]
+    },
+    {
+      "id": "scene-012-beat-03",
+      "sourceSceneId": "source-scene-012",
+      "startSeconds": 431.44,
+      "durationSeconds": 8.598,
+      "audioSrc": null,
+      "narration": "ADLX describes an active and deep experience in which learners participate think connect practise and make meaning",
+      "section": "Scene 012",
+      "background": "light",
+      "visual": {
+        "kind": "cycle",
+        "title": "ADLX makes learning active and deep",
+        "kicker": "The learner experience",
+        "items": [
+          "Participate",
+          "Think",
+          "Connect",
+          "Practise",
+          "Make meaning"
+        ],
+        "itemStartSeconds": [
+          3.472,
+          3.838,
+          4.975,
+          5.606,
+          7.487
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.201,
+          "text": "ADLX describes an active and deep experience"
+        },
+        {
+          "startSeconds": 3.194,
+          "endSeconds": 7.216,
+          "text": "in which learners participate think connect practise"
+        },
+        {
+          "startSeconds": 7.374,
+          "endSeconds": 8.598,
+          "text": "and make meaning"
+        }
+      ]
+    },
+    {
+      "id": "scene-012-beat-04",
+      "sourceSceneId": "source-scene-012",
+      "startSeconds": 440.038,
+      "durationSeconds": 7.854,
+      "audioSrc": null,
+      "narration": "FIRST provides five connected domains and fifteen principles that help us design and facilitate that experience",
+      "section": "Scene 012",
+      "background": "light",
+      "visual": {
+        "kind": "card-grid",
+        "title": "FIRST helps design and facilitate the experience",
+        "kicker": "A connected framework",
+        "items": [
+          "Five connected domains",
+          "Fifteen principles",
+          "Design",
+          "Facilitate"
+        ],
+        "itemStartSeconds": [
+          0.72,
+          2.866,
+          4.343,
+          4.697
+        ]
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.58,
+          "text": "FIRST provides five connected domains and fifteen"
+        },
+        {
+          "startSeconds": 3.472,
+          "endSeconds": 6.61,
+          "text": "principles that help us design and facilitate"
+        },
+        {
+          "startSeconds": 6.503,
+          "endSeconds": 7.854,
+          "text": "that experience"
+        }
+      ]
+    },
+    {
+      "id": "scene-012-beat-05",
+      "sourceSceneId": "source-scene-012",
+      "startSeconds": 447.892,
+      "durationSeconds": 8.258,
+      "audioSrc": null,
+      "narration": "Before the next lesson choose one lesson you know well and ask what were my learners expected to experience do and demonstrate",
+      "section": "Scene 012",
+      "background": "light",
+      "visual": {
+        "kind": "question",
+        "title": "What were my learners expected to experience, do, and demonstrate?",
+        "kicker": "Reflection before Lesson 02"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 2.645,
+          "text": "Before the next lesson choose one lesson"
+        },
+        {
+          "startSeconds": 2.525,
+          "endSeconds": 4.653,
+          "text": "you know well and ask what were"
+        },
+        {
+          "startSeconds": 4.533,
+          "endSeconds": 7.279,
+          "text": "my learners expected to experience do and"
+        },
+        {
+          "startSeconds": 7.159,
+          "endSeconds": 8.258,
+          "text": "demonstrate"
+        }
+      ]
+    },
+    {
+      "id": "scene-012-beat-06",
+      "sourceSceneId": "source-scene-012",
+      "startSeconds": 456.149,
+      "durationSeconds": 4.723,
+      "audioSrc": null,
+      "narration": "Together we will next explore learner-centred teaching and the teacher’s role",
+      "section": "Scene 012",
+      "background": "light",
+      "visual": {
+        "kind": "outro",
+        "title": "Next: learner-centred teaching and the teacher’s role",
+        "kicker": "Continue the ROOTS journey"
+      },
+      "captions": [
+        {
+          "startSeconds": 0.0,
+          "endSeconds": 3.378,
+          "text": "Together we will next explore learner-centred teaching"
+        },
+        {
+          "startSeconds": 3.422,
+          "endSeconds": 4.723,
+          "text": "and the teacher’s role"
+        }
+      ]
+    }
+  ]
+}

@@ -1,47 +1,49 @@
 {
-  "courseId": "ACT",
-  "lessonLabelTemplate": "ACT · Lesson {lesson}",
+  "courseId": "ROOTS",
+  "lessonLabelTemplate": "ROOTS · Lesson {lesson}",
 
   "brand": {
     "watermarkLogo": "nama-logo-white.png",
-    "titleLogo": "nama-logo.png",
+    "watermarkLogoColored": "nama-logo.png",
+    "titleLogo": "roots-logo.png",
+    "watermarkStyle": "standard",
     "accentElement": "baseline"
   },
 
   "theme": {
     "colors": {
-      "navy": "#1B1E4A",
-      "deep": "#12142F",
-      "mid": "#2B2F72",
-      "surface": "#454C8A",
-      "accent": "#CFAD3A",
+      "navy": "#020181",
+      "deep": "#01005F",
+      "mid": "#25258F",
+      "surface": "#F7F7FB",
+      "accent": "#CDAC3B",
       "accentLight": "#E4C862",
-      "cream": "#FAF7EE",
-      "sand": "#F2ECDD",
-      "panel": "rgba(18,20,47,0.82)",
-      "panelEdge": "rgba(228,200,98,0.22)",
-      "inkDim": "rgba(242,236,221,0.72)",
-      "plumSafe": "#241738",
-      "tealSafe": "#14303C"
+      "cream": "#FFFFFF",
+      "sand": "#F4F1DF",
+      "panel": "rgba(255,255,255,0.92)",
+      "panelEdge": "rgba(2,1,129,0.18)",
+      "inkDim": "rgba(1,0,95,0.68)",
+      "plumSafe": "#EEEEFA",
+      "tealSafe": "#F7F2DF"
     },
-    "headingFamily": "\"Arial Black\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
-    "bodyFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
-    "headingWeight": 900,
-    "type": { "hero": 62, "title": 40, "cardTitle": 30, "body": 23, "label": 17 },
-    "radius": { "card": 22, "chip": 12, "video": 20 }
+    "headingFamily": "\"Inter\", \"Segoe UI\", Helvetica, Arial, sans-serif",
+    "bodyFamily": "\"Inter\", \"Segoe UI\", Helvetica, Arial, sans-serif",
+    "headingWeight": 700,
+    "type": { "hero": 58, "title": 38, "cardTitle": 28, "body": 22, "label": 16 },
+    "radius": { "card": 999, "chip": 999, "video": 24 }
   },
 
   "presenterGrammar": {
-    "fullBleedTarget": 0.45,
-    "splitWidthPct": 40,
+    "fullBleedTarget": 0.35,
+    "splitWidthPct": 30,
     "minTurnSeconds": 2.0,
     "requireSideAlternation": true,
     "requireFullBleedBetweenSides": true,
-    "softPushAmplitude": 0.07
+    "softPushAmplitude": 0.05
   },
 
   "transitions": {
-    "defaultTransition": "clean-cut",
-    "sectionTransition": "section-reveal"
+    "defaultTransition": "crossfade",
+    "sectionTransition": "dip-to-brand"
   }
 }

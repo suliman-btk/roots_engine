@@ -23,7 +23,7 @@ export function GoldBaseline({ height = 8 }: { height?: number }) {
   if (cfg.brand.accentElement === "none") return null;
 
   return (
-    <AbsoluteFill style={{ pointerEvents: "none" }}>
+    <AbsoluteFill style={{ pointerEvents: "none", zIndex: 100 }}>
       <div
         style={{
           position: "absolute",

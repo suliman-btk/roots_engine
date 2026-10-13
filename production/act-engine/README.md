@@ -1,5 +1,26 @@
 # ACT Video Engine
 
+## Avatar-free script mode
+
+The engine also supports an independent script-only workflow. It uses the PRIME course
+configuration, co-brand assets, light/navy visual language, captions, and
+render settings, but it does not load presenter footage or mount `PresenterLayer`.
+
+From the repository root, add a Markdown file under `video-scripts/` and run:
+
+```bash
+./generate-video video-scripts/my-video.md
+```
+
+This produces an automatically narrated review MP4. See `video-scripts/README.md` for
+the Markdown format, plan-only mode, and the approval-gated final render command.
+
+The script-only visual planner selects among animated process flows, alternating
+timelines, orbit cycles, comparison panels, card constellations, staircases, and
+checklists. It alternates PRIME light and deep-blue scenes and uses staggered reveals,
+drawn connectors, moving emphasis, word builds, and subtle ambient motion so consecutive
+ideas do not look or move alike.
+
 A provider-independent Remotion engine that turns a locked lesson script + real avatar
 footage into a finished lesson video, following `claude/video-engine-production-rules.md`
 (the project's standing rulebook — read that first).

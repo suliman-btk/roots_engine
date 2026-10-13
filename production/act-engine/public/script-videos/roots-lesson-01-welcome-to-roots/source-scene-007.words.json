@@ -1,0 +1,427 @@
+[
+  {
+    "text": "To",
+    "start": 0.101,
+    "end": 0.16412500000000002
+  },
+  {
+    "text": "support",
+    "start": 0.164125,
+    "end": 0.643916
+  },
+  {
+    "text": "ADLX",
+    "start": 0.808083,
+    "end": 1.4772910000000001
+  },
+  {
+    "text": "within",
+    "start": 1.489916,
+    "end": 1.919207
+  },
+  {
+    "text": "ROOTS",
+    "start": 1.931833,
+    "end": 2.424249
+  },
+  {
+    "text": "we",
+    "start": 2.6515,
+    "end": 2.82825
+  },
+  {
+    "text": "use",
+    "start": 2.828291,
+    "end": 3.080791
+  },
+  {
+    "text": "the",
+    "start": 3.080791,
+    "end": 3.169166
+  },
+  {
+    "text": "FIRST",
+    "start": 3.181833,
+    "end": 3.636374
+  },
+  {
+    "text": "Framework",
+    "start": 3.649,
+    "end": 4.267666
+  },
+  {
+    "text": "FIRST",
+    "start": 4.722208,
+    "end": 4.924208
+  },
+  {
+    "text": "contains",
+    "start": 4.92425,
+    "end": 5.378791
+  },
+  {
+    "text": "five",
+    "start": 5.391416,
+    "end": 5.833332
+  },
+  {
+    "text": "connected",
+    "start": 5.845958,
+    "end": 6.313124
+  },
+  {
+    "text": "domains",
+    "start": 6.313125,
+    "end": 7.121208
+  },
+  {
+    "text": "and",
+    "start": 7.260083,
+    "end": 7.436833
+  },
+  {
+    "text": "fifteen",
+    "start": 7.4495,
+    "end": 8.042916
+  },
+  {
+    "text": "principles",
+    "start": 8.042916,
+    "end": 8.661582
+  },
+  {
+    "text": "with",
+    "start": 9.053041,
+    "end": 9.217166
+  },
+  {
+    "text": "three",
+    "start": 9.217166,
+    "end": 9.570707
+  },
+  {
+    "text": "principles",
+    "start": 9.570708,
+    "end": 10.189373999999999
+  },
+  {
+    "text": "in",
+    "start": 10.416666,
+    "end": 10.542916
+  },
+  {
+    "text": "each",
+    "start": 10.643958,
+    "end": 10.845958
+  },
+  {
+    "text": "domain",
+    "start": 10.845958,
+    "end": 11.350999
+  },
+  {
+    "text": "F",
+    "start": 11.755041,
+    "end": 11.906541
+  },
+  {
+    "text": "focuses",
+    "start": 11.919208,
+    "end": 12.462124
+  },
+  {
+    "text": "on",
+    "start": 12.462125,
+    "end": 12.6515
+  },
+  {
+    "text": "learner",
+    "start": 12.6515,
+    "end": 12.878791
+  },
+  {
+    "text": "behaviour",
+    "start": 12.878791,
+    "end": 13.434332
+  },
+  {
+    "text": "I",
+    "start": 13.851,
+    "end": 13.9015
+  },
+  {
+    "text": "focuses",
+    "start": 13.914125,
+    "end": 14.381291000000001
+  },
+  {
+    "text": "on",
+    "start": 14.381333,
+    "end": 14.482333
+  },
+  {
+    "text": "interaction",
+    "start": 14.482333,
+    "end": 15.164166
+  },
+  {
+    "text": "within",
+    "start": 15.202,
+    "end": 15.530291
+  },
+  {
+    "text": "positive",
+    "start": 15.542916,
+    "end": 16.073207
+  },
+  {
+    "text": "group",
+    "start": 16.07325,
+    "end": 16.325750000000003
+  },
+  {
+    "text": "dynamics",
+    "start": 16.32575,
+    "end": 17.108583
+  },
+  {
+    "text": "R",
+    "start": 17.512625,
+    "end": 17.613625
+  },
+  {
+    "text": "focuses",
+    "start": 17.613625,
+    "end": 18.131290999999997
+  },
+  {
+    "text": "on",
+    "start": 18.131333,
+    "end": 18.244958
+  },
+  {
+    "text": "reviewing",
+    "start": 18.244958,
+    "end": 18.623749
+  },
+  {
+    "text": "activities",
+    "start": 18.62375,
+    "end": 19.393958
+  },
+  {
+    "text": "through",
+    "start": 19.532833,
+    "end": 19.810624
+  },
+  {
+    "text": "readiness",
+    "start": 19.810625,
+    "end": 20.479833000000003
+  },
+  {
+    "text": "activity",
+    "start": 20.921708,
+    "end": 21.590916
+  },
+  {
+    "text": "and",
+    "start": 21.830791,
+    "end": 22.045457000000003
+  },
+  {
+    "text": "active",
+    "start": 22.058083,
+    "end": 22.386374
+  },
+  {
+    "text": "review",
+    "start": 22.386375,
+    "end": 22.752541
+  },
+  {
+    "text": "S",
+    "start": 23.169208,
+    "end": 23.308083
+  },
+  {
+    "text": "focuses",
+    "start": 23.308083,
+    "end": 23.850999
+  },
+  {
+    "text": "on",
+    "start": 23.863625,
+    "end": 24.141416
+  },
+  {
+    "text": "sequencing",
+    "start": 24.267666,
+    "end": 24.936874
+  },
+  {
+    "text": "learning",
+    "start": 24.936875,
+    "end": 25.303041
+  },
+  {
+    "text": "T",
+    "start": 25.707083,
+    "end": 25.871208
+  },
+  {
+    "text": "focuses",
+    "start": 25.871208,
+    "end": 26.401498999999998
+  },
+  {
+    "text": "on",
+    "start": 26.414125,
+    "end": 26.565624999999997
+  },
+  {
+    "text": "transforming",
+    "start": 26.578291,
+    "end": 27.411624
+  },
+  {
+    "text": "learning",
+    "start": 27.411625,
+    "end": 27.916666
+  },
+  {
+    "text": "into",
+    "start": 28.030291,
+    "end": 28.219665999999997
+  },
+  {
+    "text": "performance",
+    "start": 28.219708,
+    "end": 29.053041
+  },
+  {
+    "text": "We",
+    "start": 29.469708,
+    "end": 29.545458
+  },
+  {
+    "text": "do",
+    "start": 29.545458,
+    "end": 29.633833
+  },
+  {
+    "text": "not",
+    "start": 29.633833,
+    "end": 29.861124
+  },
+  {
+    "text": "treat",
+    "start": 29.861125,
+    "end": 30.227291
+  },
+  {
+    "text": "these",
+    "start": 30.239916,
+    "end": 30.467166000000002
+  },
+  {
+    "text": "domains",
+    "start": 30.467166,
+    "end": 31.275249
+  },
+  {
+    "text": "as",
+    "start": 31.565666,
+    "end": 31.792957
+  },
+  {
+    "text": "separate",
+    "start": 31.805541,
+    "end": 32.260082000000004
+  },
+  {
+    "text": "classroom",
+    "start": 32.272708,
+    "end": 32.727249
+  },
+  {
+    "text": "tricks",
+    "start": 32.739916,
+    "end": 33.295457
+  },
+  {
+    "text": "We",
+    "start": 33.6995,
+    "end": 33.8005
+  },
+  {
+    "text": "connect",
+    "start": 33.8005,
+    "end": 34.166666
+  },
+  {
+    "text": "them",
+    "start": 34.166666,
+    "end": 34.431832
+  },
+  {
+    "text": "as",
+    "start": 34.583333,
+    "end": 34.747458
+  },
+  {
+    "text": "layers",
+    "start": 34.747458,
+    "end": 35.189374
+  },
+  {
+    "text": "that",
+    "start": 35.189375,
+    "end": 35.366125
+  },
+  {
+    "text": "guide",
+    "start": 35.467166,
+    "end": 35.871207
+  },
+  {
+    "text": "how",
+    "start": 35.883833,
+    "end": 36.047958
+  },
+  {
+    "text": "a",
+    "start": 36.048,
+    "end": 36.0985
+  },
+  {
+    "text": "learning",
+    "start": 36.0985,
+    "end": 36.489916
+  },
+  {
+    "text": "experience",
+    "start": 36.502541,
+    "end": 37.222249
+  },
+  {
+    "text": "is",
+    "start": 37.298,
+    "end": 37.399
+  },
+  {
+    "text": "designed",
+    "start": 37.399,
+    "end": 38.055583
+  },
+  {
+    "text": "and",
+    "start": 38.068166,
+    "end": 38.143916
+  },
+  {
+    "text": "facilitated",
+    "start": 38.156583,
+    "end": 38.964666
+  }
+]

@@ -1,0 +1,99 @@
+{
+  "scene-001": {
+    "kind": "title",
+    "title": "Welcome to ROOTS",
+    "kicker": "Lesson 01"
+  },
+  "scene-002": {
+    "kind": "statement",
+    "title": "An individual journey, connected to your teaching practice",
+    "kicker": "Your course journey"
+  },
+  "scene-003": {
+    "kind": "card-grid",
+    "title": "Learning can happen anywhere",
+    "kicker": "The learner experience",
+    "items": ["Classroom", "School", "Outdoor setting", "Digital environment", "Anywhere learning occurs"]
+  },
+  "scene-004": {
+    "kind": "comparison",
+    "title": "The learner-centred shift",
+    "kicker": "From coverage to evidence",
+    "items": ["Content to cover", "Teacher activity", "Understanding to demonstrate", "Learner participation"]
+  },
+  "scene-005": {
+    "kind": "cycle",
+    "title": "Active Deep Learner eXperience",
+    "kicker": "ADLX",
+    "items": ["Do", "Think", "Connect", "Make meaning", "Practise", "Transfer"]
+  },
+  "scene-006": {
+    "kind": "staircase",
+    "title": "FIRST works as connected layers",
+    "kicker": "Five domains · Fifteen principles",
+    "items": ["Learner behaviour", "Positive group dynamics", "Readiness and review", "Learning sequence", "Performance"]
+  },
+  "scene-007": {
+    "kind": "timeline",
+    "title": "The seven-unit ROOTS journey",
+    "kicker": "25 lessons",
+    "items": ["Unit 1 · Foundations", "Units 2–6 · FIRST domains", "Unit 7 · Teacher practice"]
+  },
+  "scene-008": {
+    "kind": "card-grid",
+    "title": "Four ways the framework meets practice",
+    "kicker": "Design · Facilitate · Coach · Improve",
+    "items": ["LXD · Experience design", "LXF · Facilitation", "LXC · Teacher-level coaching", "MnC · Reflection and improvement"]
+  },
+  "scene-009": {
+    "kind": "process",
+    "title": "Course outcomes in action",
+    "kicker": "From understanding to improvement",
+    "items": ["Explain ADLX", "Connect FIRST", "Design with LXD", "Facilitate and coach", "Review evidence"]
+  },
+  "scene-010": {
+    "kind": "timeline",
+    "title": "Evidence develops gradually",
+    "kicker": "Build your practice portfolio",
+    "items": ["Short checks", "Individual reflection", "LXD artifact", "LXF application", "Coaching case", "Portfolio and action plan"]
+  },
+  "scene-011": {
+    "kind": "checklist",
+    "title": "Configuration details to approve separately",
+    "kicker": "LMS decisions",
+    "items": ["Passing score", "Number of attempts", "Assessor role", "Certificate wording", "Recording requirement"]
+  },
+  "scene-012": {
+    "kind": "comparison",
+    "title": "A self-paced individual experience",
+    "kicker": "How you will participate",
+    "items": ["No mandatory online groups", "No required paired tasks", "Private reflection and checks", "Scenarios, design, and classroom application"]
+  },
+  "scene-013": {
+    "kind": "statement",
+    "title": "Preserve the ROOTS purpose in an individual online journey",
+    "kicker": "Learning by design"
+  },
+  "scene-014": {
+    "kind": "question",
+    "title": "What does the evidence show about the learner experience?",
+    "kicker": "Reflect on practice"
+  },
+  "scene-015": {
+    "kind": "process",
+    "title": "Strengthen practice gradually",
+    "kicker": "One connected step at a time",
+    "items": ["Understand each principle", "Connect the domains", "Examine the experience", "Strengthen your context"]
+  },
+  "scene-016": {
+    "kind": "cycle",
+    "title": "ROOTS connects framework with practice",
+    "kicker": "The complete learner experience",
+    "items": ["ADLX", "FIRST", "LXD", "LXF", "LXC", "MnC"]
+  },
+  "scene-017": {
+    "kind": "outro",
+    "title": "Continue to learner-centred teaching and the teacher’s role",
+    "kicker": "Next lesson"
+  }
+}

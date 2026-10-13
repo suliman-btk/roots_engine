@@ -16,21 +16,36 @@ import { useBrand } from "../course/CourseContext";
  * The logo filename is read from the course config (`brand.watermarkLogo`), so different
  * courses can use different logos without editing engine code.
  */
-export function BrandWatermark({ size = 150, opacity = 0.88 }: { size?: number; opacity?: number }) {
+export function BrandWatermark({
+  size = 138,
+  opacity = 0.98,
+  variant = "auto",
+}: {
+  size?: number;
+  opacity?: number;
+  variant?: "auto" | "light" | "dark";
+}) {
   const brand = useBrand();
+  const useColored = variant === "light";
+  const logoFile = useColored ? brand.watermarkLogoColored ?? brand.watermarkLogo : brand.watermarkLogo;
+  const wideCard = brand.watermarkStyle === "wide-card";
   return (
-    <AbsoluteFill style={{ pointerEvents: "none" }}>
+    <AbsoluteFill style={{ pointerEvents: "none", zIndex: 100 }}>
       <div
         style={{
           position: "absolute",
-          top: 46,
-          right: 74,
-          width: size,
+          top: wideCard ? 24 : 34,
+          right: wideCard ? 38 : 52,
+          width: wideCard ? Math.max(size, 260) : size,
           opacity,
-          filter: "drop-shadow(0 6px 20px rgba(0,0,0,0.55))",
+          padding: wideCard ? "10px 14px" : 0,
+          borderRadius: wideCard ? 14 : 0,
+          background: wideCard ? "rgba(255,255,255,0.96)" : "transparent",
+          boxShadow: wideCard ? "0 8px 28px rgba(0,0,0,0.14)" : "none",
+          filter: wideCard ? "none" : useColored ? "drop-shadow(0 2px 6px rgba(0,0,0,0.06))" : "drop-shadow(0 6px 20px rgba(0,0,0,0.65))",
         }}
       >
-        <Img src={staticFile(`brand/${brand.watermarkLogo}`)} style={{ width: "100%", display: "block" }} />
+        <Img src={staticFile(`brand/${logoFile}`)} style={{ width: "100%", display: "block" }} />
       </div>
     </AbsoluteFill>
   );

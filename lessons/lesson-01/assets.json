@@ -1,101 +1,38 @@
-[
-  {
-    "id": "act-logo",
-    "file": "act-logo.png",
-    "width": 660,
-    "height": 320,
-    "source": "ACT Curriculum PowerPoint",
-    "license": null,
-    "credit": "Reads 'ACT — Attitude Cultivates Transformation, a Global Initiative by NAMA Foundation'. Confirms the acronym's meaning for content-notes.md."
-  },
-  {
-    "id": "org-logo-nama",
-    "file": "org-logo-nama.jpg",
-    "width": 859,
-    "height": 618,
-    "source": null,
-    "license": null,
-    "credit": null
-  },
-  {
-    "id": "org-logo-nice",
-    "file": "org-logo-nice.jpg",
-    "width": 490,
-    "height": 479,
-    "source": null,
-    "license": null,
-    "credit": null
-  },
-  {
-    "id": "org-logo-ghadan",
-    "file": "org-logo-ghadan.png",
-    "width": 512,
-    "height": 512,
-    "source": null,
-    "license": null,
-    "credit": null
-  },
-  {
-    "id": "scenario-plane",
-    "file": "scenario-plane.jpg",
-    "width": 1920,
-    "height": 1080,
-    "source": "ACT Curriculum PowerPoint",
-    "license": null,
-    "credit": "Photo of a commercial airplane in flight, matching scenario 1 (plane malfunction / parachute)."
-  },
-  {
-    "id": "scenario-sharks",
-    "file": "scenario-sharks.jpg",
-    "width": 1200,
-    "height": 800,
-    "source": "ACT Curriculum PowerPoint",
-    "license": null,
-    "credit": "Photo of a diver near a shark underwater, matching scenario 2."
-  },
-  {
-    "id": "scenario-crowd",
-    "file": "scenario-crowd.jpg",
-    "width": 1170,
-    "height": 612,
-    "source": "ACT Curriculum PowerPoint",
-    "license": null,
-    "credit": "Photo of a large, packed stadium crowd, matching scenario 3 (speak in front of 700 people) / the story-version's '100,000 islanders' moment. See assumption note on scenario-food. Also reused for scene-047 (post-video reflection)."
-  },
-  {
-    "id": "scenario-food",
-    "file": "scenario-food.jpg",
-    "width": 771,
-    "height": 416,
-    "source": "ACT Curriculum PowerPoint",
-    "license": null,
-    "credit": "Photo of a spread of unfamiliar dishes, matching scenario 4 (strange meal). Assumption made: the slide's physical order (26 shark, 27 food, 28 crowd, 29 scales) follows the alternate 'continuous story' version's sequence rather than the five printed Q&A questions' order; each photo has been assigned to the scenario it visually matches regardless of slide position. This is a documented assumption, not a confirmed mapping — flag to the curriculum owner if a different pairing was intended, but it did not block production."
-  },
-  {
-    "id": "scenario-scales",
-    "file": "scenario-scales.png",
-    "width": 516,
-    "height": 341,
-    "source": "ACT Curriculum PowerPoint",
-    "license": null,
-    "credit": "Scales-of-justice icon, matching scenario 5 (voicing an opinion in front of decision-makers / the story-version's fairness committee)."
-  },
-  {
-    "id": "stadium-crowd-visual",
-    "file": "scenario-crowd.jpg",
-    "width": 1170,
-    "height": 612,
-    "source": null,
-    "license": null,
-    "credit": null
-  },
-  {
-    "id": "stock-summit",
-    "file": "stock-summit.jpg",
-    "width": 1024,
-    "height": 768,
-    "source": null,
-    "license": null,
-    "credit": null
-  }
-]
+{
+  "lesson": "ROOTS Lesson 01",
+  "assets": [
+    {
+      "id": "roots-course-logo",
+      "file": "../../production/act-engine/public/brand/roots-logo.png",
+      "source": "User-supplied image attachment",
+      "license": "Provided by the user for this ROOTS course video",
+      "credit": "Global Initiative by NAMA Foundation",
+      "sha256": "a2d8bb3bc04a33bfbbb946184087238ac869da9e2239af5e1d6bd7e1cd00c42e",
+      "width": 844,
+      "height": 360,
+      "usage": ["title card", "persistent course watermark"]
+    },
+    {
+      "id": "nama-corner-logo-light-background",
+      "file": "../../production/act-engine/public/brand/nama-logo.png",
+      "source": "Existing official repository brand asset",
+      "license": "Official NAMA Foundation course branding",
+      "credit": "NAMA Foundation",
+      "sha256": "46c929a6ee1b9e9552ba1dcb6071a776ecc86738fa58bd099b4d7a71083f5422",
+      "width": 471,
+      "height": 470,
+      "usage": ["persistent top-right logo on light backgrounds"]
+    },
+    {
+      "id": "nama-corner-logo-dark-background",
+      "file": "../../production/act-engine/public/brand/nama-logo-white.png",
+      "source": "Existing official repository brand asset",
+      "license": "Official NAMA Foundation course branding",
+      "credit": "NAMA Foundation",
+      "sha256": "d59b74cb38488f391acc853eced1e009d7cf2e8559616e64fe206acadb770a0d",
+      "width": 471,
+      "height": 470,
+      "usage": ["persistent top-right logo on dark backgrounds"]
+    }
+  ]
+}

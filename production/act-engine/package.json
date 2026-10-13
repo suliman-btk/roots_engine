@@ -11,14 +11,17 @@
     "check": "tsc -p tsconfig.check.json && node .check/scripts/check-lesson.js",
     "word-timing": "node scripts/build-word-timing.mjs",
     "stage-assets": "node scripts/stage-lesson-assets.mjs",
-    "stills": "node render-all-stills.mjs"
+    "stills": "node render-all-stills.mjs",
+    "script-video-stills": "node render-script-video-stills.mjs",
+    "script-video": "python3 ../scripts/build_script_video.py",
+    "render-script-video": "remotion render src/index.ts ScriptVideo"
   },
   "dependencies": {
     "@remotion/cli": "4.0.521",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "remotion": "4.0.521",
-    "zod": "^4.5.4"
+    "zod": "4.5.4"
   },
   "devDependencies": {
     "@types/react": "18.3.1",

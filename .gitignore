@@ -46,3 +46,6 @@ _golden/*/assets/scene-renders/
 production/remotion-engine/public/lessons/
 production/remotion-engine/src/data/render-manifest.json
 lessons/*/presenter/
+
+# Script-video QA frame dumps are regenerable; retain selected contact sheets.
+lessons/*/qa/scene-stills*/
